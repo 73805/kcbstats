@@ -1,0 +1,29 @@
+<div class="data-bar-container {{parent}} {{context}}">
+	<div class="data-bar">
+		<div *ngFor="let obj of objList; let i = index" class="data-cell cell-{{i+1}}">
+			<span class="desc">{{obj.desc}}</span>
+			
+			<!-- object type cases -->
+			<div *ngIf="obj.type == 'text'" class="inner">
+				<p>{{obj.data}}</p>
+			</div>
+
+			<div *ngIf="obj.type == 'int'" class="inner">
+				<p>{{obj.data | number:'1.0-0'}}</p>
+			</div>
+
+			<div *ngIf="obj.type == 'dec'" class="inner">
+				<p>{{obj.data | number:'1.0-2'}}</p>
+			</div>
+
+			<div *ngIf="obj.type == 'dollars'" class="inner">
+				<p>{{obj.data | currency:'USD':true:'1.0-0'}}</p>
+			</div>
+
+			<div *ngIf="obj.type == 'icon'" class="inner icon">
+				<p><i class="fa {{obj.data}}" aria-hidden="true"></i></p>
+			</div>
+
+		</div>
+	</div>
+</div>

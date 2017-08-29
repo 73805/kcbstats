@@ -1,0 +1,86 @@
+<div class="content-container about fullwide">
+	<div class="detail-head page-theme">
+
+		<div class="title" *ngIf="data.barData">
+
+			<h1 class="section-pad">About</h1>
+
+		</div>
+		<div class="title" *ngIf="!data.barData">
+
+			<h1 class="section-pad">Loading...</h1>
+
+		</div>
+
+	</div>
+	<div class="detail-body">
+		<div class="detail-body-header">
+
+			<!-- title squares -->
+			<div class="title-square-container">
+				<div class="title-square data">
+					<div class="inner">
+						<p>100+</p>
+					</div>
+					<div class="desc">hours</div>
+				</div>
+				<a class="title-square flag" [routerLink]="'/states'">
+					<div class="inner">
+						<p>All<br>States</p>
+					</div>
+				</a>
+			</div>
+
+			<!-- data bar -->
+			<data-bar *ngIf="data.barData" 
+				[objList]="data.barData" 
+				[parent]="'about'"
+				[context]="'fullwide'">
+			</data-bar>
+		</div>
+	</div>
+	<article>
+		<section>
+			<h2>Data Context</h2>
+
+			<h3>Barbeque Judging</h3>
+			<p>A standard Kansas City Barbeque Society (KCBS) competition consists of four rounds/categories: chicken, pork ribs, pork, and brisket. Judges are divided into tables of six with a blend of experience levels at each table to help balance table biases. In each round of judging, a judge samples entries from six different teams. Judging is blind, and no team is judged by the same table twice to help mitigate any table of death/table of angels effect.</p>
+
+			<h3>Scoring</h3>
+			<p>An entry is scored on three dimensions: appearance, taste and texture. Nine is 'excellent', eight is 'very good', seven is 'above average', six is 'average', five is 'below-average' and the list goes on. A one is a penalty, and can only be given after consulting a KCBS rep. A team's final score in a single category is calculated by a sum of weighted judge scores with the lowest one thrown away. A team's overall score is (typically) the sum of their four category scores. Unweighted judge scores can be used to break ties, and if there is still a tie, the lowest score is brought back into the equation.</p>
+			<br>
+			<h4>Score Weighting</h4>
+			<p class="math">(appearance &#215; .56) + (taste &#215; 2.2972) + (tenderness &#215; 1.1428)</p>
+		
+			<h4>Maximum Single Judge Score:</h4>
+			<p class="math">4 weight &#215; 9 points = 36</p>
+
+			<h4>Maximum Category Score:</h4>
+			<p class="math">5 judges &#215; 36 points = 180</p>
+
+			<h4>Maximum Overall Score:</h4>
+			<p class="math">4 categories &#215; 180 points = 720</p>
+		</section>
+
+		<section>
+			<h2>Project Details</h2>
+
+			<h3>Competitions and Teams</h3>
+			<p>This website was built to showcase the KCBS's competition records. I scraped all the competition data from the <a href="https://www.kcbs.us/events">KCBS event pages</a> using Python (Pandas, Beautiful Soup and Selenium), and kept the contests that met the following criteria:</p>
+			<ul>
+				<li>Hosted in one of the 50 U.S. States</li>
+				<li>Occurred after the scoring changes of July 13, 2013</li>
+				<li>Was not canceled (has at least one result)</li>
+			</ul>
+			<p>The competition data set forms the basis for the state and team profiles showed on this site. A team only appears if they have at least one 'overall' finish across the set of competitions. Teams are only identified by their unique names which may cause some inaccuracies due to misspellings etc. Ultimately, a team is composed of individuals, but the KCBS team pages are too sparse to support a more thorough approach.</p>
+
+			<h3>Scores</h3>
+			<p>KCBS Competition results include category level scores (ie chicken: 165) and aggregated overall scores. The scores associated with teams and competitions on this website are limited to the four standard categories (chicken, ribs, pork and brisket). Overall scores are typically a sum of these categories, but some competitions include exotic categories in their overall score sums. I made an effort to ignore these competitions while calculating team overall averages.</p>
+
+			<h3>The Website</h3>
+			<p>I built this site as an Angular 2 (4?) learning experience. I chose Firebase for database and hosting services because it was easy to integrate with Angular.</p>
+			<p>Design is always a challenge. The hard-bordered style of this site was probably a result of my wire-framing with pen on graph paper. Colors and typography were lifted from the <a href="https://standards.usa.gov/components/typography/" target="_blank">U.S. Web Design Standards</a> which I had been looking for an opportunity to use.</p>
+			<p>If you have any questions or comments feel free to shoot me an email. My address is linked to the 'reply' icon on the bottom right of the page.</p>
+		</section>
+	</article>
+</div>

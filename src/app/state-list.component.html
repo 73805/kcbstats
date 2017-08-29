@@ -1,0 +1,10 @@
+<div *ngIf="states" class="content-container">
+	<div *ngFor="let state of states" class="state" [ngClass]="{'exists': state.exists}">
+		<div class="inner" *ngIf="!state.exists">
+			<span>{{state.$key}}</span>
+		</div>
+		<a class="inner" [ngClass]="state.region | lowercase" *ngIf="state.exists" [routerLink]="['/state', state.$key]">
+			<span>{{state.$key}}</span>
+		</a>
+	</div>
+</div>

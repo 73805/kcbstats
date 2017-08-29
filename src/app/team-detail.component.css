@@ -1,0 +1,86 @@
+.page-theme{background:#653AC2;}
+.title h1{
+	font-size:76px;
+	/*clamp to 3 lines*/
+	line-height: 90px;
+	max-height: 284px;
+	padding-top:7px;
+	padding-bottom:7px;
+}
+/* side table configurations */
+.side-table .row .cell.date{width:105px;}
+.side-table .row .cell.state{width:85px;}
+.side-table .row .cell.clicky{
+	width:calc(100% - 190px);
+	text-align:left;
+	padding:0;
+}
+.cell.clicky > a:after{
+	border-color: #0071bc;
+}
+@media screen and (max-width: 1650px){
+	.title h1{
+		font-size: 56px;
+		line-height: 65px;
+		max-height: 271px;
+	}
+	.title-square .inner{
+		font-size: 66px;
+	}
+}
+@media screen and (max-width: 1600px){
+	.title h1{
+		font-size: 46px;
+		line-height: 56px;
+		max-height: 177px;
+		padding-bottom:3px;
+	}
+	.title-square .inner{
+		font-size: 58px;
+	}
+}
+@media screen and (max-width:1250px){
+	.side-table .row.header{
+		background:#0071bc;
+	}
+}
+@media screen and (max-width: 880px){
+	.title h1{
+		padding-top:2px;
+	}
+}
+@media screen and (max-width: 600px){
+	.title h1{
+		font-size: 40px;
+		line-height: 48px;
+		max-height: 148px;
+	}
+}
+/* mobile table style (match state) */
+@media screen and (max-width: 550px){
+	.side-table .row .cell.date{
+		width:95px;
+	}
+	.side-table .row .cell.clicky{
+		width:calc(100% - 95px);
+	}
+	.side-table .row.header{
+		background:#0071bc;
+	}
+	.side-table .row .cell.state{
+		display:none!important;
+	}
+	.side-table .row{
+		-webkit-box-orient:horizontal;
+		-webkit-box-direction:normal;
+		    -ms-flex-direction:row;
+		        flex-direction:row;
+	}
+	.team-detail .cell.clicky > a:after{
+		width: calc(100% - 90px);
+		background:#0071bc;
+	}
+	.team-detail .cell.clicky > a:hover:after{
+		width: calc(100% - 90px);
+	}
+}

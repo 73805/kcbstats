@@ -1,0 +1,204 @@
+.place-1{
+	background:#FDB81E;
+}
+.place-2{
+	background:#b7b7b7;
+}
+.place-3{
+	background:#a5780b;
+}
+.side-table{
+	width:600px;
+	position:absolute;
+	top:-120px;
+	height:calc(100% + 60px);
+	max-height:calc(100% + 60px);
+	overflow-y:hidden;
+	border-top:2px solid black;
+}
+.scroll-inner{
+	overflow-y:scroll;
+	max-height:calc(100% - 58px);
+	border-bottom:2px solid black;
+}
+.side-table,
+.sidebarred .visuals{
+	display:inline-block;
+	font-size:initial;
+	vertical-align:top;
+}
+.sidebarred .visuals{
+	width:calc(100% - 600px);
+}
+/* Side table inner styles*/
+.side-table .row{
+	height:60px;
+	line-height:60px;
+	border-bottom:2px solid black;
+	font-size:0;
+	background:white;
+}
+.side-table .row.header{
+	padding-right:15px;
+	height:58px;
+}
+.side-table .row:last-child{
+	border-bottom:none;
+}
+.side-table  .cell{
+	display:inline-block;
+	border-left:2px solid black;
+	overflow:hidden;
+	text-align:center;
+	height:100%;
+	font-weight:400;
+}
+.side-table .row.header .cell{
+	border:none;
+	font-weight:700;
+}
+.side-table .row.header .cell:nth-child(1){
+	border-left:2px solid black;
+}
+.side-table .cell > a,
+.side-table .cell > span{
+	display:block;
+	height:100%;
+	width:100%;
+	line-height:57px;
+	font-size:22px;
+	white-space:nowrap;
+}
+.cell.clicky > a,
+.cell.clicky > span{
+	padding-left:15px;
+	position:relative;
+	-webkit-transition:all .15s ease-in-out;
+	transition: all .15s ease-in-out;
+}
+.cell.clicky > a > span{
+	display:block;
+}
+.cell.clicky > a:before{
+	content:"";
+	width: 40px;
+	height: 100%;
+	position:absolute;
+	bottom:0;
+	right:2px;
+	pointer-events:none;
+	z-index:4;
+	/*fade to white rightward*/
+	background: -webkit-gradient(linear, left top, right top, from(rgba(255,255,255,0)), color-stop(80%, rgba(255,255,255,1)));
+	background: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1) 80%);
+}
+.cell.clicky > a:after{
+	content:"";
+	width: calc(100% - 4px);
+	height: calc(100% - 4px);
+	position:absolute;
+	bottom:0;
+	right:0;
+	pointer-events:none;
+	z-index:5;
+	-webkit-transition:all .15s ease-in-out;
+	transition:all .15s ease-in-out;
+	border-width:2px;
+	border-style:solid;
+	/* implement color separately */
+}
+.cell.clicky > a:hover:after{
+	width: calc(100% - 12px);
+	height: calc(100% - 12px);
+	border-width:6px;
+}
+@media screen and (max-width: 1250px){
+	.side-table .row.header .cell:nth-child(1){
+		border-left:none;
+	}
+	.sidebarred .visuals,
+	.side-table{
+		width:100%;
+		min-height:unset;
+	}
+	.side-table{
+		position:static;
+		height:380px;
+		max-height:380px;
+		overflow-x:hidden;
+		border-top:none;
+		background:#b2b3b5;
+	}
+	.side-table .row.header{
+		height:60px;
+		color:white;
+	}
+	.scroll-inner{
+		max-height:calc(100% - 60px);
+	}
+	.side-table .row:first-child{
+		border-top:none;
+	}
+	.side-table .row:last-child{
+		border-bottom:none;
+	}
+	.side-table .row .cell:first-child{
+		border-left:none;
+	}
+}
+@media screen and (max-width: 900px){
+	
+}
+/* body - side table -> mobile table style */
+@media screen and (max-width: 550px){
+	.side-table{
+		max-height:330px;
+	}
+	.side-table .row.header{
+		color:white;
+		/* implement background separately */
+	}
+	.side-table .row{
+		display:-webkit-box;
+		display:-ms-flexbox;
+		display:flex;
+		-ms-flex-wrap:nowrap;
+		    flex-wrap:nowrap;
+		-webkit-box-align:center;
+		    -ms-flex-align:center;
+		        align-items:center;
+		height:auto;
+		position:relative;
+	}
+	.side-table .row .cell{
+		position:static;
+		border-left:none;
+	}
+	.side-table .row .cell.clicky a{
+		position:static;
+		height:auto;
+		line-height:26px;
+		font-size:22px;
+		white-space:normal;
+		padding:8px 5px 10px 5px;
+	}
+	.side-table .row .cell:not(.clicky){
+		min-height:85px;
+		display:inline-table;
+	}
+	.side-table .row .cell:not(.clicky) span{
+		display:table-cell;
+		vertical-align:middle;
+	}
+	.cell.clicky > a:before{
+		display:none;
+	}
+	.cell.clicky > a:after{
+		height:5px;
+		border:none;
+		/* implement background, width separately */
+	}
+	.cell.clicky > a:hover:after{
+		height:8px;
+	}
+}

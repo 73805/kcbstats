@@ -1,0 +1,316 @@
+.page-theme{background:#e31c3d;}
+.title h1{
+	padding-bottom:15px;
+	padding-top:15px;
+}
+.state-detail .title-square.flag,
+.about .title-square.flag{
+	background:white;
+	color:black;
+}
+.state-detail .title-square.flag .inner,
+.about .title-square.flag .inner{
+	font-size:70px;
+}
+.state-detail .title-square.flag:after,
+.about .title-square.flag:after{
+	content:'';
+	width:calc(100% - 20px);
+	height:calc(100% - 20px);
+	position:absolute;
+	top:0;
+	left:0;
+	border-color: #e31c3d;
+	border-width:10px;
+	border-style:solid;
+	-webkit-transition:all .15s ease-in-out;
+	transition:all .15s ease-in-out;
+}
+.state-detail .title-square.flag:hover:after,
+.about .title-square.flag:hover:after{
+	width:calc(100% - 40px);
+	height:calc(100% - 40px);
+	border-width:20px;
+}
+.title .home{
+	border: 2px solid black;
+	height: 60px;
+	line-height: 56px;
+	width: 140px;
+	font-size: 26px;
+	position: absolute;
+	text-align: center;
+	top:-2px;
+	left:-2px;
+}
+.card-container{
+	width:100%;
+	font-size:0;
+	text-align:center;
+	padding:25px 10px;
+}
+.card.mobile-header{
+	display:none;
+}
+.card{
+	font-size:initial;
+	display:inline-block;
+	width:504px;
+	height:244px;
+	margin:25px;
+	padding:2px;
+	background:black;
+}
+.grid{
+	display:-ms-grid;
+	display:grid;
+	-ms-grid-columns: 23% 10.33% 2fr 10.33% 23%;
+	    grid-template-columns: 23% 10.33% 2fr 10.33% 23%;
+	-ms-grid-rows: 25% 2fr 1fr;
+	    grid-template-rows: 25% 2fr 1fr;
+	grid-template-areas:
+		"top-left top-cent top-cent top-cent top-right"
+		"mid-bar mid-bar mid-bar mid-bar mid-bar"
+		"bot-left bot-left bot-cent bot-right bot-right";
+	grid-gap: 2px;
+	-ms-grid-column-align:stretch;
+	    justify-items:stretch;
+	-ms-grid-row-align:stretch;
+	    -webkit-box-align:stretch;
+	        -ms-flex-align:stretch;
+	            align-items:stretch;
+
+	width:100%;
+	height:100%;
+	background:black;
+}
+.grid-cell{
+	background:white;
+}
+.grid-cell.date		{grid-area: top-left;	}
+.grid-cell.location	{grid-area: top-cent;	}
+.grid-cell.champ		{grid-area: top-right;	}
+.grid-cell.name		{grid-area: mid-bar;	}
+.grid-cell.attend		{grid-area: bot-left;	}
+.grid-cell.prize		{grid-area: bot-cent;	}
+.grid-cell.cbj		{grid-area: bot-right;	}
+
+.grid-cell.name{
+	border: 5px solid #0071bc;
+	padding:8px;
+	-webkit-transition:all .15s ease-in-out;
+	transition: all .15s ease-in-out;
+}
+.card:hover .grid-cell.name{
+	border: 10px solid #0071bc;
+	padding: 3px;
+}
+.grid-cell .inner{
+	position:relative;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+}
+.grid-cell .inner p{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	top:50%;
+	-webkit-transform:translateY(-50%);
+	        transform:translateY(-50%);
+
+	font-size:24px;
+}
+.grid-cell.name .inner p{
+	font-size:30px;
+	line-height:32px;
+	font-weight:600;
+}
+.grid-cell.champ .inner p{
+	font-size:36px;
+}
+
+/* responsive baby! */
+@media screen and (max-width: 1800px){
+	.title h1,
+	.title-square .inner{
+		font-size:100px;
+	}
+}
+@media screen and (max-width: 1740px){
+	.card-container{
+		padding:15px 5px;
+	}
+	.card{
+		width: 440px;
+		height: 240px;
+		margin:15px;
+	}
+	.grid-cell .inner p{
+		font-size:22px;
+	}
+	.grid-cell.name .inner p{
+		font-size:28px;
+		line-height:30px;
+	}
+}
+@media screen and (max-width: 1600px){
+	.title h1,
+	.title-square .inner{
+		font-size:86px;
+	}
+	.state-detail .title-square.flag .inner,
+	.about .title-square.flag .inner{
+		font-size:44px;
+	}
+	.state-detail .title-square.flag:after,
+	.about .title-square.flag:after{
+		width:calc(100% - 12px);
+		height:calc(100% - 12px);
+		border-width: 6px;
+	}
+	.state-detail .title-square.flag:hover:after,
+	.about .title-square.flag:hover:after{
+		width:calc(100% - 20px);
+		height:calc(100% - 20px);
+		border-width: 10px;
+	}
+}
+@media screen and (max-width: 1300px){
+	.title h1,
+	.title-square .inner{
+		font-size:66px;
+	}
+}
+/*just below ipad landscape*/
+@media screen and (max-width: 1023px){
+	.title h1{
+		font-size:76px;
+	}
+	.title h1{
+		top:53%;
+	}
+}
+@media screen and (max-width: 900px){
+	.state-detail .title-square.flag:after,
+	.about .title-square.flag:after{
+		width:calc(100% - 8px);
+		height:calc(100% - 8px);
+		border-width: 4px;
+	}
+	.state-detail .title-square.flag:hover:after,
+	.about .title-square.flag:hover:after{
+		width:calc(100% - 14px);
+		height:calc(100% - 14px);
+		border-width: 7px;
+	}
+	.state-detail .title-square.flag .inner,
+	.about .title-square.flag .inner{
+		font-size:22px;
+	}
+}
+@media screen and (max-width: 880px){
+	.title h1{
+		font-size:56px;
+	}
+}
+@media screen and (max-width: 460px){
+	.title h1{
+		font-size:36px;
+	}
+}
+@media screen and (max-width: 550px){
+	.grid-cell.location	{display:none;}
+	.grid-cell.champ		{display:none;}
+	.grid-cell.attend		{display:none;}
+	.grid-cell.prize		{display:none;}
+	.grid-cell.cbj		{display:none;}
+	.card-container{
+		padding:0px;
+		display:table;
+	}
+	.card.mobile-header{
+		display:block;
+	}
+	.card.mobile-header .grid{
+		background:#0071bc;
+		color:white;
+	}
+	.card.mobile-header .grid-cell.date,
+	.card.mobile-header .grid-cell.name{
+		background:none;
+		font-weight:600;
+	}
+	.card{
+		display:block;
+		width:100%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		background:white;
+	}
+	.grid{
+		display:block;
+		min-height:85px;
+		font-size:0;
+		background:white;
+		position:relative;
+		border-bottom:2px solid black;
+	}
+	.grid-cell.date,
+	.grid-cell.name{
+		height:auto;
+		display:inline-block;
+		vertical-align:middle;
+		position:static;
+		font-size:18px;
+		overflow:hidden;
+		border:none;
+		padding:6px 6px 9px 6px;
+	}
+	.mobile-header .grid-cell.name:after{
+		display:none;
+	}
+	.grid-cell.name:after{
+		content:'';
+		width:calc(100% - 105px);
+		display:block;
+		height:5px;
+		background:#0071bc;
+		position:absolute;
+		bottom:0px;
+		right:0px;
+		-webkit-transition:height .15s ease-in-out;
+		transition: height .15s ease-in-out;
+	}
+	.card:hover .grid-cell.name:after{
+		height:8px;
+	}
+	.card:hover .grid-cell.name{
+		border:none;
+		padding:6px 6px 9px 6px;
+	}
+	.grid-cell.date{
+		width:110px;
+		min-height:85px;
+		display:inline-table;
+	}
+	.grid-cell.date .inner{
+		display:table-cell;
+		vertical-align:middle;
+	}
+	.grid-cell.name{
+		width:calc(100% - 110px);
+	}
+	.grid-cell.date .inner p,
+	.grid-cell.name .inner p{
+		font-size:24px;
+		line-height:26px;
+		position:static;
+		-webkit-transform:none;
+		        transform:none;
+	}
+	.grid-cell.name .inner p{
+		text-align:left;
+	}
+}

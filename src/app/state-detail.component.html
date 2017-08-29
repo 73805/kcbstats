@@ -1,0 +1,99 @@
+<div class="content-container state-detail fullwide">
+	<div class="detail-head page-theme">
+
+		<div class="title" *ngIf="loaded_contests">
+
+			<h1 class="section-pad">{{state.fullname}}</h1>
+
+		</div>
+		<div class="title" *ngIf="!loaded_contests">
+
+			<h1 class="section-pad">Loading...</h1>
+
+		</div>
+
+	</div>
+	<div class="detail-body">
+		<div class="detail-body-header">
+
+			<!-- title squares -->
+			<div class="title-square-container">
+				<div class="title-square data">
+					<div class="inner">
+						<p>{{contests.length}}</p>
+					</div>
+					<div class="desc">contests</div>
+				</div>
+				<a class="title-square flag" [routerLink]="'/states'">
+					<div class="inner">
+						<p>All<br>States</p>
+					</div>
+				</a>
+			</div>
+
+			<!-- data bar -->
+			<data-bar *ngIf="state.barData" 
+				[objList]="state.barData" 
+				[parent]="'state-detail'"
+				[context]="'fullwide'">
+			</data-bar>
+		</div>
+		<div class="card-container">
+			<div class="card mobile-header">
+				<div class="grid">
+					<div class="grid-cell date">
+						<div class="inner">
+							<p>Date</p>
+						</div>
+					</div>
+					<div class="grid-cell name">
+						<div class="inner">
+							<p>Competition</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card" *ngFor="let contest of contests">
+				<a [routerLink]="['/contest', contest.$key]" class="grid">
+					<div class="grid-cell date">
+						<div class="inner">
+							<p>{{contest.date_str}}</p>
+						</div>
+					</div>
+					<div class="grid-cell location">
+						<div class="inner">
+							<p>{{contest.location}}</p>
+						</div>
+					</div>
+					<div class="grid-cell champ">
+						<div class="inner">
+							<p>
+								<i class="fa" [ngClass]="getIcon(contest.is_state_champ, contest.prize)"></i>
+							</p>	
+						</div>
+					</div>
+					<div class="grid-cell name">
+						<div class="inner">
+							<p>{{contest.name}}</p>	
+						</div>
+					</div>
+					<div class="grid-cell attend">
+						<div class="inner">
+							<p>{{contest.attendance}} teams</p>	
+						</div>
+					</div>
+					<div class="grid-cell prize">
+						<div class="inner">
+							<p>{{contest.prize | currency:'USD':true:'1.0'}} prize</p>	
+						</div>
+					</div>
+					<div class="grid-cell cbj">
+						<div class="inner">
+							<p>{{contest.cbj_percentage}} CBJs</p>	
+						</div>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>

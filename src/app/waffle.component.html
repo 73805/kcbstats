@@ -1,0 +1,54 @@
+<div class="waffle-component {{context}}">
+	<!-- Color key area -->
+	<div class="waffle-container key">
+		<h3>score colors</h3>
+		<div class="waffle">
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(180.00)">
+					<span>=&nbsp;180</span>
+				</div>
+			</div>
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(170.00)">
+					<span>&ge;&nbsp;170</span>
+				</div>
+			</div>
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(160.00)">
+					<span>&ge;&nbsp;160</span>
+				</div>
+			</div>
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(150.00)">
+					<span>&ge;&nbsp;150</span>
+				</div>
+			</div>
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(140.00)">
+					<span>&lt;&nbsp;150</span>
+				</div>
+			</div>
+			<div class="nook">
+				<div class="inner" [ngClass]="getScoreColor(false)">
+					<span>NA</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Four categories -->
+	<div class="waffle-container standard" *ngFor="let cat of categories">
+		<div class="inner" *ngIf="scores[cat].length > 0">
+			<h3>{{cat}} scores</h3>
+			<p class="hoverme">hover for details</p>
+			<div class="waffle">
+				<div class="nook" *ngFor="let result of scores[cat]">
+					<span class="name">{{result.name}}</span>
+					<div class="inner" [ngClass]="getScoreColor(result.score)">
+						<span class="score">{{result.score | number:'1.0-2'}}</span>
+					</div>
+				</div>
+			</div>
+			<div class="axis"><span>{{this.xAxis}}</span></div>
+		</div>
+	</div>
+</div>

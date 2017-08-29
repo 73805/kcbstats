@@ -1,0 +1,85 @@
+<div class="content-container contest-detail sidebarred">
+	<div class="detail-head page-theme">
+
+		<div class="title" *ngIf="contest.name">
+
+			<h1 class="section-pad">{{contest.name}}</h1>
+
+		</div>
+		<div class="title" *ngIf="!contest.name">
+
+			<h1 class="section-pad">Loading...</h1>
+
+		</div>
+
+	</div>
+	<div class="detail-body">
+		<div class="detail-body-header">
+
+			<!-- title squares -->
+			<div class="title-square-container">
+				<div class="title-square data">
+					<div class="inner">
+						<p>{{contest.attendance}}</p>
+					</div>
+					<div class="desc">team<span *ngIf="contest.attendance != 1">s</span></div>
+				</div>
+				<a [routerLink]="['/state', contest.state]" class="title-square flag">
+					<div class="flag-img" 
+					[ngStyle]="{backgroundImage: 'url(/assets/img/' + contest.state + '.png)'}"
+					[ngClass]="contest.state | flagPos"></div>
+					<span class="inner">{{contest.state | uppercase}}</span>
+					<span class="desc">to state</span>
+				</a>
+			</div>
+
+			<!-- data bar -->
+			<data-bar *ngIf="contest.barData" 
+					[objList]="contest.barData" 
+					[parent]="'contest-detail'"
+					[context]="'sidebarred'">
+			</data-bar>
+		</div>
+		<div class="detail-body-content">
+			<!-- visuals container -->
+			<div class="visuals">
+				<div class="header">
+					<h2>Meat Thermometer</h2>
+				</div>
+				<div class="content section-pad">
+					<waffle-charts *ngIf="contest.scores" [scores]="contest.scores" [xAxis]="'score'" [context]="'contest-detail'"></waffle-charts>
+				</div>
+			</div>
+			
+			<!-- data table -->
+			<div class="side-table">
+				<div class="row header">
+					<div class="cell place">
+						<span>Place</span>
+					</div>
+					<div class="cell clicky">
+						<span>Team Name</span>
+					</div>
+					<div class="cell score">
+						<span>Overall</span>
+					</div>
+				</div>
+				<div class="scroll-inner">
+					<div class="row" *ngFor="let team of contest.teams">
+						<div class="cell place place-{{team.place}}">
+							<span>{{team.place}}</span>
+						</div>
+						<div class="cell clicky">
+							<a [routerLink]="['/team', team.key]">
+								<span>{{team.name}}</span>
+							</a>
+						</div>
+						<div class="cell score">
+							<span>{{team.overall | number:'1.0-2'}}</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

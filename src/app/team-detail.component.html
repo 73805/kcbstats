@@ -1,0 +1,86 @@
+<div class="content-container team-detail sidebarred">
+	<div class="detail-head page-theme">
+
+		<div class="title" *ngIf="team.name">
+
+			<h1 class="section-pad">{{team.name}}</h1>
+
+		</div>
+		<div class="title" *ngIf="!team.name">
+
+			<h1 class="section-pad">Loading...</h1>
+
+		</div>
+
+	</div>
+	<div class="detail-body">
+		<div class="detail-body-header">
+
+			<!-- title squares -->
+			<div class="title-square-container">
+				<div class="title-square data">
+					<div class="inner">
+						<p>{{team.appearances}}</p>
+					</div>
+					<div class="desc">appearance<span *ngIf="team.appearances != 1">s</span></div>
+				</div>
+				<a [routerLink]="['/state', team.state]" class="title-square flag">
+					<div class="flag-img" 
+					[ngStyle]="{backgroundImage: 'url(/assets/img/' + team.state + '.png)'}"
+					[ngClass]="team.state | flagPos"></div>
+					<span class="inner">{{team.state | uppercase}}</span>
+					<span class="desc">to state</span>
+				</a>
+			</div>
+			
+			<!-- data bar -->
+			<data-bar *ngIf="team.barData" 
+					[objList]="team.barData" 
+					[parent]="'team-detail'"
+					[context]="'sidebarred'">
+			</data-bar>
+		</div>
+		<div class="detail-body-content">
+
+			<!-- visuals container -->
+			<div class="visuals">
+				<div class="header">
+					<h2>Meat Thermometer</h2>
+				</div>
+				<div class="content section-pad">
+					<waffle-charts *ngIf="team.scores" [scores]="team.scores"  [xAxis]="'time'" [context]="'team-detail'"></waffle-charts>
+				</div>
+			</div>
+
+			<!-- data table -->
+			<div class="side-table">
+				<div class="row header">
+					<div class="cell date">
+						<span>Date</span>
+					</div>
+					<div class="cell clicky">
+						<span>Competition</span>
+					</div>
+					<div class="cell state">
+						<span>Place</span>
+					</div>
+				</div>
+				<div class="scroll-inner">
+					<div class="row" *ngFor="let contest of team.contests">
+						<div class="cell date">
+							<span>{{contest.date_str}}</span>
+						</div>
+						<div class="cell clicky">
+							<a [routerLink]="['/contest', contest.key]">
+								<span>{{contest.name}}</span>
+							</a>
+						</div>
+						<div class="cell state place-{{contest.place}}">
+							<span>{{contest.place}}</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
