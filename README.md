@@ -20,6 +20,6 @@ I built the website using Angular4 on the front-end, and Firebase for the databa
 
 ## Check it out!
 
-[Iowa's Smokey D's BBQ](https://kcbstats.red/team/6377) is a good team to check out. They have been competing since before the July start-point of this dataset and all the way through to a couple days before the first scrape.
+[Iowa's Smokey D's BBQ](https://kcbstats.red/team/6377) is a good team to start on. They have a long history of strong scoring. Alternatively, start in a state. [Kansas](https://kcbstats.red/state/ks) has a ton of competitions. The last contest I judged at was a [Sam's Club Nation BBQ Tour in CT](https://kcbstats.red/contest/7123). [Smokin Hoggz BBQ](https://kcbstats.red/team/11410) took third place.
 
-[Pick a state](https://kcbstats.red) If you want to find a specific competition or team, you'll need to start by picking a state. Hosting is cheaper and pages load faster if I don't have to access all 15,000 team records for every user! You can search for a competition on the KCBS [events pages](https://www.kcbs.us/events) and copy-paste its 'contest number' into the url slug /contest/#### if you don't know where it was held.
+[Start from home: Pick a state](https://kcbstats.red) If you're looking for a specific competition or team, you'll need to start by picking a state. Hosting is cheaper and pages load faster if I don't have to access all 15,000 team records for every user! If you're desperate to search a competition you can use the KCBS [events page](https://www.kcbs.us/events) search and copy-paste the target competition's 'contest number' into the url slug /contest/#### 
