@@ -77,7 +77,7 @@
         "prize": 8700
     }, 
     "3999": {
-        "attendance": 30, 
+        "attendance": 29, 
         "is_state_champ": true, 
         "name": "CASA's Grab, Root and Growl BBQ Competition", 
         "cbj_percentage": "82%", 
@@ -120,38 +120,38 @@
         "date_str": "8/23/13", 
         "prize": 16200
     }, 
-    "4930": {
-        "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour (Regional)", 
+    "4686": {
+        "attendance": 35, 
+        "is_state_champ": true, 
+        "name": "Cass County", 
         "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Southaven, MS", 
-        "date_order": 140905, 
-        "date_str": "9/5/14", 
-        "prize": 20000
+        "state": "ne", 
+        "location": "Weeping Water, NE", 
+        "date_order": 140808, 
+        "date_str": "8/8/14", 
+        "prize": 10700
     }, 
-    "6357": {
+    "4838": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "Smokin' N the Ville", 
+        "cbj_percentage": "41%", 
+        "state": "ks", 
+        "location": "Edwardsville, KS", 
+        "date_order": 140425, 
+        "date_str": "4/25/14", 
+        "prize": 2500
+    }, 
+    "4932": {
         "attendance": 29, 
         "is_state_champ": false, 
         "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "NA", 
-        "state": "ky", 
-        "location": "Bowling Green, KY", 
-        "date_order": 160513, 
-        "date_str": "5/13/16", 
-        "prize": 10000
-    }, 
-    "4684": {
-        "attendance": 44, 
-        "is_state_champ": true, 
-        "name": "BBQ Fest Cooking Contest", 
         "cbj_percentage": "100%", 
-        "state": "tn", 
-        "location": "Dyersburg, TN", 
-        "date_order": 140725, 
-        "date_str": "7/25/14", 
-        "prize": 10700
+        "state": "tx", 
+        "location": "Fort Worth, TX", 
+        "date_order": 140314, 
+        "date_str": "3/14/14", 
+        "prize": 10000
     }, 
     "6150": {
         "attendance": 25, 
@@ -252,30 +252,30 @@
         "date_str": "8/1/14", 
         "prize": 8180
     }, 
-    "4732": {
-        "attendance": 25, 
+    "6796": {
+        "attendance": 35, 
         "is_state_champ": true, 
-        "name": "Hill City Wine, Brew & BBQ", 
+        "name": "13th Annual Recovery Fest/8th Annual BBQ State Championship", 
         "cbj_percentage": "100%", 
-        "state": "sd", 
-        "location": "Hill City, SD", 
-        "date_order": 140822, 
-        "date_str": "8/22/14", 
-        "prize": 0
+        "state": "va", 
+        "location": "Richmond, VA", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 5000
     }, 
-    "6797": {
-        "attendance": 54, 
+    "4733": {
+        "attendance": 49, 
         "is_state_champ": true, 
-        "name": "The Best Damn BBQ Contest at Smithville Lake", 
-        "cbj_percentage": "100%", 
+        "name": "Jesse James Barbeque Cook Out", 
+        "cbj_percentage": "NA", 
         "state": "mo", 
-        "location": "Smithville, MO", 
-        "date_order": 170407, 
-        "date_str": "4/7/17", 
-        "prize": 4000
+        "location": "Kearney, MO", 
+        "date_order": 140919, 
+        "date_str": "9/19/14", 
+        "prize": 5025
     }, 
     "4730": {
-        "attendance": 80, 
+        "attendance": 79, 
         "is_state_champ": true, 
         "name": "Bixby BBQ'N Blues Festival", 
         "cbj_percentage": "100%", 
@@ -307,16 +307,16 @@
         "date_str": "7/11/14", 
         "prize": 7500
     }, 
-    "6791": {
-        "attendance": 36, 
+    "4735": {
+        "attendance": 54, 
         "is_state_champ": true, 
-        "name": "Grand Lake BBQ & Festival", 
+        "name": "Smoke in the Valley BBQ Competition", 
         "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Langley, OK", 
-        "date_order": 170519, 
-        "date_str": "5/19/17", 
-        "prize": 10000
+        "state": "pa", 
+        "location": "Green Lane, PA", 
+        "date_order": 140509, 
+        "date_str": "5/9/14", 
+        "prize": 6000
     }, 
     "4738": {
         "attendance": 25, 
@@ -406,16 +406,16 @@
         "date_str": "7/10/15", 
         "prize": 10000
     }, 
-    "4524": {
-        "attendance": 59, 
+    "4832": {
+        "attendance": 46, 
         "is_state_champ": true, 
-        "name": "Naptown barBAYq Contest & Music Festival", 
+        "name": "Battle of the Brisket", 
         "cbj_percentage": "100%", 
-        "state": "md", 
-        "location": "Annapolis, MD", 
-        "date_order": 140502, 
-        "date_str": "5/2/14", 
-        "prize": 10000
+        "state": "ks", 
+        "location": "Mission, KS", 
+        "date_order": 140919, 
+        "date_str": "9/19/14", 
+        "prize": 6000
     }, 
     "4657": {
         "attendance": 39, 
@@ -472,15 +472,15 @@
         "date_str": "6/20/14", 
         "prize": 4600
     }, 
-    "4520": {
-        "attendance": 48, 
+    "6359": {
+        "attendance": 29, 
         "is_state_champ": true, 
-        "name": "The Rotary Club of West Knoxville - Rocky Top Hummin' & Strummin' BBQ Cook-Off", 
-        "cbj_percentage": "100%", 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "NA", 
         "state": "tn", 
-        "location": "Knoxville, TN", 
-        "date_order": 140530, 
-        "date_str": "5/30/14", 
+        "location": "Hendersonville, TN", 
+        "date_order": 160617, 
+        "date_str": "6/17/16", 
         "prize": 10000
     }, 
     "4659": {
@@ -693,7 +693,7 @@
         "prize": 5000
     }, 
     "7260": {
-        "attendance": 47, 
+        "attendance": 46, 
         "is_state_champ": true, 
         "name": "Maryland  State BBQ Bash", 
         "cbj_percentage": "100%", 
@@ -702,6 +702,17 @@
         "date_order": 170811, 
         "date_str": "8/11/17", 
         "prize": 12500
+    }, 
+    "7263": {
+        "attendance": 22, 
+        "is_state_champ": false, 
+        "name": "First Tennessee Bank Bluegrass & BBQ (COMPETITOR'S SERIES)(JUDGES FULL)", 
+        "cbj_percentage": "100%", 
+        "state": "tn", 
+        "location": "Columbia, TN", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 2175
     }, 
     "6204": {
         "attendance": 46, 
@@ -835,6 +846,17 @@
         "date_str": "8/18/17", 
         "prize": 0
     }, 
+    "4527": {
+        "attendance": 66, 
+        "is_state_champ": true, 
+        "name": "Smokin in Steele", 
+        "cbj_percentage": "100%", 
+        "state": "mn", 
+        "location": "Owatonna, MN", 
+        "date_order": 140530, 
+        "date_str": "5/30/14", 
+        "prize": 10175
+    }, 
     "5180": {
         "attendance": 75, 
         "is_state_champ": true, 
@@ -923,6 +945,17 @@
         "date_str": "9/18/15", 
         "prize": 7500
     }, 
+    "7078": {
+        "attendance": 37, 
+        "is_state_champ": true, 
+        "name": "Tri City BBQ Fest", 
+        "cbj_percentage": "100%", 
+        "state": "ia", 
+        "location": "Denison, IA", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 11000
+    }, 
     "7079": {
         "attendance": 53, 
         "is_state_champ": true, 
@@ -1010,6 +1043,17 @@
         "date_order": 170414, 
         "date_str": "4/14/17", 
         "prize": 10000
+    }, 
+    "6973": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "*Great Maine BBQ Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "me", 
+        "location": "Bangor, ME", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 17000
     }, 
     "6971": {
         "attendance": 46, 
@@ -1165,6 +1209,17 @@
         "date_str": "7/10/15", 
         "prize": 6000
     }, 
+    "7189": {
+        "attendance": 16, 
+        "is_state_champ": true, 
+        "name": "Smoke the Town", 
+        "cbj_percentage": "98%", 
+        "state": "ia", 
+        "location": "Leon, IA", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 3400
+    }, 
     "7180": {
         "attendance": 27, 
         "is_state_champ": true, 
@@ -1197,6 +1252,17 @@
         "date_order": 170324, 
         "date_str": "3/24/17", 
         "prize": 12000
+    }, 
+    "7184": {
+        "attendance": 33, 
+        "is_state_champ": true, 
+        "name": "*Downtown Jonesboro BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ar", 
+        "location": "Jonesboro, AR", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 10000
     }, 
     "7186": {
         "attendance": 27, 
@@ -1264,16 +1330,16 @@
         "date_str": "4/10/15", 
         "prize": 10000
     }, 
-    "5628": {
-        "attendance": 28, 
-        "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "100%", 
-        "state": "wa", 
-        "location": "Renton, WA", 
-        "date_order": 150403, 
-        "date_str": "4/3/15", 
-        "prize": 10000
+    "6575": {
+        "attendance": 8, 
+        "is_state_champ": false, 
+        "name": "Ribs & Rockets(Competitor Series/Invite Only/ Judges Full)", 
+        "cbj_percentage": "NA", 
+        "state": "ca", 
+        "location": "Sacramento, CA", 
+        "date_order": 160611, 
+        "date_str": "6/11/16", 
+        "prize": 0
     }, 
     "4383": {
         "attendance": 66, 
@@ -1385,6 +1451,17 @@
         "date_str": "6/27/14", 
         "prize": 7800
     }, 
+    "4732": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "Hill City Wine, Brew & BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "sd", 
+        "location": "Hill City, SD", 
+        "date_order": 140822, 
+        "date_str": "8/22/14", 
+        "prize": 0
+    }, 
     "3831": {
         "attendance": 54, 
         "is_state_champ": true, 
@@ -1396,16 +1473,16 @@
         "date_str": "7/26/13", 
         "prize": 15000
     }, 
-    "4733": {
-        "attendance": 49, 
+    "6797": {
+        "attendance": 54, 
         "is_state_champ": true, 
-        "name": "Jesse James Barbeque Cook Out", 
-        "cbj_percentage": "NA", 
+        "name": "The Best Damn BBQ Contest at Smithville Lake", 
+        "cbj_percentage": "100%", 
         "state": "mo", 
-        "location": "Kearney, MO", 
-        "date_order": 140919, 
-        "date_str": "9/19/14", 
-        "prize": 5025
+        "location": "Smithville, MO", 
+        "date_order": 170407, 
+        "date_str": "4/7/17", 
+        "prize": 4000
     }, 
     "6794": {
         "attendance": 42, 
@@ -1528,27 +1605,27 @@
         "date_str": "2/3/17", 
         "prize": 6200
     }, 
-    "4847": {
-        "attendance": 75, 
+    "4599": {
+        "attendance": 48, 
         "is_state_champ": true, 
-        "name": "20th Annual Decatur Jaycee's Riverfest", 
+        "name": "Morton BBQ Throwdown", 
         "cbj_percentage": "100%", 
-        "state": "al", 
-        "location": "Decatur, AL", 
-        "date_order": 140919, 
-        "date_str": "9/19/14", 
-        "prize": 18000
+        "state": "il", 
+        "location": "Morton, IL", 
+        "date_order": 140725, 
+        "date_str": "7/25/14", 
+        "prize": 9000
     }, 
-    "4735": {
-        "attendance": 54, 
+    "6791": {
+        "attendance": 36, 
         "is_state_champ": true, 
-        "name": "Smoke in the Valley BBQ Competition", 
+        "name": "Grand Lake BBQ & Festival", 
         "cbj_percentage": "100%", 
-        "state": "pa", 
-        "location": "Green Lane, PA", 
-        "date_order": 140509, 
-        "date_str": "5/9/14", 
-        "prize": 6000
+        "state": "ok", 
+        "location": "Langley, OK", 
+        "date_order": 170519, 
+        "date_str": "5/19/17", 
+        "prize": 10000
     }, 
     "6143": {
         "attendance": 47, 
@@ -1573,7 +1650,7 @@
         "prize": 6775
     }, 
     "6147": {
-        "attendance": 41, 
+        "attendance": 40, 
         "is_state_champ": true, 
         "name": "The Desoto Shrine Club 8th Annual BBQ Cook Off", 
         "cbj_percentage": "100%", 
@@ -1825,6 +1902,17 @@
         "date_str": "10/10/14", 
         "prize": 4000
     }, 
+    "5954": {
+        "attendance": 66, 
+        "is_state_champ": true, 
+        "name": "Firelake BBQ Cook Off", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Shawnee, OK", 
+        "date_order": 160325, 
+        "date_str": "3/25/16", 
+        "prize": 12500
+    }, 
     "4623": {
         "attendance": 17, 
         "is_state_champ": true, 
@@ -1869,17 +1957,6 @@
         "date_str": "6/13/14", 
         "prize": 6000
     }, 
-    "5529": {
-        "attendance": 29, 
-        "is_state_champ": true, 
-        "name": "Boots & BBQ Festival", 
-        "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Claremore, OK", 
-        "date_order": 150508, 
-        "date_str": "5/8/15", 
-        "prize": 9450
-    }, 
     "4538": {
         "attendance": 26, 
         "is_state_champ": true, 
@@ -1913,16 +1990,16 @@
         "date_str": "7/18/14", 
         "prize": 8300
     }, 
-    "4534": {
-        "attendance": 25, 
+    "4826": {
+        "attendance": 33, 
         "is_state_champ": true, 
-        "name": "4th Annual Wild Wild West BBQ Championship (Day 2)", 
+        "name": "Wakefield Rotary Campus Cook Off & State BBQ Championships", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Lake Elsinore, CA", 
-        "date_order": 131228, 
-        "date_str": "12/28/13", 
-        "prize": 6250
+        "state": "ri", 
+        "location": "Kingston, RI", 
+        "date_order": 140718, 
+        "date_str": "7/18/14", 
+        "prize": 4400
     }, 
     "4827": {
         "attendance": 39, 
@@ -1979,27 +2056,27 @@
         "date_str": "8/15/14", 
         "prize": 11300
     }, 
-    "4532": {
-        "attendance": 31, 
-        "is_state_champ": true, 
-        "name": "Liberty 4th Fest BBQ Contest", 
-        "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Liberty, MO", 
-        "date_order": 140703, 
-        "date_str": "7/3/14", 
-        "prize": 2500
-    }, 
-    "4533": {
+    "4820": {
         "attendance": 28, 
         "is_state_champ": true, 
-        "name": "4th Annual Wild Wild West BBQ Championship", 
+        "name": "Rock'n Ribfest NH State BBQ Championship", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Lake Elsinore, CA", 
-        "date_order": 131227, 
-        "date_str": "12/27/13", 
-        "prize": 6250
+        "state": "nh", 
+        "location": "Merrimack, NH", 
+        "date_order": 140613, 
+        "date_str": "6/13/14", 
+        "prize": 2950
+    }, 
+    "4821": {
+        "attendance": 18, 
+        "is_state_champ": true, 
+        "name": "Legacy State BBQ Championship Cook-Off", 
+        "cbj_percentage": "100%", 
+        "state": "il", 
+        "location": "Effingham, IL", 
+        "date_order": 140626, 
+        "date_str": "6/26/14", 
+        "prize": 5000
     }, 
     "6369": {
         "attendance": 30, 
@@ -2100,6 +2177,17 @@
         "date_str": "4/29/16", 
         "prize": 10000
     }, 
+    "4671": {
+        "attendance": 33, 
+        "is_state_champ": true, 
+        "name": "Que'n In The Park", 
+        "cbj_percentage": "94%", 
+        "state": "ar", 
+        "location": "Bryant, AR", 
+        "date_order": 140704, 
+        "date_str": "7/4/14", 
+        "prize": 6200
+    }, 
     "7210": {
         "attendance": 29, 
         "is_state_champ": true, 
@@ -2110,6 +2198,17 @@
         "date_order": 170715, 
         "date_str": "7/15/17", 
         "prize": 7500
+    }, 
+    "7211": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*Shenandoah Valley BBQ Fest", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Woodstock, VA", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 6600
     }, 
     "7212": {
         "attendance": 34, 
@@ -2144,8 +2243,19 @@
         "date_str": "6/9/17", 
         "prize": 7500
     }, 
+    "7215": {
+        "attendance": 40, 
+        "is_state_champ": true, 
+        "name": "PigMania Lebanon State Championship BBQ & Music Festival( TEAMS AND JUDGES FULL)", 
+        "cbj_percentage": "100%", 
+        "state": "oh", 
+        "location": "Lebanon, OH", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 15000
+    }, 
     "7216": {
-        "attendance": 14, 
+        "attendance": 13, 
         "is_state_champ": false, 
         "name": "*Kentucky's Fort Harrod Beef Festival Grill-Off (COMPETITOR'S SERIES)", 
         "cbj_percentage": "100%", 
@@ -2254,8 +2364,19 @@
         "date_str": "8/18/17", 
         "prize": 8000
     }, 
+    "6811": {
+        "attendance": 44, 
+        "is_state_champ": true, 
+        "name": "Jim Beam BBQ Classic", 
+        "cbj_percentage": "NA", 
+        "state": "ky", 
+        "location": "Springfield, KY", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 10000
+    }, 
     "6813": {
-        "attendance": 69, 
+        "attendance": 68, 
         "is_state_champ": true, 
         "name": "The Whistlestop Festival & Rocket City BBQ", 
         "cbj_percentage": "100%", 
@@ -2264,6 +2385,28 @@
         "date_order": 170505, 
         "date_str": "5/5/17", 
         "prize": 20000
+    }, 
+    "6812": {
+        "attendance": 63, 
+        "is_state_champ": true, 
+        "name": "Tilley Harley-Davidson Biker Blues BBQ Rally and BBQ Classic", 
+        "cbj_percentage": "100%", 
+        "state": "nc", 
+        "location": "Salisbury, NC", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 15110
+    }, 
+    "6814": {
+        "attendance": 56, 
+        "is_state_champ": true, 
+        "name": "10th Annual Big Island BBQ", 
+        "cbj_percentage": "68%", 
+        "state": "mn", 
+        "location": "Albert Lea, MN", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 10200
     }, 
     "6816": {
         "attendance": 19, 
@@ -2296,6 +2439,17 @@
         "location": "Ogden, UT", 
         "date_order": 170616, 
         "date_str": "6/16/17", 
+        "prize": 0
+    }, 
+    "7323": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*Unruly Country Brew N' Que Festival(JUDGES FULL)", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Sonora, CA", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
         "prize": 0
     }, 
     "5195": {
@@ -2364,6 +2518,17 @@
         "date_str": "6/9/17", 
         "prize": 12000
     }, 
+    "7068": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "*Roast N Boast BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "ms", 
+        "location": "Columbus, MS", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 9000
+    }, 
     "5443": {
         "attendance": 26, 
         "is_state_champ": true, 
@@ -2387,7 +2552,7 @@
         "prize": 7250
     }, 
     "5441": {
-        "attendance": 36, 
+        "attendance": 35, 
         "is_state_champ": true, 
         "name": "Buckeye State BBQ Championship", 
         "cbj_percentage": "100%", 
@@ -2407,6 +2572,17 @@
         "date_order": 150814, 
         "date_str": "8/14/15", 
         "prize": 11500
+    }, 
+    "7063": {
+        "attendance": 26, 
+        "is_state_champ": true, 
+        "name": "Hill City Wine Brew & BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "sd", 
+        "location": "Hill City, SD", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 11400
     }, 
     "5446": {
         "attendance": 49, 
@@ -2431,7 +2607,7 @@
         "prize": 6000
     }, 
     "5444": {
-        "attendance": 48, 
+        "attendance": 47, 
         "is_state_champ": false, 
         "name": "Fire on Ice Barbecue World Championship (Competitor's Series)", 
         "cbj_percentage": "100%", 
@@ -2462,6 +2638,17 @@
         "date_order": 170602, 
         "date_str": "6/2/17", 
         "prize": 8000
+    }, 
+    "6962": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*BBQ & Blues on the Levee", 
+        "cbj_percentage": "NA", 
+        "state": "ar", 
+        "location": "Helena, AR", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 7000
     }, 
     "6965": {
         "attendance": 47, 
@@ -2495,6 +2682,17 @@
         "date_order": 170728, 
         "date_str": "7/28/17", 
         "prize": 6000
+    }, 
+    "6968": {
+        "attendance": 39, 
+        "is_state_champ": true, 
+        "name": "Grill Games", 
+        "cbj_percentage": "47%", 
+        "state": "wi", 
+        "location": "Kenosha, WI", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 7000
     }, 
     "6358": {
         "attendance": 29, 
@@ -2595,6 +2793,39 @@
         "date_str": "4/7/17", 
         "prize": 9400
     }, 
+    "7193": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "*Go Hog Wild Arkansas BBQ Championship", 
+        "cbj_percentage": "NA", 
+        "state": "ar", 
+        "location": "Sheridan, AR", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 5000
+    }, 
+    "7192": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "Septemberfest BBQ & Rib-eye Steak Cookoff Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "ne", 
+        "location": "Omaha, NE", 
+        "date_order": 170902, 
+        "date_str": "9/2/17", 
+        "prize": 7550
+    }, 
+    "7191": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Que & Cruz", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Louisa, VA", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 5000
+    }, 
     "7190": {
         "attendance": 14, 
         "is_state_champ": true, 
@@ -2640,7 +2871,7 @@
         "prize": 4500
     }, 
     "7194": {
-        "attendance": 31, 
+        "attendance": 30, 
         "is_state_champ": true, 
         "name": "Central  Iowa Expo BBQ  & Cruise (Day 1)", 
         "cbj_percentage": "NA", 
@@ -2705,16 +2936,16 @@
         "date_str": "7/4/14", 
         "prize": 4000
     }, 
-    "5612": {
-        "attendance": 30, 
+    "7449": {
+        "attendance": 8, 
         "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour (Regional)", 
-        "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Southaven, MS", 
-        "date_order": 150918, 
-        "date_str": "9/18/15", 
-        "prize": 20000
+        "name": "Holmes Drywall Supply, Inc(BACKYARD ONLY INVITE ONLY)", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Kansas City, MO", 
+        "date_order": 171011, 
+        "date_str": "10/11/17", 
+        "prize": 0
     }, 
     "5613": {
         "attendance": 29, 
@@ -2793,38 +3024,49 @@
         "date_str": "5/8/15", 
         "prize": 10000
     }, 
-    "6409": {
-        "attendance": 44, 
+    "4532": {
+        "attendance": 31, 
         "is_state_champ": true, 
-        "name": "West Coast BBQ Classic", 
-        "cbj_percentage": "96%", 
-        "state": "ca", 
-        "location": "Long Beach, CA", 
-        "date_order": 160513, 
-        "date_str": "5/13/16", 
-        "prize": 10000
+        "name": "Liberty 4th Fest BBQ Contest", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Liberty, MO", 
+        "date_order": 140703, 
+        "date_str": "7/3/14", 
+        "prize": 2500
     }, 
-    "7115": {
-        "attendance": 29, 
+    "6879": {
+        "attendance": 58, 
         "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
+        "name": "*Gold Ribbin' BBQ Fest of Greater Green Bay-Heat1", 
         "cbj_percentage": "NA", 
-        "state": "az", 
-        "location": "Tucson, AZ", 
-        "date_order": 170317, 
-        "date_str": "3/17/17", 
-        "prize": 10000
+        "state": "wi", 
+        "location": "Green Bay, WI", 
+        "date_order": 170714, 
+        "date_str": "7/14/17", 
+        "prize": 17500
     }, 
-    "7119": {
+    "7114": {
         "attendance": 30, 
-        "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
         "cbj_percentage": "NA", 
-        "state": "co", 
-        "location": "Fort Collins, CO", 
-        "date_order": 170414, 
-        "date_str": "4/14/17", 
-        "prize": 10000
+        "state": "wi", 
+        "location": "Madison, WI", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 20000
+    }, 
+    "6875": {
+        "attendance": 36, 
+        "is_state_champ": true, 
+        "name": "*The Wind Rider Music & BBQ Festival(WFC QUALIFIER)", 
+        "cbj_percentage": "95%", 
+        "state": "nm", 
+        "location": "Ruidoso, NM", 
+        "date_order": 170526, 
+        "date_str": "5/26/17", 
+        "prize": 9000
     }, 
     "4282": {
         "attendance": 60, 
@@ -2947,6 +3189,17 @@
         "date_str": "9/12/14", 
         "prize": 20500
     }, 
+    "6779": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "*Smoke On The Ohio(JUDGES FULL)", 
+        "cbj_percentage": "100%", 
+        "state": "in", 
+        "location": "Mt.Vernon, IN", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 7500
+    }, 
     "4750": {
         "attendance": 35, 
         "is_state_champ": true, 
@@ -3013,16 +3266,27 @@
         "date_str": "4/7/17", 
         "prize": 15000
     }, 
-    "4757": {
-        "attendance": 18, 
+    "6773": {
+        "attendance": 34, 
         "is_state_champ": true, 
-        "name": "Siskiyou Beef Country Cook-Off", 
+        "name": "BBQ on the Bricks", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Montague, CA", 
-        "date_order": 140725, 
-        "date_str": "7/25/14", 
-        "prize": 8000
+        "state": "ne", 
+        "location": "Kearney, NE", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 11000
+    }, 
+    "6942": {
+        "attendance": 23, 
+        "is_state_champ": true, 
+        "name": "Atlanta BBQ Classic (At Atlanta Motor Speedway)", 
+        "cbj_percentage": "100%", 
+        "state": "ga", 
+        "location": "Hampton , GA", 
+        "date_order": 170422, 
+        "date_str": "4/22/17", 
+        "prize": 10000
     }, 
     "5870": {
         "attendance": 16, 
@@ -3058,7 +3322,7 @@
         "prize": 5000
     }, 
     "5875": {
-        "attendance": 31, 
+        "attendance": 30, 
         "is_state_champ": true, 
         "name": "International Goat Days Championship BBQ", 
         "cbj_percentage": "100%", 
@@ -3078,6 +3342,17 @@
         "date_order": 150904, 
         "date_str": "9/4/15", 
         "prize": 7400
+    }, 
+    "7056": {
+        "attendance": 32, 
+        "is_state_champ": true, 
+        "name": "Green Mountain BBQ Championship", 
+        "cbj_percentage": "100%", 
+        "state": "vt", 
+        "location": "Randolph, VT", 
+        "date_order": 170909, 
+        "date_str": "9/9/17", 
+        "prize": 4095
     }, 
     "3752": {
         "attendance": 48, 
@@ -3135,7 +3410,7 @@
         "prize": 15000
     }, 
     "4636": {
-        "attendance": 60, 
+        "attendance": 59, 
         "is_state_champ": true, 
         "name": "Hudson Valley Ribfest", 
         "cbj_percentage": "100%", 
@@ -3233,6 +3508,17 @@
         "date_str": "7/29/16", 
         "prize": 6000
     }, 
+    "6578": {
+        "attendance": 22, 
+        "is_state_champ": true, 
+        "name": "Badger Brew & Que II (Day 2)", 
+        "cbj_percentage": "100%", 
+        "state": "wi", 
+        "location": "Manitowoc, WI", 
+        "date_order": 160806, 
+        "date_str": "8/6/16", 
+        "prize": 4000
+    }, 
     "6356": {
         "attendance": 30, 
         "is_state_champ": true, 
@@ -3244,16 +3530,16 @@
         "date_str": "2/26/16", 
         "prize": 10000
     }, 
-    "4838": {
-        "attendance": 27, 
-        "is_state_champ": true, 
-        "name": "Smokin' N the Ville", 
-        "cbj_percentage": "41%", 
-        "state": "ks", 
-        "location": "Edwardsville, KS", 
-        "date_order": 140425, 
-        "date_str": "4/25/14", 
-        "prize": 2500
+    "6357": {
+        "attendance": 29, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "NA", 
+        "state": "ky", 
+        "location": "Bowling Green, KY", 
+        "date_order": 160513, 
+        "date_str": "5/13/16", 
+        "prize": 10000
     }, 
     "6354": {
         "attendance": 35, 
@@ -3288,27 +3574,38 @@
         "date_str": "8/26/16", 
         "prize": 6000
     }, 
-    "4760": {
-        "attendance": 72, 
+    "6744": {
+        "attendance": 38, 
         "is_state_champ": true, 
-        "name": "Blue Ridge BBQ & Music Festival", 
+        "name": "National Western BBQ Throwdown", 
         "cbj_percentage": "100%", 
-        "state": "nc", 
-        "location": "Tryon, NC", 
-        "date_order": 140613, 
-        "date_str": "6/13/14", 
-        "prize": 21000
+        "state": "co", 
+        "location": "Denver, CO", 
+        "date_order": 170106, 
+        "date_str": "1/6/17", 
+        "prize": 0
     }, 
-    "4527": {
-        "attendance": 67, 
+    "4831": {
+        "attendance": 62, 
         "is_state_champ": true, 
-        "name": "Smokin in Steele", 
+        "name": "Bynum Schools Best of the Basin BBQ Championship", 
+        "cbj_percentage": "16%", 
+        "state": "tx", 
+        "location": "Midland, TX", 
+        "date_order": 140425, 
+        "date_str": "4/25/14", 
+        "prize": 0
+    }, 
+    "6009": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "Brews, Blues & Bar-B-Q", 
         "cbj_percentage": "100%", 
-        "state": "mn", 
-        "location": "Owatonna, MN", 
-        "date_order": 140530, 
-        "date_str": "5/30/14", 
-        "prize": 10175
+        "state": "ks", 
+        "location": "Lansing, KS", 
+        "date_order": 160506, 
+        "date_str": "5/6/16", 
+        "prize": 4500
     }, 
     "4833": {
         "attendance": 42, 
@@ -3321,16 +3618,16 @@
         "date_str": "6/6/14", 
         "prize": 10000
     }, 
-    "4832": {
-        "attendance": 46, 
+    "4524": {
+        "attendance": 59, 
         "is_state_champ": true, 
-        "name": "Battle of the Brisket", 
+        "name": "Naptown barBAYq Contest & Music Festival", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Mission, KS", 
-        "date_order": 140919, 
-        "date_str": "9/19/14", 
-        "prize": 6000
+        "state": "md", 
+        "location": "Annapolis, MD", 
+        "date_order": 140502, 
+        "date_str": "5/2/14", 
+        "prize": 10000
     }, 
     "4835": {
         "attendance": 41, 
@@ -3365,27 +3662,27 @@
         "date_str": "4/11/14", 
         "prize": 4000
     }, 
-    "6359": {
-        "attendance": 29, 
+    "4520": {
+        "attendance": 48, 
         "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "NA", 
+        "name": "The Rotary Club of West Knoxville - Rocky Top Hummin' & Strummin' BBQ Cook-Off", 
+        "cbj_percentage": "100%", 
         "state": "tn", 
-        "location": "Hendersonville, TN", 
-        "date_order": 160617, 
-        "date_str": "6/17/16", 
+        "location": "Knoxville, TN", 
+        "date_order": 140530, 
+        "date_str": "5/30/14", 
         "prize": 10000
     }, 
-    "4422": {
-        "attendance": 18, 
+    "6279": {
+        "attendance": 83, 
         "is_state_champ": true, 
-        "name": "Community Fisrt Bank BBQ Competition (TEAM SPOTS STILL AVAILABLE)", 
-        "cbj_percentage": "77%", 
-        "state": "mo", 
-        "location": "Appleton City, MO", 
-        "date_order": 130927, 
-        "date_str": "9/27/13", 
-        "prize": 4850
+        "name": "*Bixby BBQ'N Blues Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Bixby, OK", 
+        "date_order": 160506, 
+        "date_str": "5/6/16", 
+        "prize": 0
     }, 
     "6196": {
         "attendance": 26, 
@@ -3453,16 +3750,16 @@
         "date_str": "4/8/16", 
         "prize": 11900
     }, 
-    "4764": {
-        "attendance": 31, 
+    "6740": {
+        "attendance": 68, 
         "is_state_champ": true, 
-        "name": "Smokin' in the Junction", 
-        "cbj_percentage": "NA", 
-        "state": "ia", 
-        "location": "West Des Moines, IA", 
-        "date_order": 140524, 
-        "date_str": "5/24/14", 
-        "prize": 10500
+        "name": "Tupelo BBQ Duel- Comp 1", 
+        "cbj_percentage": "100%", 
+        "state": "ms", 
+        "location": "Tupelo, MS", 
+        "date_order": 170317, 
+        "date_str": "3/17/17", 
+        "prize": 10700
     }, 
     "5296": {
         "attendance": 70, 
@@ -3618,6 +3915,17 @@
         "date_str": "8/18/17", 
         "prize": 3500
     }, 
+    "7204": {
+        "attendance": 55, 
+        "is_state_champ": true, 
+        "name": "14th Annual Cookin on the Kaw", 
+        "cbj_percentage": "NA", 
+        "state": "ks", 
+        "location": "Desoto, KS", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 12550
+    }, 
     "6222": {
         "attendance": 40, 
         "is_state_champ": true, 
@@ -3673,17 +3981,6 @@
         "date_str": "7/22/16", 
         "prize": 7650
     }, 
-    "5559": {
-        "attendance": 14, 
-        "is_state_champ": true, 
-        "name": "Butler Chamber of Commerce BBQ & Huckster's Day", 
-        "cbj_percentage": "NA", 
-        "state": "mo", 
-        "location": "Butler, MO", 
-        "date_order": 150911, 
-        "date_str": "9/11/15", 
-        "prize": 4720
-    }, 
     "6228": {
         "attendance": 38, 
         "is_state_champ": true, 
@@ -3706,16 +4003,49 @@
         "date_str": "6/10/16", 
         "prize": 8000
     }, 
-    "4954": {
-        "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour (Regional)", 
+    "7336": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "Riverside Blues, Brews & BBQ Festival", 
         "cbj_percentage": "NA", 
-        "state": "va", 
-        "location": "Richmond, VA", 
-        "date_order": 140829, 
-        "date_str": "8/29/14", 
-        "prize": 20000
+        "state": "ma", 
+        "location": "Greenfield, MA", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 4450
+    }, 
+    "7330": {
+        "attendance": 36, 
+        "is_state_champ": true, 
+        "name": "Rim County BBQ Classic and Testicle Festival", 
+        "cbj_percentage": "94%", 
+        "state": "az", 
+        "location": "Payson, AZ", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 10000
+    }, 
+    "7338": {
+        "attendance": 24, 
+        "is_state_champ": true, 
+        "name": "*The Rumble on the River presented by TheBBQSuperStore.com", 
+        "cbj_percentage": "100%", 
+        "state": "mi", 
+        "location": "Grand Haven , MI", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 7500
+    }, 
+    "6079": {
+        "attendance": 33, 
+        "is_state_champ": true, 
+        "name": "McLouth BBQ Blowout 25th Anniversary (Judges full)", 
+        "cbj_percentage": "7%", 
+        "state": "ks", 
+        "location": "McLouth, KS", 
+        "date_order": 160603, 
+        "date_str": "6/3/16", 
+        "prize": 6125
     }, 
     "5476": {
         "attendance": 57, 
@@ -3882,6 +4212,17 @@
         "date_str": "6/19/15", 
         "prize": 9000
     }, 
+    "7053": {
+        "attendance": 47, 
+        "is_state_champ": true, 
+        "name": "Table Rock Boats and Bones", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Kimberling, MO", 
+        "date_order": 170916, 
+        "date_str": "9/16/17", 
+        "prize": 20000
+    }, 
     "7050": {
         "attendance": 59, 
         "is_state_champ": true, 
@@ -3892,6 +4233,17 @@
         "date_order": 170331, 
         "date_str": "3/31/17", 
         "prize": 8000
+    }, 
+    "7051": {
+        "attendance": 69, 
+        "is_state_champ": true, 
+        "name": "New Holland Summer Fest", 
+        "cbj_percentage": "100%", 
+        "state": "pa", 
+        "location": "New Holland, PA", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 10700
     }, 
     "5278": {
         "attendance": 52, 
@@ -3925,17 +4277,6 @@
         "date_order": 170603, 
         "date_str": "6/3/17", 
         "prize": 27000
-    }, 
-    "3972": {
-        "attendance": 25, 
-        "is_state_champ": true, 
-        "name": "5th Annual Hay Capital BBQ Cook Off", 
-        "cbj_percentage": "NA", 
-        "state": "ks", 
-        "location": "Yates Center, KS", 
-        "date_order": 130913, 
-        "date_str": "9/13/13", 
-        "prize": 4500
     }, 
     "5332": {
         "attendance": 49, 
@@ -3971,7 +4312,7 @@
         "prize": 0
     }, 
     "6994": {
-        "attendance": 43, 
+        "attendance": 42, 
         "is_state_champ": true, 
         "name": "Smokin On The Pecos-Doubleheader-Day 1", 
         "cbj_percentage": "100%", 
@@ -4002,6 +4343,17 @@
         "date_order": 170811, 
         "date_str": "8/11/17", 
         "prize": 10000
+    }, 
+    "6990": {
+        "attendance": 26, 
+        "is_state_champ": true, 
+        "name": "*Butler Chambers Of Commerce BBQ & Hucksters Days", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Butler, MO", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 0
     }, 
     "6993": {
         "attendance": 41, 
@@ -4103,7 +4455,7 @@
         "prize": 0
     }, 
     "5604": {
-        "attendance": 43, 
+        "attendance": 42, 
         "is_state_champ": true, 
         "name": "Kelley Wilson Memorial BBQ Competition", 
         "cbj_percentage": "100%", 
@@ -4322,16 +4674,16 @@
         "date_str": "9/16/16", 
         "prize": 8200
     }, 
-    "6429": {
-        "attendance": 48, 
+    "4290": {
+        "attendance": 41, 
         "is_state_champ": true, 
-        "name": "3rd Annual Pickin' N Pullin", 
-        "cbj_percentage": "67%", 
-        "state": "va", 
-        "location": "Lanexa, VA", 
-        "date_order": 160429, 
-        "date_str": "4/29/16", 
-        "prize": 4750
+        "name": "Smoke on the Water", 
+        "cbj_percentage": "75%", 
+        "state": "ks", 
+        "location": "Topeka, KS", 
+        "date_order": 131011, 
+        "date_str": "10/11/13", 
+        "prize": 3500
     }, 
     "4293": {
         "attendance": 38, 
@@ -4366,6 +4718,17 @@
         "date_str": "5/6/16", 
         "prize": 3150
     }, 
+    "4695": {
+        "attendance": 31, 
+        "is_state_champ": true, 
+        "name": "The SLV Beat the Heat BBQ, Brews and Chili Competition", 
+        "cbj_percentage": "97%", 
+        "state": "co", 
+        "location": "Alamosa, CO", 
+        "date_order": 140801, 
+        "date_str": "8/1/14", 
+        "prize": 0
+    }, 
     "6168": {
         "attendance": 47, 
         "is_state_champ": true, 
@@ -4376,6 +4739,17 @@
         "date_order": 160805, 
         "date_str": "8/5/16", 
         "prize": 12000
+    }, 
+    "4694": {
+        "attendance": 17, 
+        "is_state_champ": true, 
+        "name": "Ridgefield Gone Country BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ct", 
+        "location": "Ridgefield, CT", 
+        "date_order": 140503, 
+        "date_str": "5/3/14", 
+        "prize": 5500
     }, 
     "6162": {
         "attendance": 43, 
@@ -4509,6 +4883,17 @@
         "date_str": "10/8/15", 
         "prize": 5000
     }, 
+    "4697": {
+        "attendance": 42, 
+        "is_state_champ": true, 
+        "name": "9th Annual Lambs Farm Barn Burner Bar-B-Q", 
+        "cbj_percentage": "100%", 
+        "state": "il", 
+        "location": "Libertyville, IL", 
+        "date_order": 141017, 
+        "date_str": "10/17/14", 
+        "prize": 4400
+    }, 
     "5867": {
         "attendance": 16, 
         "is_state_champ": true, 
@@ -4531,16 +4916,16 @@
         "date_str": "7/24/15", 
         "prize": 10000
     }, 
-    "6138": {
-        "attendance": 22, 
+    "4716": {
+        "attendance": 53, 
         "is_state_champ": true, 
-        "name": "Hott Butts BBQ Contest", 
+        "name": "Keystone Classic Barbeque", 
         "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Boonville, MO", 
-        "date_order": 160603, 
-        "date_str": "6/3/16", 
-        "prize": 5250
+        "state": "pa", 
+        "location": "Harrisburg, PA", 
+        "date_order": 141003, 
+        "date_str": "10/3/14", 
+        "prize": 7250
     }, 
     "4604": {
         "attendance": 41, 
@@ -4576,7 +4961,7 @@
         "prize": 6000
     }, 
     "4600": {
-        "attendance": 39, 
+        "attendance": 38, 
         "is_state_champ": true, 
         "name": "Ribs, Pigs & Watermelons Day 1", 
         "cbj_percentage": "100%", 
@@ -4597,16 +4982,16 @@
         "date_str": "9/5/14", 
         "prize": 7000
     }, 
-    "6905": {
-        "attendance": 39, 
+    "6453": {
+        "attendance": 48, 
         "is_state_champ": true, 
-        "name": "Apple Blossom Bar-B-Q", 
-        "cbj_percentage": "96%", 
-        "state": "mo", 
-        "location": "St. Joseph, MO", 
-        "date_order": 170505, 
-        "date_str": "5/5/17", 
-        "prize": 10000
+        "name": "Smoke on the Water Barbecue Championship", 
+        "cbj_percentage": "NA", 
+        "state": "nj", 
+        "location": "Atlantic City, NJ", 
+        "date_order": 161008, 
+        "date_str": "10/8/16", 
+        "prize": 15000
     }, 
     "6699": {
         "attendance": 15, 
@@ -4619,16 +5004,16 @@
         "date_str": "10/21/16", 
         "prize": 3000
     }, 
-    "6904": {
-        "attendance": 14, 
+    "6452": {
+        "attendance": 23, 
         "is_state_champ": true, 
-        "name": "Hog Wild BBQ Festival", 
-        "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Chandler, OK", 
-        "date_order": 170623, 
-        "date_str": "6/23/17", 
-        "prize": 6600
+        "name": "Saltwater Brew 'N' Que", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Chincoteague, VA", 
+        "date_order": 160520, 
+        "date_str": "5/20/16", 
+        "prize": 6000
     }, 
     "6697": {
         "attendance": 39, 
@@ -4674,48 +5059,48 @@
         "date_str": "12/9/16", 
         "prize": 0
     }, 
-    "4718": {
-        "attendance": 47, 
+    "6136": {
+        "attendance": 25, 
         "is_state_champ": true, 
-        "name": "Grill Games", 
+        "name": "Truman Heritage Festival BBQ Championship", 
         "cbj_percentage": "100%", 
-        "state": "wi", 
-        "location": "Kenosha, WI", 
-        "date_order": 140822, 
-        "date_str": "8/22/14", 
-        "prize": 9000
-    }, 
-    "6137": {
-        "attendance": 22, 
-        "is_state_champ": true, 
-        "name": "5th Annual Smokin on the Lake", 
-        "cbj_percentage": "95%", 
         "state": "mo", 
-        "location": "Monroe City, MO", 
-        "date_order": 160603, 
-        "date_str": "6/3/16", 
-        "prize": 4825
+        "location": "Grandview, MO", 
+        "date_order": 160506, 
+        "date_str": "5/6/16", 
+        "prize": 4750
     }, 
-    "6459": {
-        "attendance": 32, 
+    "4719": {
+        "attendance": 35, 
         "is_state_champ": true, 
-        "name": "*Mankato Cookout Day 2 and( Back Yard)", 
+        "name": "Classic City BBQ Fest & Tailgate Show (GBC Qualifier)", 
         "cbj_percentage": "100%", 
-        "state": "mn", 
-        "location": "Mankato, MN", 
-        "date_order": 160611, 
-        "date_str": "6/11/16", 
-        "prize": 7500
+        "state": "ga", 
+        "location": "Athens, GA", 
+        "date_order": 140814, 
+        "date_str": "8/14/14", 
+        "prize": 10000
     }, 
-    "6343": {
-        "attendance": 30, 
+    "5766": {
+        "attendance": 55, 
         "is_state_champ": true, 
-        "name": "Barber Q Battle", 
+        "name": "Decatur Jaycee's 21st Annual Riverfest", 
         "cbj_percentage": "100%", 
         "state": "al", 
-        "location": "Birmingham, AL", 
-        "date_order": 160520, 
-        "date_str": "5/20/16", 
+        "location": "Decatur, AL", 
+        "date_order": 150911, 
+        "date_str": "9/11/15", 
+        "prize": 18000
+    }, 
+    "4518": {
+        "attendance": 31, 
+        "is_state_champ": true, 
+        "name": "Days of 47 BBQ Showdown", 
+        "cbj_percentage": "77%", 
+        "state": "ut", 
+        "location": "Holladay, UT", 
+        "date_order": 140724, 
+        "date_str": "7/24/14", 
         "prize": 10000
     }, 
     "4519": {
@@ -4839,16 +5224,16 @@
         "date_str": "7/29/16", 
         "prize": 10000
     }, 
-    "6909": {
+    "6182": {
         "attendance": 32, 
         "is_state_champ": true, 
-        "name": "9th Annual Auburn Hills Barbecue Cook-off", 
-        "cbj_percentage": "100%", 
-        "state": "mi", 
-        "location": "Auburn Hills, MI", 
-        "date_order": 170623, 
-        "date_str": "6/23/17", 
-        "prize": 8000
+        "name": "BBQ'Loo & Blues Too", 
+        "cbj_percentage": "NA", 
+        "state": "ia", 
+        "location": "Waterloo, IA", 
+        "date_order": 160715, 
+        "date_str": "7/15/16", 
+        "prize": 10000
     }, 
     "6180": {
         "attendance": 40, 
@@ -4860,6 +5245,17 @@
         "date_order": 160625, 
         "date_str": "6/25/16", 
         "prize": 4095
+    }, 
+    "6954": {
+        "attendance": 64, 
+        "is_state_champ": true, 
+        "name": "9th Annual VFW Post 846 BBQ Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "ks", 
+        "location": "Overland Park, KS", 
+        "date_order": 170421, 
+        "date_str": "4/21/17", 
+        "prize": 5000
     }, 
     "6189": {
         "attendance": 25, 
@@ -4895,7 +5291,7 @@
         "prize": 16000
     }, 
     "5280": {
-        "attendance": 60, 
+        "attendance": 58, 
         "is_state_champ": true, 
         "name": "Smokin' in Steel", 
         "cbj_percentage": "100%", 
@@ -4949,8 +5345,30 @@
         "date_str": "7/1/17", 
         "prize": 3000
     }, 
+    "7237": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "*Beach Boogie and BBQ Festival (PALMETTO BBQ SERIES)", 
+        "cbj_percentage": "99%", 
+        "state": "sc", 
+        "location": "Myrtle Beach, SC", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 7460
+    }, 
+    "7234": {
+        "attendance": 53, 
+        "is_state_champ": false, 
+        "name": "Oinktoberfest", 
+        "cbj_percentage": "100%", 
+        "state": "ny", 
+        "location": "Clarence, NY", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 8800
+    }, 
     "7233": {
-        "attendance": 37, 
+        "attendance": 36, 
         "is_state_champ": true, 
         "name": "*BBQ & BREWS", 
         "cbj_percentage": "NA", 
@@ -4971,16 +5389,16 @@
         "date_str": "9/27/14", 
         "prize": 4600
     }, 
-    "5048": {
-        "attendance": 20, 
+    "7231": {
+        "attendance": 22, 
         "is_state_champ": true, 
-        "name": "Pork in the Park", 
+        "name": "*Smokin on the Rez BBQ and Music Festival (DAY 1) (JUDGES LIST FULL)", 
         "cbj_percentage": "100%", 
-        "state": "ct", 
-        "location": "Stamford, CT", 
-        "date_order": 140712, 
-        "date_str": "7/12/14", 
-        "prize": 8000
+        "state": "ms", 
+        "location": "Ridgeland, MS", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 5200
     }, 
     "5047": {
         "attendance": 27, 
@@ -5005,7 +5423,7 @@
         "prize": 6775
     }, 
     "5044": {
-        "attendance": 48, 
+        "attendance": 46, 
         "is_state_champ": true, 
         "name": "Downtown Jonesboro BBQ Festival", 
         "cbj_percentage": "100%", 
@@ -5070,16 +5488,16 @@
         "date_str": "7/18/14", 
         "prize": 4100
     }, 
-    "4992": {
-        "attendance": 29, 
+    "6239": {
+        "attendance": 18, 
         "is_state_champ": true, 
-        "name": "Thunder in the Park BBQ", 
+        "name": "4th Annual Best BBQ In Town Long Beach BBQ Festival", 
         "cbj_percentage": "100%", 
-        "state": "in", 
-        "location": "Connersville, IN", 
-        "date_order": 140830, 
-        "date_str": "8/30/14", 
-        "prize": 5000
+        "state": "ca", 
+        "location": "Long Beach, CA", 
+        "date_order": 160819, 
+        "date_str": "8/19/16", 
+        "prize": 4625
     }, 
     "6238": {
         "attendance": 63, 
@@ -5091,6 +5509,17 @@
         "date_order": 160819, 
         "date_str": "8/19/16", 
         "prize": 10850
+    }, 
+    "6248": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "PigMaina Lima", 
+        "cbj_percentage": "100%", 
+        "state": "oh", 
+        "location": "Lima, OH", 
+        "date_order": 160527, 
+        "date_str": "5/27/16", 
+        "prize": 5001
     }, 
     "6235": {
         "attendance": 26, 
@@ -5158,16 +5587,16 @@
         "date_str": "10/7/16", 
         "prize": 27350
     }, 
-    "6249": {
-        "attendance": 34, 
+    "7300": {
+        "attendance": 39, 
         "is_state_champ": true, 
-        "name": "Tri City BBQ Fest", 
-        "cbj_percentage": "100%", 
-        "state": "ia", 
-        "location": "Denison, IA", 
-        "date_order": 160916, 
-        "date_str": "9/16/16", 
-        "prize": 10000
+        "name": "Keystone Classic BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "pa", 
+        "location": "Harrisburg, PA", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 7250
     }, 
     "7308": {
         "attendance": 13, 
@@ -5190,6 +5619,17 @@
         "date_order": 170616, 
         "date_str": "6/16/17", 
         "prize": 6000
+    }, 
+    "7044": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "*Hot Pursuit BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Shawnee, OK", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 10000
     }, 
     "5463": {
         "attendance": 25, 
@@ -5389,6 +5829,17 @@
         "date_str": "7/14/17", 
         "prize": 8400
     }, 
+    "6988": {
+        "attendance": 76, 
+        "is_state_champ": true, 
+        "name": "*Independence Fire & Ice BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Independence, MO", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 12750
+    }, 
     "6987": {
         "attendance": 59, 
         "is_state_champ": true, 
@@ -5409,6 +5860,17 @@
         "location": "Westmont, IL", 
         "date_order": 170526, 
         "date_str": "5/26/17", 
+        "prize": 8000
+    }, 
+    "6985": {
+        "attendance": 42, 
+        "is_state_champ": true, 
+        "name": "International Goat Days Championship BBQ Contest-SMOKIN IN THE GOAT PEN", 
+        "cbj_percentage": "100%", 
+        "state": "tn", 
+        "location": "Millington , TN", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
         "prize": 8000
     }, 
     "6984": {
@@ -5466,17 +5928,6 @@
         "date_str": "5/12/17", 
         "prize": 7000
     }, 
-    "4078": {
-        "attendance": 25, 
-        "is_state_champ": true, 
-        "name": "13th Annual Bordertown Bash", 
-        "cbj_percentage": "100%", 
-        "state": "ar", 
-        "location": "Fort Smith, AR", 
-        "date_order": 131019, 
-        "date_str": "10/19/13", 
-        "prize": 7500
-    }, 
     "4476": {
         "attendance": 64, 
         "is_state_champ": true, 
@@ -5488,19 +5939,19 @@
         "date_str": "9/19/14", 
         "prize": 15050
     }, 
-    "6006": {
-        "attendance": 29, 
+    "4909": {
+        "attendance": 65, 
         "is_state_champ": true, 
-        "name": "EffingHAM Jam", 
-        "cbj_percentage": "97%", 
-        "state": "il", 
-        "location": "Effingham, IL", 
-        "date_order": 160722, 
-        "date_str": "7/22/16", 
-        "prize": 6000
+        "name": "Que for the Troops", 
+        "cbj_percentage": "100%", 
+        "state": "pa", 
+        "location": "Levittown, PA", 
+        "date_order": 140606, 
+        "date_str": "6/6/14", 
+        "prize": 5650
     }, 
     "4196": {
-        "attendance": 49, 
+        "attendance": 48, 
         "is_state_champ": true, 
         "name": "Med City BBQ & Musicfest", 
         "cbj_percentage": "100%", 
@@ -5522,7 +5973,7 @@
         "prize": 10300
     }, 
     "4195": {
-        "attendance": 71, 
+        "attendance": 70, 
         "is_state_champ": true, 
         "name": "Oinktoberfest", 
         "cbj_percentage": "95%", 
@@ -5664,82 +6115,93 @@
         "date_str": "9/6/13", 
         "prize": 10000
     }, 
-    "6000": {
-        "attendance": 58, 
-        "is_state_champ": false, 
-        "name": "Lakeland Pig Festival", 
-        "cbj_percentage": "85%", 
-        "state": "fl", 
-        "location": "Lakeland , FL", 
-        "date_order": 160129, 
-        "date_str": "1/29/16", 
-        "prize": 0
-    }, 
-    "4903": {
-        "attendance": 33, 
+    "4679": {
+        "attendance": 43, 
         "is_state_champ": true, 
-        "name": "BBQ in the Bluffs", 
+        "name": "Conifer Mountain BBQ Challenge", 
         "cbj_percentage": "100%", 
-        "state": "ia", 
-        "location": "Council Bluffs, IA", 
-        "date_order": 140509, 
-        "date_str": "5/9/14", 
-        "prize": 8300
-    }, 
-    "4902": {
-        "attendance": 21, 
-        "is_state_champ": true, 
-        "name": "Slab O Rama Barbeque Challenge", 
-        "cbj_percentage": "100%", 
-        "state": "az", 
-        "location": "Bullhead City, AZ", 
-        "date_order": 141010, 
-        "date_str": "10/10/14", 
-        "prize": 16000
-    }, 
-    "4905": {
-        "attendance": 30, 
-        "is_state_champ": true, 
-        "name": "Jammin' Pig BBQ Musice Festival", 
-        "cbj_percentage": "100%", 
-        "state": "nc", 
-        "location": "Winston-Salem, NC", 
-        "date_order": 140411, 
-        "date_str": "4/11/14", 
+        "state": "co", 
+        "location": "Conifer, CO", 
+        "date_order": 140815, 
+        "date_str": "8/15/14", 
         "prize": 10000
     }, 
-    "4904": {
+    "6409": {
+        "attendance": 44, 
+        "is_state_champ": true, 
+        "name": "West Coast BBQ Classic", 
+        "cbj_percentage": "96%", 
+        "state": "ca", 
+        "location": "Long Beach, CA", 
+        "date_order": 160513, 
+        "date_str": "5/13/16", 
+        "prize": 10000
+    }, 
+    "4675": {
         "attendance": 34, 
         "is_state_champ": true, 
-        "name": "Smokin' Up The Saddle Club (SBBQA)", 
+        "name": "Table Rock Boats and Bones", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Kimberling City, MO", 
+        "date_order": 140913, 
+        "date_str": "9/13/14", 
+        "prize": 10000
+    }, 
+    "4674": {
+        "attendance": 43, 
+        "is_state_champ": true, 
+        "name": "Bates County Barbecue State Championship & Festival", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Butler, MO", 
+        "date_order": 140905, 
+        "date_str": "9/5/14", 
+        "prize": 6500
+    }, 
+    "4673": {
+        "attendance": 62, 
+        "is_state_champ": true, 
+        "name": "BBQ Capital Cookoff", 
+        "cbj_percentage": "100%", 
+        "state": "nc", 
+        "location": "Lexington, NC", 
+        "date_order": 140425, 
+        "date_str": "4/25/14", 
+        "prize": 15900
+    }, 
+    "4672": {
+        "attendance": 97, 
+        "is_state_champ": true, 
+        "name": "Dana Point State BBQ Championship", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Dana Point, CA", 
+        "date_order": 141002, 
+        "date_str": "10/2/14", 
+        "prize": 30000
+    }, 
+    "6008": {
+        "attendance": 59, 
+        "is_state_champ": true, 
+        "name": "Sip & Swine BBQ Festival (GBC Qualifier)", 
         "cbj_percentage": "100%", 
         "state": "ga", 
-        "location": "Chatsworth, GA", 
-        "date_order": 141114, 
-        "date_str": "11/14/14", 
-        "prize": 11600
+        "location": "Lawrenceville, GA", 
+        "date_order": 160304, 
+        "date_str": "3/4/16", 
+        "prize": 9500
     }, 
-    "4671": {
-        "attendance": 33, 
+    "4670": {
+        "attendance": 61, 
         "is_state_champ": true, 
-        "name": "Que'n In The Park", 
-        "cbj_percentage": "94%", 
-        "state": "ar", 
-        "location": "Bryant, AR", 
-        "date_order": 140704, 
-        "date_str": "7/4/14", 
-        "prize": 6200
-    }, 
-    "6009": {
-        "attendance": 30, 
-        "is_state_champ": true, 
-        "name": "Brews, Blues & Bar-B-Q", 
+        "name": "Hammond BBQ", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Lansing, KS", 
-        "date_order": 160506, 
-        "date_str": "5/6/16", 
-        "prize": 4500
+        "state": "la", 
+        "location": "Hammond, LA", 
+        "date_order": 140321, 
+        "date_str": "3/21/14", 
+        "prize": 12000
     }, 
     "6434": {
         "attendance": 70, 
@@ -5786,7 +6248,7 @@
         "prize": 8000
     }, 
     "5700": {
-        "attendance": 11, 
+        "attendance": 10, 
         "is_state_champ": false, 
         "name": "Fire at the Foothills BBQ & Chili Cook-Off (BACKYARD CONTEST)", 
         "cbj_percentage": "NA", 
@@ -5973,7 +6435,7 @@
         "prize": 25000
     }, 
     "5811": {
-        "attendance": 49, 
+        "attendance": 48, 
         "is_state_champ": true, 
         "name": "Wild West BBQ Shoot Out", 
         "cbj_percentage": "95%", 
@@ -6027,16 +6489,16 @@
         "date_str": "2/25/16", 
         "prize": 16700
     }, 
-    "4290": {
-        "attendance": 42, 
+    "6429": {
+        "attendance": 48, 
         "is_state_champ": true, 
-        "name": "Smoke on the Water", 
-        "cbj_percentage": "75%", 
-        "state": "ks", 
-        "location": "Topeka, KS", 
-        "date_order": 131011, 
-        "date_str": "10/11/13", 
-        "prize": 3500
+        "name": "3rd Annual Pickin' N Pullin", 
+        "cbj_percentage": "67%", 
+        "state": "va", 
+        "location": "Lanexa, VA", 
+        "date_order": 160429, 
+        "date_str": "4/29/16", 
+        "prize": 4750
     }, 
     "4619": {
         "attendance": 29, 
@@ -6138,7 +6600,7 @@
         "prize": 10000
     }, 
     "4680": {
-        "attendance": 34, 
+        "attendance": 33, 
         "is_state_champ": true, 
         "name": "Smokin' the Fort - BBQ & Bluegrass Festival", 
         "cbj_percentage": "100%", 
@@ -6214,16 +6676,16 @@
         "date_str": "2/5/16", 
         "prize": 0
     }, 
-    "5143": {
-        "attendance": 42, 
-        "is_state_champ": false, 
-        "name": "The Great Vegas Gridiron Grill-Off", 
+    "7398": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Smithfield BBQ Classic", 
         "cbj_percentage": "100%", 
-        "state": "nv", 
-        "location": "Las Vegas, NV", 
-        "date_order": 140905, 
-        "date_str": "9/5/14", 
-        "prize": 50000
+        "state": "va", 
+        "location": "Smithfield , VA", 
+        "date_order": 170804, 
+        "date_str": "8/4/17", 
+        "prize": 10600
     }, 
     "4507": {
         "attendance": 31, 
@@ -6259,7 +6721,7 @@
         "prize": 4400
     }, 
     "4503": {
-        "attendance": 64, 
+        "attendance": 62, 
         "is_state_champ": true, 
         "name": "9th Annual Smokin' Red Dirt BBQ", 
         "cbj_percentage": "100%", 
@@ -6268,6 +6730,17 @@
         "date_order": 140411, 
         "date_str": "4/11/14", 
         "prize": 13000
+    }, 
+    "7074": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "The Real Squeal BBQ & Music Festival (GBC Qualifier)", 
+        "cbj_percentage": "NA", 
+        "state": "ga", 
+        "location": "Lyons, GA", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 20000
     }, 
     "7075": {
         "attendance": 17, 
@@ -6280,27 +6753,38 @@
         "date_str": "6/16/17", 
         "prize": 0
     }, 
-    "6578": {
-        "attendance": 22, 
+    "7076": {
+        "attendance": 34, 
         "is_state_champ": true, 
-        "name": "Badger Brew & Que II (Day 2)", 
+        "name": "Tony Stone-Cookeville Cook-off", 
         "cbj_percentage": "100%", 
-        "state": "wi", 
-        "location": "Manitowoc, WI", 
-        "date_order": 160806, 
-        "date_str": "8/6/16", 
-        "prize": 4000
+        "state": "tn", 
+        "location": "Cookeville, TN", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 10100
     }, 
-    "5078": {
-        "attendance": 9, 
+    "7077": {
+        "attendance": 57, 
         "is_state_champ": true, 
-        "name": "Smokin on Route 66 BBQ Championship", 
-        "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Miami, OK", 
-        "date_order": 140905, 
-        "date_str": "9/5/14", 
-        "prize": 5200
+        "name": "*East Central State BBQ Cook-Off, Paola Roots Festival", 
+        "cbj_percentage": "NA", 
+        "state": "ks", 
+        "location": "Paola, KS", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 4300
+    }, 
+    "7223": {
+        "attendance": 26, 
+        "is_state_champ": true, 
+        "name": "BBQ in the Badlands", 
+        "cbj_percentage": "96%", 
+        "state": "mt", 
+        "location": "Glendive, MT", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 7500
     }, 
     "7222": {
         "attendance": 25, 
@@ -6368,16 +6852,16 @@
         "date_str": "9/12/14", 
         "prize": 5725
     }, 
-    "6248": {
-        "attendance": 29, 
-        "is_state_champ": true, 
-        "name": "PigMaina Lima", 
-        "cbj_percentage": "100%", 
-        "state": "oh", 
-        "location": "Lima, OH", 
-        "date_order": 160527, 
-        "date_str": "5/27/16", 
-        "prize": 5001
+    "4981": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Harper County Bullseye BBQ", 
+        "cbj_percentage": "96%", 
+        "state": "ks", 
+        "location": "Harper, KS", 
+        "date_order": 141017, 
+        "date_str": "10/17/14", 
+        "prize": 10055
     }, 
     "4980": {
         "attendance": 40, 
@@ -6468,7 +6952,7 @@
         "prize": 10200
     }, 
     "6247": {
-        "attendance": 30, 
+        "attendance": 29, 
         "is_state_champ": true, 
         "name": "Boats, Bands, & BBQ", 
         "cbj_percentage": "NA", 
@@ -6566,6 +7050,39 @@
         "date_str": "10/16/15", 
         "prize": 4400
     }, 
+    "4877": {
+        "attendance": 53, 
+        "is_state_champ": true, 
+        "name": "Balloons & BBQ Festival at Kansas Speedway", 
+        "cbj_percentage": "100%", 
+        "state": "ks", 
+        "location": "Kansas City, KS", 
+        "date_order": 140808, 
+        "date_str": "8/8/14", 
+        "prize": 10000
+    }, 
+    "7319": {
+        "attendance": 37, 
+        "is_state_champ": true, 
+        "name": "Wild West BBQ Shoot Out", 
+        "cbj_percentage": "100%", 
+        "state": "nv", 
+        "location": "West Wendover, NV", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 35000
+    }, 
+    "7318": {
+        "attendance": 18, 
+        "is_state_champ": true, 
+        "name": "*Smokin' Blues & BBQ Festival", 
+        "cbj_percentage": "NA", 
+        "state": "tx", 
+        "location": "Duncanville, TX", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 0
+    }, 
     "7315": {
         "attendance": 17, 
         "is_state_champ": false, 
@@ -6589,7 +7106,7 @@
         "prize": 5000
     }, 
     "7313": {
-        "attendance": 29, 
+        "attendance": 28, 
         "is_state_champ": true, 
         "name": "Beltway BBQ Showdown", 
         "cbj_percentage": "NA", 
@@ -6598,6 +7115,39 @@
         "date_order": 170609, 
         "date_str": "6/9/17", 
         "prize": 15000
+    }, 
+    "7312": {
+        "attendance": 7, 
+        "is_state_champ": true, 
+        "name": "*Grillin'@Gator Grounds", 
+        "cbj_percentage": "100%", 
+        "state": "la", 
+        "location": "Bunkie, LA", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 3050
+    }, 
+    "6493": {
+        "attendance": 43, 
+        "is_state_champ": true, 
+        "name": "Cherokee Strip BBQ Cook-Off", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Ponca City, OK", 
+        "date_order": 160916, 
+        "date_str": "9/16/16", 
+        "prize": 12900
+    }, 
+    "4878": {
+        "attendance": 48, 
+        "is_state_champ": true, 
+        "name": "The Guinea Pig (Competitor's Series)", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Indio, CA", 
+        "date_order": 140221, 
+        "date_str": "2/21/14", 
+        "prize": 10600
     }, 
     "7030": {
         "attendance": 25, 
@@ -6654,6 +7204,17 @@
         "date_str": "10/23/15", 
         "prize": 8850
     }, 
+    "7036": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "*Derby BBQ Festival(JUDGES FULL)", 
+        "cbj_percentage": "99%", 
+        "state": "ks", 
+        "location": "Derby, KS", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 10000
+    }, 
     "5494": {
         "attendance": 27, 
         "is_state_champ": true, 
@@ -6688,7 +7249,7 @@
         "prize": 0
     }, 
     "5497": {
-        "attendance": 37, 
+        "attendance": 36, 
         "is_state_champ": true, 
         "name": "Smokin' in the Junction", 
         "cbj_percentage": "100%", 
@@ -6732,7 +7293,7 @@
         "prize": 0
     }, 
     "5493": {
-        "attendance": 39, 
+        "attendance": 38, 
         "is_state_champ": true, 
         "name": "BBQ'Loo & Blues Too!", 
         "cbj_percentage": "100%", 
@@ -6830,16 +7391,16 @@
         "date_str": "7/9/15", 
         "prize": 25000
     }, 
-    "4062": {
-        "attendance": 40, 
+    "5946": {
+        "attendance": 27, 
         "is_state_champ": true, 
-        "name": "9th Annual WildBlue BBQ", 
-        "cbj_percentage": "94%", 
-        "state": "ks", 
-        "location": "Burlington, KS", 
-        "date_order": 130719, 
-        "date_str": "7/19/13", 
-        "prize": 7130
+        "name": "*George County Firefighters Association BBQ Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "ms", 
+        "location": "Lucedale, MS", 
+        "date_order": 160506, 
+        "date_str": "5/6/16", 
+        "prize": 6910
     }, 
     "6253": {
         "attendance": 61, 
@@ -6852,16 +7413,16 @@
         "date_str": "4/1/16", 
         "prize": 14100
     }, 
-    "4061": {
-        "attendance": 28, 
-        "is_state_champ": true, 
-        "name": "Smoke On The River", 
+    "5945": {
+        "attendance": 22, 
+        "is_state_champ": false, 
+        "name": "The Outlets @ Lake Elsinore  BBQ State Championship", 
         "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Quincy, IL", 
-        "date_order": 130906, 
-        "date_str": "9/6/13", 
-        "prize": 6500
+        "state": "ca", 
+        "location": "Lake Elsinore, CA", 
+        "date_order": 150913, 
+        "date_str": "9/13/15", 
+        "prize": 5000
     }, 
     "4975": {
         "attendance": 31, 
@@ -6907,8 +7468,19 @@
         "date_str": "5/5/17", 
         "prize": 6000
     }, 
+    "7142": {
+        "attendance": 23, 
+        "is_state_champ": true, 
+        "name": "*Harbor-Que", 
+        "cbj_percentage": "NA", 
+        "state": "il", 
+        "location": "Winthrop Harbor, IL", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 5000
+    }, 
     "6256": {
-        "attendance": 17, 
+        "attendance": 16, 
         "is_state_champ": false, 
         "name": "2016 Clayton Rib Cook-off (COMPETITOR SERIES )", 
         "cbj_percentage": "100%", 
@@ -6917,6 +7489,17 @@
         "date_order": 160805, 
         "date_str": "8/5/16", 
         "prize": 2700
+    }, 
+    "4397": {
+        "attendance": 41, 
+        "is_state_champ": true, 
+        "name": "Cowboy Up at the PRCA Rodeo & BBQ", 
+        "cbj_percentage": "95%", 
+        "state": "ca", 
+        "location": "Lancaster, CA", 
+        "date_order": 131018, 
+        "date_str": "10/18/13", 
+        "prize": 10000
     }, 
     "4182": {
         "attendance": 26, 
@@ -6941,7 +7524,7 @@
         "prize": 5900
     }, 
     "6537": {
-        "attendance": 37, 
+        "attendance": 36, 
         "is_state_champ": true, 
         "name": "Beltway BBQ Showdown", 
         "cbj_percentage": "94%", 
@@ -7017,17 +7600,6 @@
         "date_str": "8/19/16", 
         "prize": 10000
     }, 
-    "4064": {
-        "attendance": 44, 
-        "is_state_champ": true, 
-        "name": "Morton BBQ Throwdown (TEAMS & JUDGES FULL - May email to be put on waitlist)", 
-        "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Morton, IL", 
-        "date_order": 130726, 
-        "date_str": "7/26/13", 
-        "prize": 8625
-    }, 
     "3875": {
         "attendance": 28, 
         "is_state_champ": true, 
@@ -7084,7 +7656,7 @@
         "prize": 10000
     }, 
     "5717": {
-        "attendance": 17, 
+        "attendance": 16, 
         "is_state_champ": false, 
         "name": "2015 BBQ & Brew (BACKYARD CONTEST ONLY)", 
         "cbj_percentage": "NA", 
@@ -7117,7 +7689,7 @@
         "prize": 4600
     }, 
     "5711": {
-        "attendance": 29, 
+        "attendance": 28, 
         "is_state_champ": true, 
         "name": "Montana BBQ Cook-Off", 
         "cbj_percentage": "100%", 
@@ -7171,16 +7743,16 @@
         "date_str": "9/26/14", 
         "prize": 9000
     }, 
-    "6744": {
-        "attendance": 38, 
+    "4760": {
+        "attendance": 71, 
         "is_state_champ": true, 
-        "name": "National Western BBQ Throwdown", 
+        "name": "Blue Ridge BBQ & Music Festival", 
         "cbj_percentage": "100%", 
-        "state": "co", 
-        "location": "Denver, CO", 
-        "date_order": 170106, 
-        "date_str": "1/6/17", 
-        "prize": 0
+        "state": "nc", 
+        "location": "Tryon, NC", 
+        "date_order": 140613, 
+        "date_str": "6/13/14", 
+        "prize": 21000
     }, 
     "6741": {
         "attendance": 45, 
@@ -7193,16 +7765,16 @@
         "date_str": "3/18/17", 
         "prize": 10700
     }, 
-    "6740": {
-        "attendance": 68, 
+    "4764": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "Tupelo BBQ Duel- Comp 1", 
-        "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Tupelo, MS", 
-        "date_order": 170317, 
-        "date_str": "3/17/17", 
-        "prize": 10700
+        "name": "Smokin' in the Junction", 
+        "cbj_percentage": "NA", 
+        "state": "ia", 
+        "location": "West Des Moines, IA", 
+        "date_order": 140524, 
+        "date_str": "5/24/14", 
+        "prize": 10500
     }, 
     "6743": {
         "attendance": 40, 
@@ -7216,7 +7788,7 @@
         "prize": 10000
     }, 
     "4766": {
-        "attendance": 47, 
+        "attendance": 46, 
         "is_state_champ": true, 
         "name": "Crossborder Blues, Brews & Que", 
         "cbj_percentage": "100%", 
@@ -7304,7 +7876,7 @@
         "prize": 9000
     }, 
     "4163": {
-        "attendance": 56, 
+        "attendance": 55, 
         "is_state_champ": true, 
         "name": "Wine, Brew  & Bar-B-Que Too!", 
         "cbj_percentage": "NA", 
@@ -7403,7 +7975,7 @@
         "prize": 10750
     }, 
     "5800": {
-        "attendance": 54, 
+        "attendance": 53, 
         "is_state_champ": true, 
         "name": "7th Annual Vista BBQ Classic", 
         "cbj_percentage": "100%", 
@@ -7667,7 +8239,7 @@
         "prize": 9400
     }, 
     "4885": {
-        "attendance": 69, 
+        "attendance": 68, 
         "is_state_champ": true, 
         "name": "East Central State BBQ Cook Off Paola Roots Festival", 
         "cbj_percentage": "100%", 
@@ -7777,7 +8349,7 @@
         "prize": 10000
     }, 
     "4978": {
-        "attendance": 551, 
+        "attendance": 549, 
         "is_state_champ": true, 
         "name": "35th Annual American Royal World Series of Barbecue Open", 
         "cbj_percentage": "NA", 
@@ -7886,17 +8458,6 @@
         "date_str": "8/26/16", 
         "prize": 10000
     }, 
-    "6820": {
-        "attendance": 27, 
-        "is_state_champ": true, 
-        "name": "Seventh Annual Bull Moose", 
-        "cbj_percentage": "NA", 
-        "state": "tn", 
-        "location": "Somerville, TN", 
-        "date_order": 170407, 
-        "date_str": "4/7/17", 
-        "prize": 5000
-    }, 
     "5397": {
         "attendance": 25, 
         "is_state_champ": true, 
@@ -7941,16 +8502,38 @@
         "date_str": "5/8/15", 
         "prize": 10150
     }, 
-    "4248": {
-        "attendance": 56, 
+    "7363": {
+        "attendance": 129, 
         "is_state_champ": true, 
-        "name": "Ak-Sar-Ben's River City Rodeo & Stock Show", 
+        "name": "38th American Royal World Series of Barbecue (INVITATIONAL)", 
         "cbj_percentage": "100%", 
-        "state": "ne", 
-        "location": "Omaha, NE", 
-        "date_order": 130927, 
-        "date_str": "9/27/13", 
-        "prize": 6900
+        "state": "ks", 
+        "location": "Kansas City, KS", 
+        "date_order": 170831, 
+        "date_str": "8/31/17", 
+        "prize": 31300
+    }, 
+    "7364": {
+        "attendance": 407, 
+        "is_state_champ": true, 
+        "name": "38th American Royal World Series of Barbecue (OPEN)", 
+        "cbj_percentage": "82%", 
+        "state": "ks", 
+        "location": "Kansas City, KS", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 68850
+    }, 
+    "7365": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "Smokin in The Hills (Limited to the first 25 teams)", 
+        "cbj_percentage": "100%", 
+        "state": "oh", 
+        "location": "Hillsboro, OH", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 5000
     }, 
     "5584": {
         "attendance": 41, 
@@ -7973,17 +8556,6 @@
         "date_order": 150717, 
         "date_str": "7/17/15", 
         "prize": 10000
-    }, 
-    "4249": {
-        "attendance": 58, 
-        "is_state_champ": true, 
-        "name": "Racing For The BBQ", 
-        "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Lee's Summit, MO", 
-        "date_order": 130726, 
-        "date_str": "7/26/13", 
-        "prize": 4600
     }, 
     "5489": {
         "attendance": 33, 
@@ -8117,16 +8689,16 @@
         "date_str": "6/19/15", 
         "prize": 8000
     }, 
-    "6575": {
-        "attendance": 8, 
-        "is_state_champ": false, 
-        "name": "Ribs & Rockets(Competitor Series/Invite Only/ Judges Full)", 
-        "cbj_percentage": "NA", 
-        "state": "ca", 
-        "location": "Sacramento, CA", 
-        "date_order": 160611, 
-        "date_str": "6/11/16", 
-        "prize": 0
+    "5628": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "100%", 
+        "state": "wa", 
+        "location": "Renton, WA", 
+        "date_order": 150403, 
+        "date_str": "4/3/15", 
+        "prize": 10000
     }, 
     "5243": {
         "attendance": 29, 
@@ -8149,6 +8721,17 @@
         "date_order": 150327, 
         "date_str": "3/27/15", 
         "prize": 10000
+    }, 
+    "7020": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "Grills N Grills", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "penn Valley, CA", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 6000
     }, 
     "5626": {
         "attendance": 29, 
@@ -8182,6 +8765,17 @@
         "date_order": 160813, 
         "date_str": "8/13/16", 
         "prize": 5000
+    }, 
+    "6548": {
+        "attendance": 38, 
+        "is_state_champ": true, 
+        "name": "Plant City Pig Jam", 
+        "cbj_percentage": "100%", 
+        "state": "fl", 
+        "location": "Plant City, FL", 
+        "date_order": 161118, 
+        "date_str": "11/18/16", 
+        "prize": 15000
     }, 
     "5623": {
         "attendance": 30, 
@@ -8249,6 +8843,17 @@
         "date_str": "6/23/17", 
         "prize": 10000
     }, 
+    "7156": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Colorado Pork & Hops Challenge", 
+        "cbj_percentage": "NA", 
+        "state": "co", 
+        "location": "Grand Jct, CO", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 0
+    }, 
     "7155": {
         "attendance": 27, 
         "is_state_champ": true, 
@@ -8270,6 +8875,17 @@
         "date_order": 170818, 
         "date_str": "8/18/17", 
         "prize": 10000
+    }, 
+    "7152": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "*Currituck Heritage Festival", 
+        "cbj_percentage": "100%", 
+        "state": "nc", 
+        "location": "Powells Point, NC", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 11500
     }, 
     "7151": {
         "attendance": 40, 
@@ -8304,16 +8920,16 @@
         "date_str": "6/3/16", 
         "prize": 5000
     }, 
-    "6529": {
-        "attendance": 30, 
+    "5656": {
+        "attendance": 34, 
         "is_state_champ": true, 
-        "name": "2016 Smokin in the Wood BBQ Competition", 
+        "name": "Hog Happenin' BBQ & Bike Fest", 
         "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Greenwood, MO", 
-        "date_order": 160513, 
-        "date_str": "5/13/16", 
-        "prize": 5000
+        "state": "nc", 
+        "location": "Lincolnton, NC", 
+        "date_order": 150605, 
+        "date_str": "6/5/15", 
+        "prize": 7750
     }, 
     "4373": {
         "attendance": 16, 
@@ -8368,17 +8984,6 @@
         "location": "Shawnee, OK", 
         "date_order": 150724, 
         "date_str": "7/24/15", 
-        "prize": 0
-    }, 
-    "4831": {
-        "attendance": 62, 
-        "is_state_champ": true, 
-        "name": "Bynum Schools Best of the Basin BBQ Championship", 
-        "cbj_percentage": "16%", 
-        "state": "tx", 
-        "location": "Midland, TX", 
-        "date_order": 140425, 
-        "date_str": "4/25/14", 
         "prize": 0
     }, 
     "4080": {
@@ -8458,6 +9063,17 @@
         "date_str": "7/19/13", 
         "prize": 7500
     }, 
+    "4458": {
+        "attendance": 37, 
+        "is_state_champ": false, 
+        "name": "Shotgun Fred BBQ Showdown", 
+        "cbj_percentage": "100%", 
+        "state": "tx", 
+        "location": "Huntsville, TX", 
+        "date_order": 140227, 
+        "date_str": "2/27/14", 
+        "prize": 0
+    }, 
     "6418": {
         "attendance": 54, 
         "is_state_champ": true, 
@@ -8469,16 +9085,16 @@
         "date_str": "7/29/16", 
         "prize": 4600
     }, 
-    "6415": {
-        "attendance": 36, 
+    "5722": {
+        "attendance": 41, 
         "is_state_champ": true, 
-        "name": "Central  Iowa Expo BBQ (Day 2) (Judges Full)", 
-        "cbj_percentage": "NA", 
-        "state": "ia", 
-        "location": "Boone, IA", 
-        "date_order": 160423, 
-        "date_str": "4/23/16", 
-        "prize": 7000
+        "name": "Hawgin on Lanier (GBC Qualifier)", 
+        "cbj_percentage": "100%", 
+        "state": "ga", 
+        "location": "Gainesville, GA", 
+        "date_order": 150828, 
+        "date_str": "8/28/15", 
+        "prize": 10000
     }, 
     "5723": {
         "attendance": 65, 
@@ -8579,15 +9195,15 @@
         "date_str": "9/13/13", 
         "prize": 7000
     }, 
-    "4518": {
-        "attendance": 31, 
+    "6343": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "Days of 47 BBQ Showdown", 
-        "cbj_percentage": "77%", 
-        "state": "ut", 
-        "location": "Holladay, UT", 
-        "date_order": 140724, 
-        "date_str": "7/24/14", 
+        "name": "Barber Q Battle", 
+        "cbj_percentage": "100%", 
+        "state": "al", 
+        "location": "Birmingham, AL", 
+        "date_order": 160520, 
+        "date_str": "5/20/16", 
         "prize": 10000
     }, 
     "4798": {
@@ -8623,16 +9239,16 @@
         "date_str": "6/16/17", 
         "prize": 10000
     }, 
-    "6738": {
-        "attendance": 32, 
+    "4794": {
+        "attendance": 33, 
         "is_state_champ": true, 
-        "name": "*Original SD BBQ Championships", 
-        "cbj_percentage": "98%", 
-        "state": "sd", 
-        "location": "Huron, SD", 
-        "date_order": 170602, 
-        "date_str": "6/2/17", 
-        "prize": 13475
+        "name": "Blazin' BBQ & Bluegrass", 
+        "cbj_percentage": "100%", 
+        "state": "in", 
+        "location": "Plymouth, IN", 
+        "date_order": 140919, 
+        "date_str": "9/19/14", 
+        "prize": 7000
     }, 
     "4795": {
         "attendance": 38, 
@@ -8777,17 +9393,6 @@
         "date_str": "4/22/16", 
         "prize": 13200
     }, 
-    "5633": {
-        "attendance": 29, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "100%", 
-        "state": "sc", 
-        "location": "N. Charleston, SC", 
-        "date_order": 150612, 
-        "date_str": "6/12/15", 
-        "prize": 10000
-    }, 
     "4837": {
         "attendance": 30, 
         "is_state_champ": true, 
@@ -8888,7 +9493,7 @@
         "prize": 31300
     }, 
     "6649": {
-        "attendance": 556, 
+        "attendance": 553, 
         "is_state_champ": true, 
         "name": "37th Annual American Royal World Series of Barbecue(OPEN)", 
         "cbj_percentage": "NA", 
@@ -8910,7 +9515,7 @@
         "prize": 20000
     }, 
     "6645": {
-        "attendance": 44, 
+        "attendance": 40, 
         "is_state_champ": true, 
         "name": "*Downtown Jonesboro BBQ Festival", 
         "cbj_percentage": "44%", 
@@ -8932,7 +9537,7 @@
         "prize": 0
     }, 
     "6647": {
-        "attendance": 24, 
+        "attendance": 23, 
         "is_state_champ": true, 
         "name": "The Great Adirondack BBQ Festival", 
         "cbj_percentage": "100%", 
@@ -8974,17 +9579,6 @@
         "date_order": 151107, 
         "date_str": "11/7/15", 
         "prize": 5000
-    }, 
-    "6182": {
-        "attendance": 32, 
-        "is_state_champ": true, 
-        "name": "BBQ'Loo & Blues Too", 
-        "cbj_percentage": "NA", 
-        "state": "ia", 
-        "location": "Waterloo, IA", 
-        "date_order": 160715, 
-        "date_str": "7/15/16", 
-        "prize": 10000
     }, 
     "4563": {
         "attendance": 39, 
@@ -9075,7 +9669,7 @@
         "prize": 2750
     }, 
     "6392": {
-        "attendance": 29, 
+        "attendance": 28, 
         "is_state_champ": true, 
         "name": "International Goat Days Championship BBQ", 
         "cbj_percentage": "100%", 
@@ -9405,7 +9999,7 @@
         "prize": 15000
     }, 
     "4961": {
-        "attendance": 35, 
+        "attendance": 34, 
         "is_state_champ": true, 
         "name": "Fiddle-N-Pig Shindig", 
         "cbj_percentage": "100%", 
@@ -9415,16 +10009,16 @@
         "date_str": "9/19/14", 
         "prize": 11500
     }, 
-    "5432": {
-        "attendance": 30, 
+    "7096": {
+        "attendance": 28, 
         "is_state_champ": true, 
-        "name": "Big Blue BBQ Championship", 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Marysville, KS", 
-        "date_order": 150605, 
-        "date_str": "6/5/15", 
-        "prize": 0
+        "state": "al", 
+        "location": "Daphne, AL", 
+        "date_order": 170224, 
+        "date_str": "2/24/17", 
+        "prize": 10000
     }, 
     "7097": {
         "attendance": 29, 
@@ -9437,16 +10031,38 @@
         "date_str": "5/12/17", 
         "prize": 10000
     }, 
-    "5431": {
-        "attendance": 55, 
+    "7095": {
+        "attendance": 47, 
         "is_state_champ": true, 
-        "name": "Murphysboro Barbecue Cook-Off", 
+        "name": "Fire on Ice Barbecue World Championship", 
         "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Murphysboro, IL", 
-        "date_order": 150925, 
-        "date_str": "9/25/15", 
-        "prize": 11950
+        "state": "mn", 
+        "location": "Onamia, MN", 
+        "date_order": 170303, 
+        "date_str": "3/3/17", 
+        "prize": 5700
+    }, 
+    "6492": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "Knights of Columbus BBQ Smoke Off", 
+        "cbj_percentage": "99%", 
+        "state": "ks", 
+        "location": "Kansas City, KS", 
+        "date_order": 160617, 
+        "date_str": "6/17/16", 
+        "prize": 1780
+    }, 
+    "5436": {
+        "attendance": 17, 
+        "is_state_champ": true, 
+        "name": "3rd Annual Hog & Steer Barbecue Competition and Festival", 
+        "cbj_percentage": "100%", 
+        "state": "wi", 
+        "location": "Oconomowoc, WI", 
+        "date_order": 150612, 
+        "date_str": "6/12/15", 
+        "prize": 4500
     }, 
     "5120": {
         "attendance": 19, 
@@ -9458,6 +10074,61 @@
         "date_order": 140711, 
         "date_str": "7/11/14", 
         "prize": 5000
+    }, 
+    "5437": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "Oaktown Throwdown", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Oakland, CA", 
+        "date_order": 150731, 
+        "date_str": "7/31/15", 
+        "prize": 6850
+    }, 
+    "7379": {
+        "attendance": 25, 
+        "is_state_champ": false, 
+        "name": "LuLu's Brew & Que", 
+        "cbj_percentage": "100%", 
+        "state": "co", 
+        "location": "Brighton, Co", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 0
+    }, 
+    "7091": {
+        "attendance": 36, 
+        "is_state_champ": true, 
+        "name": "Kings of Q BBQ cook off and Festival", 
+        "cbj_percentage": "99%", 
+        "state": "nc", 
+        "location": "Ayden, NC", 
+        "date_order": 170519, 
+        "date_str": "5/19/17", 
+        "prize": 10000
+    }, 
+    "7376": {
+        "attendance": 5, 
+        "is_state_champ": false, 
+        "name": "Indiana Bacon Festival( BACKYARD)", 
+        "cbj_percentage": "100%", 
+        "state": "in", 
+        "location": "Delphi, IN", 
+        "date_order": 170826, 
+        "date_str": "8/26/17", 
+        "prize": 1050
+    }, 
+    "5048": {
+        "attendance": 20, 
+        "is_state_champ": true, 
+        "name": "Pork in the Park", 
+        "cbj_percentage": "100%", 
+        "state": "ct", 
+        "location": "Stamford, CT", 
+        "date_order": 140712, 
+        "date_str": "7/12/14", 
+        "prize": 8000
     }, 
     "7018": {
         "attendance": 41, 
@@ -9481,6 +10152,17 @@
         "date_str": "6/9/17", 
         "prize": 8000
     }, 
+    "7016": {
+        "attendance": 48, 
+        "is_state_champ": true, 
+        "name": "3rd Annual Hot Q's & Cold Brews BBQ Championship", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Oroville, CA", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 25000
+    }, 
     "7017": {
         "attendance": 29, 
         "is_state_champ": true, 
@@ -9493,7 +10175,7 @@
         "prize": 5000
     }, 
     "7015": {
-        "attendance": 77, 
+        "attendance": 76, 
         "is_state_champ": true, 
         "name": "6th Annual Santa Anita Winners Circle BBQ Championship", 
         "cbj_percentage": "NA", 
@@ -9513,6 +10195,28 @@
         "date_order": 170804, 
         "date_str": "8/4/17", 
         "prize": 15000
+    }, 
+    "7013": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "Anchor City Cook Off", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Centralia, MO", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 5100
+    }, 
+    "7010": {
+        "attendance": 17, 
+        "is_state_champ": true, 
+        "name": "*The Great Catskill MTN BBQ Fest", 
+        "cbj_percentage": "99%", 
+        "state": "ny", 
+        "location": "Fleischmanns, NY", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 0
     }, 
     "5238": {
         "attendance": 58, 
@@ -9591,16 +10295,16 @@
         "date_str": "5/22/15", 
         "prize": 8000
     }, 
-    "4907": {
-        "attendance": 65, 
+    "6886": {
+        "attendance": 41, 
         "is_state_champ": true, 
-        "name": "Stand By Your Grill", 
-        "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Fulton, MS", 
-        "date_order": 140815, 
-        "date_str": "8/15/14", 
-        "prize": 10000
+        "name": "Butts and Beans BBQ Challenge", 
+        "cbj_percentage": "NA", 
+        "state": "nc", 
+        "location": "Newton, NC", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 12050
     }, 
     "6887": {
         "attendance": 37, 
@@ -9700,17 +10404,6 @@
         "date_order": 150807, 
         "date_str": "8/7/15", 
         "prize": 9600
-    }, 
-    "4906": {
-        "attendance": 22, 
-        "is_state_champ": false, 
-        "name": "NBBQA BBQ Bash Cook Off", 
-        "cbj_percentage": "100%", 
-        "state": "tx", 
-        "location": "San Marcos, TX", 
-        "date_order": 140307, 
-        "date_str": "3/7/14", 
-        "prize": 0
     }, 
     "5348": {
         "attendance": 32, 
@@ -9910,16 +10603,16 @@
         "date_str": "10/9/15", 
         "prize": 9000
     }, 
-    "6239": {
-        "attendance": 18, 
+    "4992": {
+        "attendance": 29, 
         "is_state_champ": true, 
-        "name": "4th Annual Best BBQ In Town Long Beach BBQ Festival", 
+        "name": "Thunder in the Park BBQ", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Long Beach, CA", 
-        "date_order": 160819, 
-        "date_str": "8/19/16", 
-        "prize": 4625
+        "state": "in", 
+        "location": "Connersville, IN", 
+        "date_order": 140830, 
+        "date_str": "8/30/14", 
+        "prize": 5000
     }, 
     "4093": {
         "attendance": 54, 
@@ -10097,16 +10790,16 @@
         "date_str": "3/25/16", 
         "prize": 10200
     }, 
-    "4853": {
-        "attendance": 37, 
+    "4581": {
+        "attendance": 44, 
         "is_state_champ": true, 
-        "name": "Central Illinois Bragging Rights", 
+        "name": "Jim Beam BBQ Classic", 
         "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Arthur, IL", 
-        "date_order": 141010, 
-        "date_str": "10/10/14", 
-        "prize": 13300
+        "state": "ky", 
+        "location": "Springfield, KY", 
+        "date_order": 141003, 
+        "date_str": "10/3/14", 
+        "prize": 10000
     }, 
     "6465": {
         "attendance": 38, 
@@ -10141,16 +10834,16 @@
         "date_str": "8/11/17", 
         "prize": 7300
     }, 
-    "4851": {
-        "attendance": 21, 
+    "4583": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "Black Dog Music and Que Festival", 
+        "name": "Pig and A Jig BBQ Festival", 
         "cbj_percentage": "100%", 
-        "state": "va", 
-        "location": "Floyd, VA", 
-        "date_order": 140912, 
-        "date_str": "9/12/14", 
-        "prize": 7600
+        "state": "md", 
+        "location": "Snow Hill, MD", 
+        "date_order": 140530, 
+        "date_str": "5/30/14", 
+        "prize": 9500
     }, 
     "3921": {
         "attendance": 41, 
@@ -10339,6 +11032,17 @@
         "date_str": "7/25/14", 
         "prize": 10000
     }, 
+    "6481": {
+        "attendance": 7, 
+        "is_state_champ": false, 
+        "name": "Second Annual Dallas Kosher BBQ Championship (COMPETITOR'S SERIES)", 
+        "cbj_percentage": "100%", 
+        "state": "tx", 
+        "location": "Dallas, TX", 
+        "date_order": 161029, 
+        "date_str": "10/29/16", 
+        "prize": 0
+    }, 
     "5825": {
         "attendance": 35, 
         "is_state_champ": true, 
@@ -10505,7 +11209,7 @@
         "prize": 150000
     }, 
     "6655": {
-        "attendance": 47, 
+        "attendance": 46, 
         "is_state_champ": true, 
         "name": "Roberts Ranch Smokin Red Dirt BBQ", 
         "cbj_percentage": "100%", 
@@ -10549,7 +11253,7 @@
         "prize": 9000
     }, 
     "5919": {
-        "attendance": 53, 
+        "attendance": 51, 
         "is_state_champ": true, 
         "name": "Smokin in Steele", 
         "cbj_percentage": "100%", 
@@ -10580,17 +11284,6 @@
         "date_order": 150925, 
         "date_str": "9/25/15", 
         "prize": 5000
-    }, 
-    "4820": {
-        "attendance": 28, 
-        "is_state_champ": true, 
-        "name": "Rock'n Ribfest NH State BBQ Championship", 
-        "cbj_percentage": "100%", 
-        "state": "nh", 
-        "location": "Merrimack, NH", 
-        "date_order": 140613, 
-        "date_str": "6/13/14", 
-        "prize": 2950
     }, 
     "6385": {
         "attendance": 27, 
@@ -10835,7 +11528,7 @@
         "prize": 10000
     }, 
     "6277": {
-        "attendance": 58, 
+        "attendance": 57, 
         "is_state_champ": true, 
         "name": "City of Bedford Blues & BBQ Festival", 
         "cbj_percentage": "86%", 
@@ -10856,16 +11549,16 @@
         "date_str": "5/13/16", 
         "prize": 3000
     }, 
-    "6279": {
-        "attendance": 83, 
+    "4422": {
+        "attendance": 18, 
         "is_state_champ": true, 
-        "name": "*Bixby BBQ'N Blues Festival", 
-        "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Bixby, OK", 
-        "date_order": 160506, 
-        "date_str": "5/6/16", 
-        "prize": 0
+        "name": "Community Fisrt Bank BBQ Competition (TEAM SPOTS STILL AVAILABLE)", 
+        "cbj_percentage": "77%", 
+        "state": "mo", 
+        "location": "Appleton City, MO", 
+        "date_order": 130927, 
+        "date_str": "9/27/13", 
+        "prize": 4850
     }, 
     "4423": {
         "attendance": 28, 
@@ -10934,7 +11627,7 @@
         "prize": 5500
     }, 
     "6074": {
-        "attendance": 63, 
+        "attendance": 62, 
         "is_state_champ": true, 
         "name": "Roberts Ranch Smokin Red Dirt BBQ", 
         "cbj_percentage": "100%", 
@@ -11032,16 +11725,16 @@
         "date_str": "6/6/14", 
         "prize": 7900
     }, 
-    "6079": {
-        "attendance": 33, 
-        "is_state_champ": true, 
-        "name": "McLouth BBQ Blowout 25th Anniversary (Judges full)", 
-        "cbj_percentage": "7%", 
-        "state": "ks", 
-        "location": "McLouth, KS", 
-        "date_order": 160603, 
-        "date_str": "6/3/16", 
-        "prize": 6125
+    "4954": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Richmond, VA", 
+        "date_order": 140829, 
+        "date_str": "8/29/14", 
+        "prize": 20000
     }, 
     "4955": {
         "attendance": 50, 
@@ -11053,6 +11746,17 @@
         "date_order": 140926, 
         "date_str": "9/26/14", 
         "prize": 150000
+    }, 
+    "7346": {
+        "attendance": 17, 
+        "is_state_champ": true, 
+        "name": "*Smokin on the White", 
+        "cbj_percentage": "NA", 
+        "state": "ar", 
+        "location": "Batesville , AR", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 0
     }, 
     "7344": {
         "attendance": 41, 
@@ -11088,7 +11792,7 @@
         "prize": 17700
     }, 
     "5135": {
-        "attendance": 40, 
+        "attendance": 39, 
         "is_state_champ": true, 
         "name": "'Que at the View", 
         "cbj_percentage": "100%", 
@@ -11109,6 +11813,17 @@
         "date_str": "8/22/14", 
         "prize": 25000
     }, 
+    "7348": {
+        "attendance": 20, 
+        "is_state_champ": true, 
+        "name": "*Montana Pitmaster Classic", 
+        "cbj_percentage": "NA", 
+        "state": "mt", 
+        "location": "Bozeman, MT", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 12135
+    }, 
     "7009": {
         "attendance": 31, 
         "is_state_champ": true, 
@@ -11119,6 +11834,17 @@
         "date_order": 170818, 
         "date_str": "8/18/17", 
         "prize": 6200
+    }, 
+    "7008": {
+        "attendance": 31, 
+        "is_state_champ": true, 
+        "name": "*Red, White and Que", 
+        "cbj_percentage": "NA", 
+        "state": "nj", 
+        "location": "Cresskill, NJ", 
+        "date_order": 170930, 
+        "date_str": "9/30/17", 
+        "prize": 5000
     }, 
     "7000": {
         "attendance": 25, 
@@ -11174,6 +11900,17 @@
         "date_order": 170617, 
         "date_str": "6/17/17", 
         "prize": 5200
+    }, 
+    "7006": {
+        "attendance": 38, 
+        "is_state_champ": true, 
+        "name": "Bikes, Blues and BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "ar", 
+        "location": "Fayetteville, AR", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 21800
     }, 
     "5223": {
         "attendance": 42, 
@@ -11241,17 +11978,6 @@
         "date_str": "5/1/15", 
         "prize": 0
     }, 
-    "5886": {
-        "attendance": 187, 
-        "is_state_champ": false, 
-        "name": "36th Annual American Royal World Series of Barbeque- Invitational", 
-        "cbj_percentage": "NA", 
-        "state": "mo", 
-        "location": "Kansas City, MO", 
-        "date_order": 151002, 
-        "date_str": "10/2/15", 
-        "prize": 31300
-    }, 
     "7175": {
         "attendance": 25, 
         "is_state_champ": true, 
@@ -11264,7 +11990,7 @@
         "prize": 5000
     }, 
     "6890": {
-        "attendance": 67, 
+        "attendance": 66, 
         "is_state_champ": true, 
         "name": "New Jersey State Barbecue Championship", 
         "cbj_percentage": "100%", 
@@ -11286,7 +12012,7 @@
         "prize": 10300
     }, 
     "7176": {
-        "attendance": 40, 
+        "attendance": 39, 
         "is_state_champ": true, 
         "name": "West Coast BBQ Classic", 
         "cbj_percentage": "99%", 
@@ -11295,6 +12021,28 @@
         "date_order": 170512, 
         "date_str": "5/12/17", 
         "prize": 9000
+    }, 
+    "7171": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "KTD Smokin ' Gobbler Cook-Off", 
+        "cbj_percentage": "100%", 
+        "state": "mn", 
+        "location": "Worthington, MN", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 8200
+    }, 
+    "7170": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "Porktober Que", 
+        "cbj_percentage": "100%", 
+        "state": "al", 
+        "location": "Dothan, AL", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 0
     }, 
     "7173": {
         "attendance": 31, 
@@ -11306,6 +12054,17 @@
         "date_order": 170512, 
         "date_str": "5/12/17", 
         "prize": 0
+    }, 
+    "7179": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "*Silver Lake Apple BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "mi", 
+        "location": "Silver Lake, MI", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 7500
     }, 
     "7178": {
         "attendance": 63, 
@@ -11417,16 +12176,27 @@
         "date_str": "9/27/13", 
         "prize": 4625
     }, 
-    "5722": {
-        "attendance": 41, 
+    "7047": {
+        "attendance": 31, 
         "is_state_champ": true, 
-        "name": "Hawgin on Lanier (GBC Qualifier)", 
-        "cbj_percentage": "100%", 
-        "state": "ga", 
-        "location": "Gainesville, GA", 
-        "date_order": 150828, 
-        "date_str": "8/28/15", 
-        "prize": 10000
+        "name": "Puckaway Pigfest", 
+        "cbj_percentage": "NA", 
+        "state": "wi", 
+        "location": "Montello, WI", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 5750
+    }, 
+    "6415": {
+        "attendance": 36, 
+        "is_state_champ": true, 
+        "name": "Central  Iowa Expo BBQ (Day 2) (Judges Full)", 
+        "cbj_percentage": "NA", 
+        "state": "ia", 
+        "location": "Boone, IA", 
+        "date_order": 160423, 
+        "date_str": "4/23/16", 
+        "prize": 7000
     }, 
     "7046": {
         "attendance": 25, 
@@ -11482,6 +12252,17 @@
         "date_order": 160520, 
         "date_str": "5/20/16", 
         "prize": 15440
+    }, 
+    "7043": {
+        "attendance": 37, 
+        "is_state_champ": true, 
+        "name": "Jesse James Barbeque Cook Out", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Kearney, MO", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 5025
     }, 
     "7042": {
         "attendance": 59, 
@@ -11758,19 +12539,19 @@
         "date_str": "6/26/15", 
         "prize": 12900
     }, 
-    "6847": {
-        "attendance": 27, 
+    "7123": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "Smoke on the Water Day 1", 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "100%", 
-        "state": "in", 
-        "location": "Liberty, IN", 
-        "date_order": 170505, 
-        "date_str": "5/5/17", 
-        "prize": 5000
+        "state": "ct", 
+        "location": "South Windsor, CT", 
+        "date_order": 170804, 
+        "date_str": "8/4/17", 
+        "prize": 10000
     }, 
     "3935": {
-        "attendance": 54, 
+        "attendance": 53, 
         "is_state_champ": true, 
         "name": "Pigs and Peaches BBQ Festival (GBC Qualifier)", 
         "cbj_percentage": "100%", 
@@ -11781,7 +12562,7 @@
         "prize": 8550
     }, 
     "3934": {
-        "attendance": 26, 
+        "attendance": 25, 
         "is_state_champ": true, 
         "name": "Siskiyou Beef Country Cook-Off", 
         "cbj_percentage": "NA", 
@@ -11979,7 +12760,7 @@
         "prize": 6000
     }, 
     "4044": {
-        "attendance": 34, 
+        "attendance": 33, 
         "is_state_champ": true, 
         "name": "BBQ'Loo & Blues Too!", 
         "cbj_percentage": "100%", 
@@ -12133,7 +12914,7 @@
         "prize": 6600
     }, 
     "5965": {
-        "attendance": 33, 
+        "attendance": 32, 
         "is_state_champ": true, 
         "name": "Smokin on the Water", 
         "cbj_percentage": "NA", 
@@ -12144,7 +12925,7 @@
         "prize": 5000
     }, 
     "5966": {
-        "attendance": 35, 
+        "attendance": 33, 
         "is_state_champ": true, 
         "name": "Smokin on the Water 2", 
         "cbj_percentage": "NA", 
@@ -12153,17 +12934,6 @@
         "date_order": 160430, 
         "date_str": "4/30/16", 
         "prize": 5000
-    }, 
-    "5433": {
-        "attendance": 38, 
-        "is_state_champ": true, 
-        "name": "Blount County BBQ Bash", 
-        "cbj_percentage": "100%", 
-        "state": "tn", 
-        "location": "Maryville, TN", 
-        "date_order": 150626, 
-        "date_str": "6/26/15", 
-        "prize": 0
     }, 
     "4548": {
         "attendance": 28, 
@@ -12188,7 +12958,7 @@
         "prize": 9000
     }, 
     "4542": {
-        "attendance": 54, 
+        "attendance": 53, 
         "is_state_champ": true, 
         "name": "Big Island BBQ", 
         "cbj_percentage": "96%", 
@@ -12231,27 +13001,16 @@
         "date_str": "8/15/14", 
         "prize": 0
     }, 
-    "4826": {
-        "attendance": 33, 
+    "4534": {
+        "attendance": 25, 
         "is_state_champ": true, 
-        "name": "Wakefield Rotary Campus Cook Off & State BBQ Championships", 
+        "name": "4th Annual Wild Wild West BBQ Championship (Day 2)", 
         "cbj_percentage": "100%", 
-        "state": "ri", 
-        "location": "Kingston, RI", 
-        "date_order": 140718, 
-        "date_str": "7/18/14", 
-        "prize": 4400
-    }, 
-    "4927": {
-        "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "NA", 
-        "state": "tn", 
-        "location": "Hendersonville, TN", 
-        "date_order": 140523, 
-        "date_str": "5/23/14", 
-        "prize": 10000
+        "state": "ca", 
+        "location": "Lake Elsinore, CA", 
+        "date_order": 131228, 
+        "date_str": "12/28/13", 
+        "prize": 6250
     }, 
     "4537": {
         "attendance": 36, 
@@ -12341,16 +13100,16 @@
         "date_str": "8/22/14", 
         "prize": 10000
     }, 
-    "4794": {
-        "attendance": 33, 
+    "6738": {
+        "attendance": 32, 
         "is_state_champ": true, 
-        "name": "Blazin' BBQ & Bluegrass", 
-        "cbj_percentage": "100%", 
-        "state": "in", 
-        "location": "Plymouth, IN", 
-        "date_order": 140919, 
-        "date_str": "9/19/14", 
-        "prize": 7000
+        "name": "*Original SD BBQ Championships", 
+        "cbj_percentage": "98%", 
+        "state": "sd", 
+        "location": "Huron, SD", 
+        "date_order": 170602, 
+        "date_str": "6/2/17", 
+        "prize": 13475
     }, 
     "4430": {
         "attendance": 34, 
@@ -12374,27 +13133,16 @@
         "date_str": "4/21/17", 
         "prize": 0
     }, 
-    "4926": {
+    "4533": {
         "attendance": 28, 
         "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
+        "name": "4th Annual Wild Wild West BBQ Championship", 
         "cbj_percentage": "100%", 
-        "state": "al", 
-        "location": "Daphne, AL", 
-        "date_order": 140228, 
-        "date_str": "2/28/14", 
-        "prize": 10000
-    }, 
-    "4821": {
-        "attendance": 18, 
-        "is_state_champ": true, 
-        "name": "Legacy State BBQ Championship Cook-Off", 
-        "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Effingham, IL", 
-        "date_order": 140626, 
-        "date_str": "6/26/14", 
-        "prize": 5000
+        "state": "ca", 
+        "location": "Lake Elsinore, CA", 
+        "date_order": 131227, 
+        "date_str": "12/27/13", 
+        "prize": 6250
     }, 
     "4438": {
         "attendance": 97, 
@@ -12463,7 +13211,7 @@
         "prize": 10000
     }, 
     "6289": {
-        "attendance": 29, 
+        "attendance": 28, 
         "is_state_champ": true, 
         "name": "Montana BBQ cook-off", 
         "cbj_percentage": "100%", 
@@ -12615,17 +13363,6 @@
         "date_order": 160415, 
         "date_str": "4/15/16", 
         "prize": 8000
-    }, 
-    "4925": {
-        "attendance": 21, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour", 
-        "cbj_percentage": "100%", 
-        "state": "fl", 
-        "location": "Tampa, FL", 
-        "date_order": 140221, 
-        "date_str": "2/21/14", 
-        "prize": 10000
     }, 
     "6049": {
         "attendance": 46, 
@@ -12825,6 +13562,17 @@
         "date_str": "5/5/17", 
         "prize": 10000
     }, 
+    "7107": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Kansas City, MO", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 10000
+    }, 
     "6864": {
         "attendance": 32, 
         "is_state_champ": true, 
@@ -12857,6 +13605,28 @@
         "date_order": 170414, 
         "date_str": "4/14/17", 
         "prize": 10000
+    }, 
+    "6867": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*Decatur's Smokin BBQ Festival(JUDGES FULL)", 
+        "cbj_percentage": "NA", 
+        "state": "il", 
+        "location": "Decatur, IL", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 10000
+    }, 
+    "6861": {
+        "attendance": 39, 
+        "is_state_champ": true, 
+        "name": "6th Annual Death Door Barbeque(DAY 2)", 
+        "cbj_percentage": "NA", 
+        "state": "wi", 
+        "location": "Washington Island, WI", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 8000
     }, 
     "6862": {
         "attendance": 48, 
@@ -13046,7 +13816,7 @@
         "prize": 12500
     }, 
     "5756": {
-        "attendance": 38, 
+        "attendance": 35, 
         "is_state_champ": true, 
         "name": "Downtown Jonesboro BBQ Festival", 
         "cbj_percentage": "81%", 
@@ -13056,16 +13826,16 @@
         "date_str": "9/25/15", 
         "prize": 10000
     }, 
-    "6440": {
-        "attendance": 46, 
-        "is_state_champ": false, 
-        "name": "Bynum School's Best of the Basin", 
-        "cbj_percentage": "80%", 
-        "state": "tx", 
-        "location": "Midland, TX", 
-        "date_order": 160422, 
-        "date_str": "4/22/16", 
-        "prize": 20000
+    "6912": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*The Great Adirondack BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "ny", 
+        "location": "Old Forge, NY", 
+        "date_order": 170728, 
+        "date_str": "7/28/17", 
+        "prize": 15000
     }, 
     "5754": {
         "attendance": 32, 
@@ -13079,7 +13849,7 @@
         "prize": 11600
     }, 
     "4235": {
-        "attendance": 89, 
+        "attendance": 88, 
         "is_state_champ": true, 
         "name": "City of Bedford Blues & BBQ Festival", 
         "cbj_percentage": "94%", 
@@ -13650,6 +14420,17 @@
         "date_str": "5/26/17", 
         "prize": 10000
     }, 
+    "7293": {
+        "attendance": 23, 
+        "is_state_champ": true, 
+        "name": "*Devon Grube Memorial BBQ Classic", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Virginia Beach, VA", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 10000
+    }, 
     "7295": {
         "attendance": 54, 
         "is_state_champ": true, 
@@ -13671,6 +14452,17 @@
         "date_order": 170805, 
         "date_str": "8/5/17", 
         "prize": 23500
+    }, 
+    "7297": {
+        "attendance": 18, 
+        "is_state_champ": false, 
+        "name": "*Barbeque on the Hill (COMPETITOR'S SERIES)", 
+        "cbj_percentage": "96%", 
+        "state": "il", 
+        "location": "Blue Island, IL", 
+        "date_order": 170923, 
+        "date_str": "9/23/17", 
+        "prize": 0
     }, 
     "7298": {
         "attendance": 7, 
@@ -13760,16 +14552,16 @@
         "date_str": "4/3/14", 
         "prize": 10000
     }, 
-    "4686": {
-        "attendance": 35, 
-        "is_state_champ": true, 
-        "name": "Cass County", 
+    "4930": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
         "cbj_percentage": "100%", 
-        "state": "ne", 
-        "location": "Weeping Water, NE", 
-        "date_order": 140808, 
-        "date_str": "8/8/14", 
-        "prize": 10700
+        "state": "ms", 
+        "location": "Southaven, MS", 
+        "date_order": 140905, 
+        "date_str": "9/5/14", 
+        "prize": 20000
     }, 
     "4687": {
         "attendance": 15, 
@@ -13782,16 +14574,16 @@
         "date_str": "6/20/14", 
         "prize": 10050
     }, 
-    "4932": {
-        "attendance": 29, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour", 
+    "4684": {
+        "attendance": 44, 
+        "is_state_champ": true, 
+        "name": "BBQ Fest Cooking Contest", 
         "cbj_percentage": "100%", 
-        "state": "tx", 
-        "location": "Fort Worth, TX", 
-        "date_order": 140314, 
-        "date_str": "3/14/14", 
-        "prize": 10000
+        "state": "tn", 
+        "location": "Dyersburg, TN", 
+        "date_order": 140725, 
+        "date_str": "7/25/14", 
+        "prize": 10700
     }, 
     "4685": {
         "attendance": 22, 
@@ -14112,16 +14904,16 @@
         "date_str": "6/13/14", 
         "prize": 10000
     }, 
-    "4599": {
-        "attendance": 48, 
+    "4847": {
+        "attendance": 75, 
         "is_state_champ": true, 
-        "name": "Morton BBQ Throwdown", 
+        "name": "20th Annual Decatur Jaycee's Riverfest", 
         "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Morton, IL", 
-        "date_order": 140725, 
-        "date_str": "7/25/14", 
-        "prize": 9000
+        "state": "al", 
+        "location": "Decatur, AL", 
+        "date_order": 140919, 
+        "date_str": "9/19/14", 
+        "prize": 18000
     }, 
     "4840": {
         "attendance": 32, 
@@ -14190,7 +14982,7 @@
         "prize": 10000
     }, 
     "5202": {
-        "attendance": 81, 
+        "attendance": 80, 
         "is_state_champ": false, 
         "name": "Bixby BBQ'N Blues Festival", 
         "cbj_percentage": "100%", 
@@ -14221,6 +15013,28 @@
         "date_order": 150626, 
         "date_str": "6/26/15", 
         "prize": 0
+    }, 
+    "7328": {
+        "attendance": 50, 
+        "is_state_champ": false, 
+        "name": "National Pro BBQ Tour Championship", 
+        "cbj_percentage": "NA", 
+        "state": "ar", 
+        "location": "Bentonville, AR", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 0
+    }, 
+    "7113": {
+        "attendance": 27, 
+        "is_state_champ": true, 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "100%", 
+        "state": "mi", 
+        "location": "Traverse City, MI", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 10000
     }, 
     "7112": {
         "attendance": 30, 
@@ -14277,16 +15091,27 @@
         "date_str": "3/24/17", 
         "prize": 10000
     }, 
-    "6879": {
-        "attendance": 58, 
+    "7115": {
+        "attendance": 29, 
         "is_state_champ": true, 
-        "name": "*Gold Ribbin' BBQ Fest of Greater Green Bay-Heat1", 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "NA", 
-        "state": "wi", 
-        "location": "Green Bay, WI", 
-        "date_order": 170714, 
-        "date_str": "7/14/17", 
-        "prize": 17500
+        "state": "az", 
+        "location": "Tucson, AZ", 
+        "date_order": 170317, 
+        "date_str": "3/17/17", 
+        "prize": 10000
+    }, 
+    "6878": {
+        "attendance": 33, 
+        "is_state_champ": true, 
+        "name": "Bands & BBQ at the Point", 
+        "cbj_percentage": "100%", 
+        "state": "ky", 
+        "location": "Carrollton, KY", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 9000
     }, 
     "6877": {
         "attendance": 62, 
@@ -14299,19 +15124,19 @@
         "date_str": "6/23/17", 
         "prize": 25000
     }, 
-    "6875": {
-        "attendance": 36, 
+    "7119": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "*The Wind Rider Music & BBQ Festival(WFC QUALIFIER)", 
-        "cbj_percentage": "95%", 
-        "state": "nm", 
-        "location": "Ruidoso, NM", 
-        "date_order": 170526, 
-        "date_str": "5/26/17", 
-        "prize": 9000
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "NA", 
+        "state": "co", 
+        "location": "Fort Collins, CO", 
+        "date_order": 170414, 
+        "date_str": "4/14/17", 
+        "prize": 10000
     }, 
     "6874": {
-        "attendance": 68, 
+        "attendance": 67, 
         "is_state_champ": true, 
         "name": "*Bixby BBQ'n Blues Festival(JUDGES FULL)", 
         "cbj_percentage": "98%", 
@@ -14487,7 +15312,7 @@
         "prize": 2300
     }, 
     "4335": {
-        "attendance": 535, 
+        "attendance": 533, 
         "is_state_champ": true, 
         "name": "34th Annual American Royal World Series of Barbecue Open", 
         "cbj_percentage": "100%", 
@@ -14508,38 +15333,27 @@
         "date_str": "10/18/13", 
         "prize": 0
     }, 
-    "6012": {
-        "attendance": 35, 
+    "4649": {
+        "attendance": 87, 
         "is_state_champ": true, 
-        "name": "NYC BBQ Cookoff", 
-        "cbj_percentage": "100%", 
-        "state": "ny", 
-        "location": "Staten Island, NY", 
-        "date_order": 160408, 
-        "date_str": "4/8/16", 
-        "prize": 5650
-    }, 
-    "4642": {
-        "attendance": 37, 
-        "is_state_champ": true, 
-        "name": "BBQ'Loo & Blues Too!", 
+        "name": "Sugar Mound BBQ Festival", 
         "cbj_percentage": "NA", 
-        "state": "ia", 
-        "location": "Waterloo, IA", 
-        "date_order": 140718, 
-        "date_str": "7/18/14", 
-        "prize": 10000
+        "state": "ks", 
+        "location": "Mound City, KS", 
+        "date_order": 140524, 
+        "date_str": "5/24/14", 
+        "prize": 14500
     }, 
-    "4641": {
-        "attendance": 39, 
+    "6019": {
+        "attendance": 26, 
         "is_state_champ": true, 
-        "name": "Plant City Pig Jam", 
+        "name": "Mississippi Springfest BBQ Contest", 
         "cbj_percentage": "100%", 
-        "state": "fl", 
-        "location": "Plant City, FL", 
-        "date_order": 141121, 
-        "date_str": "11/21/14", 
-        "prize": 16450
+        "state": "ms", 
+        "location": "Ashland, MS", 
+        "date_order": 160513, 
+        "date_str": "5/13/16", 
+        "prize": 6500
     }, 
     "6451": {
         "attendance": 26, 
@@ -14563,27 +15377,27 @@
         "date_str": "9/2/16", 
         "prize": 5000
     }, 
-    "6453": {
-        "attendance": 48, 
+    "6905": {
+        "attendance": 39, 
         "is_state_champ": true, 
-        "name": "Smoke on the Water Barbecue Championship", 
-        "cbj_percentage": "NA", 
-        "state": "nj", 
-        "location": "Atlantic City, NJ", 
-        "date_order": 161008, 
-        "date_str": "10/8/16", 
-        "prize": 15000
+        "name": "Apple Blossom Bar-B-Q", 
+        "cbj_percentage": "96%", 
+        "state": "mo", 
+        "location": "St. Joseph, MO", 
+        "date_order": 170505, 
+        "date_str": "5/5/17", 
+        "prize": 10000
     }, 
-    "6452": {
-        "attendance": 23, 
+    "6904": {
+        "attendance": 14, 
         "is_state_champ": true, 
-        "name": "Saltwater Brew 'N' Que", 
-        "cbj_percentage": "NA", 
-        "state": "va", 
-        "location": "Chincoteague, VA", 
-        "date_order": 160520, 
-        "date_str": "5/20/16", 
-        "prize": 6000
+        "name": "Hog Wild BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Chandler, OK", 
+        "date_order": 170623, 
+        "date_str": "6/23/17", 
+        "prize": 6600
     }, 
     "6457": {
         "attendance": 26, 
@@ -14596,16 +15410,27 @@
         "date_str": "6/24/16", 
         "prize": 0
     }, 
-    "5766": {
-        "attendance": 55, 
+    "6900": {
+        "attendance": 46, 
         "is_state_champ": true, 
-        "name": "Decatur Jaycee's 21st Annual Riverfest", 
+        "name": "*Bedford Blues & BBQ Festival (JUDGES FULL)", 
         "cbj_percentage": "100%", 
-        "state": "al", 
-        "location": "Decatur, AL", 
-        "date_order": 150911, 
-        "date_str": "9/11/15", 
-        "prize": 18000
+        "state": "tx", 
+        "location": "Bedford, TX", 
+        "date_order": 170902, 
+        "date_str": "9/2/17", 
+        "prize": 0
+    }, 
+    "6459": {
+        "attendance": 32, 
+        "is_state_champ": true, 
+        "name": "*Mankato Cookout Day 2 and( Back Yard)", 
+        "cbj_percentage": "100%", 
+        "state": "mn", 
+        "location": "Mankato, MN", 
+        "date_order": 160611, 
+        "date_str": "6/11/16", 
+        "prize": 7500
     }, 
     "6458": {
         "attendance": 33, 
@@ -14640,16 +15465,16 @@
         "date_str": "7/17/15", 
         "prize": 0
     }, 
-    "4204": {
-        "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour (Regional)", 
+    "6909": {
+        "attendance": 32, 
+        "is_state_champ": true, 
+        "name": "9th Annual Auburn Hills Barbecue Cook-off", 
         "cbj_percentage": "100%", 
-        "state": "tn", 
-        "location": "Hendersonville, TN", 
-        "date_order": 130913, 
-        "date_str": "9/13/13", 
-        "prize": 20000
+        "state": "mi", 
+        "location": "Auburn Hills, MI", 
+        "date_order": 170623, 
+        "date_str": "6/23/17", 
+        "prize": 8000
     }, 
     "6908": {
         "attendance": 184, 
@@ -14784,7 +15609,7 @@
         "prize": 8500
     }, 
     "4114": {
-        "attendance": 53, 
+        "attendance": 52, 
         "is_state_champ": true, 
         "name": "Plant City Pig Jam", 
         "cbj_percentage": "100%", 
@@ -14827,6 +15652,17 @@
         "date_str": "7/26/13", 
         "prize": 7750
     }, 
+    "7422": {
+        "attendance": 32, 
+        "is_state_champ": true, 
+        "name": "*Smoke & Ale Fall Festival", 
+        "cbj_percentage": "NA", 
+        "state": "mi", 
+        "location": "Chelsea, MI", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 4000
+    }, 
     "7105": {
         "attendance": 30, 
         "is_state_champ": false, 
@@ -14837,6 +15673,17 @@
         "date_order": 170428, 
         "date_str": "4/28/17", 
         "prize": 10000
+    }, 
+    "7108": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
+        "cbj_percentage": "NA", 
+        "state": "ok", 
+        "location": "Edmond, OK", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 20000
     }, 
     "6604": {
         "attendance": 16, 
@@ -14871,27 +15718,27 @@
         "date_str": "8/26/16", 
         "prize": 4000
     }, 
-    "5946": {
-        "attendance": 27, 
+    "4062": {
+        "attendance": 40, 
         "is_state_champ": true, 
-        "name": "*George County Firefighters Association BBQ Challenge", 
-        "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Lucedale, MS", 
-        "date_order": 160506, 
-        "date_str": "5/6/16", 
-        "prize": 6910
+        "name": "9th Annual WildBlue BBQ", 
+        "cbj_percentage": "94%", 
+        "state": "ks", 
+        "location": "Burlington, KS", 
+        "date_order": 130719, 
+        "date_str": "7/19/13", 
+        "prize": 7130
     }, 
-    "5945": {
-        "attendance": 22, 
-        "is_state_champ": false, 
-        "name": "The Outlets @ Lake Elsinore  BBQ State Championship", 
+    "4061": {
+        "attendance": 28, 
+        "is_state_champ": true, 
+        "name": "Smoke On The River", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Lake Elsinore, CA", 
-        "date_order": 150913, 
-        "date_str": "9/13/15", 
-        "prize": 5000
+        "state": "il", 
+        "location": "Quincy, IL", 
+        "date_order": 130906, 
+        "date_str": "9/6/13", 
+        "prize": 6500
     }, 
     "4066": {
         "attendance": 55, 
@@ -14915,16 +15762,16 @@
         "date_str": "7/26/13", 
         "prize": 6000
     }, 
-    "5940": {
-        "attendance": 42, 
+    "4064": {
+        "attendance": 44, 
         "is_state_champ": true, 
-        "name": "Almost Heaven BBQ Bash", 
+        "name": "Morton BBQ Throwdown (TEAMS & JUDGES FULL - May email to be put on waitlist)", 
         "cbj_percentage": "100%", 
-        "state": "wv", 
-        "location": "Buckhannon, WV", 
-        "date_order": 160617, 
-        "date_str": "6/17/16", 
-        "prize": 10000
+        "state": "il", 
+        "location": "Morton, IL", 
+        "date_order": 130726, 
+        "date_str": "7/26/13", 
+        "prize": 8625
     }, 
     "4065": {
         "attendance": 46, 
@@ -15081,7 +15928,7 @@
         "prize": 10000
     }, 
     "7066": {
-        "attendance": 22, 
+        "attendance": 21, 
         "is_state_champ": false, 
         "name": "Rib Fest 2017(BACKYARD)", 
         "cbj_percentage": "NA", 
@@ -15090,6 +15937,17 @@
         "date_order": 170623, 
         "date_str": "6/23/17", 
         "prize": 1750
+    }, 
+    "7282": {
+        "attendance": 15, 
+        "is_state_champ": true, 
+        "name": "*Redwood Coast Grills Gone Wild", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Crescent City, CA", 
+        "date_order": 170902, 
+        "date_str": "9/2/17", 
+        "prize": 9650
     }, 
     "7287": {
         "attendance": 25, 
@@ -15157,16 +16015,16 @@
         "date_str": "8/17/13", 
         "prize": 0
     }, 
-    "4458": {
-        "attendance": 37, 
-        "is_state_champ": false, 
-        "name": "Shotgun Fred BBQ Showdown", 
+    "7060": {
+        "attendance": 40, 
+        "is_state_champ": true, 
+        "name": "Great American BBQ Festival", 
         "cbj_percentage": "100%", 
-        "state": "tx", 
-        "location": "Huntsville, TX", 
-        "date_order": 140227, 
-        "date_str": "2/27/14", 
-        "prize": 0
+        "state": "tn", 
+        "location": "Franklin, TN", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 8000
     }, 
     "4691": {
         "attendance": 35, 
@@ -15212,38 +16070,38 @@
         "date_str": "8/22/14", 
         "prize": 15000
     }, 
-    "4695": {
-        "attendance": 31, 
-        "is_state_champ": true, 
-        "name": "The SLV Beat the Heat BBQ, Brews and Chili Competition", 
-        "cbj_percentage": "97%", 
-        "state": "co", 
-        "location": "Alamosa, CO", 
-        "date_order": 140801, 
-        "date_str": "8/1/14", 
-        "prize": 0
+    "4927": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour", 
+        "cbj_percentage": "NA", 
+        "state": "tn", 
+        "location": "Hendersonville, TN", 
+        "date_order": 140523, 
+        "date_str": "5/23/14", 
+        "prize": 10000
     }, 
-    "4694": {
-        "attendance": 17, 
+    "4926": {
+        "attendance": 28, 
         "is_state_champ": true, 
-        "name": "Ridgefield Gone Country BBQ Festival", 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "100%", 
-        "state": "ct", 
-        "location": "Ridgefield, CT", 
-        "date_order": 140503, 
-        "date_str": "5/3/14", 
-        "prize": 5500
+        "state": "al", 
+        "location": "Daphne, AL", 
+        "date_order": 140228, 
+        "date_str": "2/28/14", 
+        "prize": 10000
     }, 
-    "4697": {
-        "attendance": 42, 
-        "is_state_champ": true, 
-        "name": "9th Annual Lambs Farm Barn Burner Bar-B-Q", 
+    "4925": {
+        "attendance": 21, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Libertyville, IL", 
-        "date_order": 141017, 
-        "date_str": "10/17/14", 
-        "prize": 4400
+        "state": "fl", 
+        "location": "Tampa, FL", 
+        "date_order": 140221, 
+        "date_str": "2/21/14", 
+        "prize": 10000
     }, 
     "4696": {
         "attendance": 34, 
@@ -15432,6 +16290,17 @@
         "date_str": "11/15/13", 
         "prize": 0
     }, 
+    "4807": {
+        "attendance": 70, 
+        "is_state_champ": true, 
+        "name": "Wheels 'N' Squeels BBQ Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "ks", 
+        "location": "Olathe, KS", 
+        "date_order": 140801, 
+        "date_str": "8/1/14", 
+        "prize": 9450
+    }, 
     "6334": {
         "attendance": 44, 
         "is_state_champ": true, 
@@ -15542,16 +16411,16 @@
         "date_str": "6/6/14", 
         "prize": 11000
     }, 
-    "4581": {
-        "attendance": 44, 
+    "4853": {
+        "attendance": 37, 
         "is_state_champ": true, 
-        "name": "Jim Beam BBQ Classic", 
+        "name": "Central Illinois Bragging Rights", 
         "cbj_percentage": "100%", 
-        "state": "ky", 
-        "location": "Springfield, KY", 
-        "date_order": 141003, 
-        "date_str": "10/3/14", 
-        "prize": 10000
+        "state": "il", 
+        "location": "Arthur, IL", 
+        "date_order": 141010, 
+        "date_str": "10/10/14", 
+        "prize": 13300
     }, 
     "4580": {
         "attendance": 36, 
@@ -15564,16 +16433,16 @@
         "date_str": "9/5/14", 
         "prize": 9000
     }, 
-    "4583": {
-        "attendance": 30, 
+    "4851": {
+        "attendance": 21, 
         "is_state_champ": true, 
-        "name": "Pig and A Jig BBQ Festival", 
+        "name": "Black Dog Music and Que Festival", 
         "cbj_percentage": "100%", 
-        "state": "md", 
-        "location": "Snow Hill, MD", 
-        "date_order": 140530, 
-        "date_str": "5/30/14", 
-        "prize": 9500
+        "state": "va", 
+        "location": "Floyd, VA", 
+        "date_order": 140912, 
+        "date_str": "9/12/14", 
+        "prize": 7600
     }, 
     "4850": {
         "attendance": 48, 
@@ -15641,6 +16510,28 @@
         "date_str": "5/19/17", 
         "prize": 12000
     }, 
+    "7126": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
+        "cbj_percentage": "NA", 
+        "state": "va", 
+        "location": "Richmond, VA", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 20000
+    }, 
+    "7127": {
+        "attendance": 37, 
+        "is_state_champ": true, 
+        "name": "Pigs and Peaches BBQ Festival(GBC QUALIFIER)", 
+        "cbj_percentage": "100%", 
+        "state": "ga", 
+        "location": "Kennesaw, GA", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 12150
+    }, 
     "6840": {
         "attendance": 18, 
         "is_state_champ": false, 
@@ -15674,16 +16565,16 @@
         "date_str": "6/9/17", 
         "prize": 10000
     }, 
-    "7123": {
-        "attendance": 30, 
+    "6847": {
+        "attendance": 27, 
         "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
+        "name": "Smoke on the Water Day 1", 
         "cbj_percentage": "100%", 
-        "state": "ct", 
-        "location": "South Windsor, CT", 
-        "date_order": 170804, 
-        "date_str": "8/4/17", 
-        "prize": 10000
+        "state": "in", 
+        "location": "Liberty, IN", 
+        "date_order": 170505, 
+        "date_str": "5/5/17", 
+        "prize": 5000
     }, 
     "7120": {
         "attendance": 30, 
@@ -15784,16 +16675,16 @@
         "date_str": "4/11/14", 
         "prize": 8600
     }, 
-    "4074": {
-        "attendance": 62, 
+    "5958": {
+        "attendance": 18, 
         "is_state_champ": true, 
-        "name": "Stand By Your Grill", 
+        "name": "Aksarben Stock Show & Rodeo", 
         "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Fulton, MS", 
-        "date_order": 130816, 
-        "date_str": "8/16/13", 
-        "prize": 10000
+        "state": "ne", 
+        "location": "Omaha, NE", 
+        "date_order": 150925, 
+        "date_str": "9/25/15", 
+        "prize": 8000
     }, 
     "6590": {
         "attendance": 51, 
@@ -15905,6 +16796,28 @@
         "date_str": "6/13/15", 
         "prize": 0
     }, 
+    "6936": {
+        "attendance": 42, 
+        "is_state_champ": true, 
+        "name": "Grilling & Chillin BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "ky", 
+        "location": "Owensboro, KY", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 9000
+    }, 
+    "6937": {
+        "attendance": 55, 
+        "is_state_champ": true, 
+        "name": "Murphysboro BBQ Cookoff", 
+        "cbj_percentage": "100%", 
+        "state": "il", 
+        "location": "Murphysboro, IL", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 12200
+    }, 
     "6935": {
         "attendance": 54, 
         "is_state_champ": true, 
@@ -15925,6 +16838,17 @@
         "location": "Lawrence, KS", 
         "date_order": 170505, 
         "date_str": "5/5/17", 
+        "prize": 4800
+    }, 
+    "6939": {
+        "attendance": 112, 
+        "is_state_champ": true, 
+        "name": "Shawnee Great Grillers State Championship Barbeque", 
+        "cbj_percentage": "97%", 
+        "state": "ks", 
+        "location": "Shawnee, KS", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
         "prize": 4800
     }, 
     "5775": {
@@ -16004,16 +16928,16 @@
         "date_str": "6/19/15", 
         "prize": 0
     }, 
-    "3969": {
-        "attendance": 38, 
+    "5798": {
+        "attendance": 27, 
         "is_state_champ": true, 
-        "name": "Chillin & Grillin BBQ Festival", 
+        "name": "Eureka BBQ Bash", 
         "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Sand Springs, OK", 
-        "date_order": 131011, 
-        "date_str": "10/11/13", 
-        "prize": 6050
+        "state": "ks", 
+        "location": "Eureka, KS", 
+        "date_order": 150619, 
+        "date_str": "6/19/15", 
+        "prize": 5000
     }, 
     "4107": {
         "attendance": 42, 
@@ -16026,8 +16950,19 @@
         "date_str": "9/14/13", 
         "prize": 3800
     }, 
+    "4756": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "Blazin' BBQ Throwdown", 
+        "cbj_percentage": "100%", 
+        "state": "ca", 
+        "location": "Lancaster, CA", 
+        "date_order": 141017, 
+        "date_str": "10/17/14", 
+        "prize": 10000
+    }, 
     "4108": {
-        "attendance": 48, 
+        "attendance": 44, 
         "is_state_champ": true, 
         "name": "Downtown Jonesboro BBQ Fest", 
         "cbj_percentage": "96%", 
@@ -16036,6 +16971,17 @@
         "date_order": 130927, 
         "date_str": "9/27/13", 
         "prize": 10000
+    }, 
+    "7417": {
+        "attendance": 19, 
+        "is_state_champ": true, 
+        "name": "*Wisconsin Colorfest & BBQ Bash", 
+        "cbj_percentage": "NA", 
+        "state": "wi", 
+        "location": "Turtle Lake, WI", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 6800
     }, 
     "3890": {
         "attendance": 46, 
@@ -16058,6 +17004,17 @@
         "date_order": 130816, 
         "date_str": "8/16/13", 
         "prize": 6975
+    }, 
+    "4204": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
+        "cbj_percentage": "100%", 
+        "state": "tn", 
+        "location": "Hendersonville, TN", 
+        "date_order": 130913, 
+        "date_str": "9/13/13", 
+        "prize": 20000
     }, 
     "6745": {
         "attendance": 28, 
@@ -16126,7 +17083,7 @@
         "prize": 10000
     }, 
     "5950": {
-        "attendance": 44, 
+        "attendance": 43, 
         "is_state_champ": true, 
         "name": "Smokin' On The Pecos", 
         "cbj_percentage": "100%", 
@@ -16147,27 +17104,27 @@
         "date_str": "4/22/16", 
         "prize": 7000
     }, 
-    "5954": {
-        "attendance": 66, 
+    "4078": {
+        "attendance": 25, 
         "is_state_champ": true, 
-        "name": "Firelake BBQ Cook Off", 
+        "name": "13th Annual Bordertown Bash", 
         "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Shawnee, OK", 
-        "date_order": 160325, 
-        "date_str": "3/25/16", 
-        "prize": 12500
+        "state": "ar", 
+        "location": "Fort Smith, AR", 
+        "date_order": 131019, 
+        "date_str": "10/19/13", 
+        "prize": 7500
     }, 
-    "5958": {
-        "attendance": 18, 
+    "4074": {
+        "attendance": 62, 
         "is_state_champ": true, 
-        "name": "Aksarben Stock Show & Rodeo", 
+        "name": "Stand By Your Grill", 
         "cbj_percentage": "100%", 
-        "state": "ne", 
-        "location": "Omaha, NE", 
-        "date_order": 150925, 
-        "date_str": "9/25/15", 
-        "prize": 8000
+        "state": "ms", 
+        "location": "Fulton, MS", 
+        "date_order": 130816, 
+        "date_str": "8/16/13", 
+        "prize": 10000
     }, 
     "4071": {
         "attendance": 25, 
@@ -16235,27 +17192,27 @@
         "date_str": "11/3/15", 
         "prize": 28650
     }, 
-    "5798": {
-        "attendance": 27, 
+    "3969": {
+        "attendance": 38, 
         "is_state_champ": true, 
-        "name": "Eureka BBQ Bash", 
+        "name": "Chillin & Grillin BBQ Festival", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Eureka, KS", 
-        "date_order": 150619, 
-        "date_str": "6/19/15", 
-        "prize": 5000
+        "state": "ok", 
+        "location": "Sand Springs, OK", 
+        "date_order": 131011, 
+        "date_str": "10/11/13", 
+        "prize": 6050
     }, 
-    "5080": {
-        "attendance": 20, 
+    "7279": {
+        "attendance": 22, 
         "is_state_champ": true, 
-        "name": "Rock'n Ribville", 
-        "cbj_percentage": "100%", 
-        "state": "ga", 
-        "location": "Lawrenceville, GA", 
-        "date_order": 141010, 
-        "date_str": "10/10/14", 
-        "prize": 5300
+        "name": "*BBQ Throw Down", 
+        "cbj_percentage": "96%", 
+        "state": "mi", 
+        "location": "Wyandotte, MI", 
+        "date_order": 170519, 
+        "date_str": "5/19/17", 
+        "prize": 8000
     }, 
     "6109": {
         "attendance": 55, 
@@ -16488,16 +17445,16 @@
         "date_str": "10/10/14", 
         "prize": 15000
     }, 
-    "6445": {
-        "attendance": 27, 
+    "6917": {
+        "attendance": 41, 
         "is_state_champ": true, 
-        "name": "*Hot Pursuit BBQ", 
-        "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Shawnee, OK", 
-        "date_order": 160702, 
-        "date_str": "7/2/16", 
-        "prize": 10000
+        "name": "CIBR-BBQ Central Illinois Bragging Right BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "il", 
+        "location": "Arthur, IL", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 12000
     }, 
     "6033": {
         "attendance": 64, 
@@ -16576,16 +17533,16 @@
         "date_str": "8/29/14", 
         "prize": 0
     }, 
-    "6912": {
-        "attendance": 30, 
-        "is_state_champ": true, 
-        "name": "*The Great Adirondack BBQ", 
-        "cbj_percentage": "100%", 
-        "state": "ny", 
-        "location": "Old Forge, NY", 
-        "date_order": 170728, 
-        "date_str": "7/28/17", 
-        "prize": 15000
+    "6440": {
+        "attendance": 46, 
+        "is_state_champ": false, 
+        "name": "Bynum School's Best of the Basin", 
+        "cbj_percentage": "80%", 
+        "state": "tx", 
+        "location": "Midland, TX", 
+        "date_order": 160422, 
+        "date_str": "4/22/16", 
+        "prize": 20000
     }, 
     "5175": {
         "attendance": 15, 
@@ -16630,6 +17587,28 @@
         "date_order": 161202, 
         "date_str": "12/2/16", 
         "prize": 75000
+    }, 
+    "7384": {
+        "attendance": 7, 
+        "is_state_champ": false, 
+        "name": "*Western Legends Roundup BBQ Cook Off(BACKYARD ONLY)", 
+        "cbj_percentage": "100%", 
+        "state": "ut", 
+        "location": "Kanab, UT", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 3000
+    }, 
+    "7385": {
+        "attendance": 11, 
+        "is_state_champ": true, 
+        "name": "*First Annual Half Way to St.Pat's BBQ Contest", 
+        "cbj_percentage": "95%", 
+        "state": "ia", 
+        "location": "Emmetsburg, IA", 
+        "date_order": 170826, 
+        "date_str": "8/26/17", 
+        "prize": 5000
     }, 
     "6327": {
         "attendance": 38, 
@@ -16807,8 +17786,30 @@
         "date_str": "7/28/17", 
         "prize": 10000
     }, 
-    "7259": {
+    "7252": {
         "attendance": 26, 
+        "is_state_champ": true, 
+        "name": "Squealin in the Square(PALMETTO BBQ SERIES)", 
+        "cbj_percentage": "NA", 
+        "state": "sc", 
+        "location": "Laurens, SC", 
+        "date_order": 171006, 
+        "date_str": "10/6/17", 
+        "prize": 7400
+    }, 
+    "7258": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "Hog Wild West BBQ Contest", 
+        "cbj_percentage": "NA", 
+        "state": "ks", 
+        "location": "Leavenworth, KS", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 3300
+    }, 
+    "7259": {
+        "attendance": 25, 
         "is_state_champ": false, 
         "name": "*Smokin in the Ville", 
         "cbj_percentage": "100%", 
@@ -16818,16 +17819,16 @@
         "date_str": "4/28/17", 
         "prize": 3500
     }, 
-    "4485": {
-        "attendance": 46, 
-        "is_state_champ": true, 
-        "name": "Smokin in the Square", 
+    "5612": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
         "cbj_percentage": "100%", 
-        "state": "fl", 
-        "location": "Pensacola, FL", 
-        "date_order": 140307, 
-        "date_str": "3/7/14", 
-        "prize": 9400
+        "state": "ms", 
+        "location": "Southaven, MS", 
+        "date_order": 150918, 
+        "date_str": "9/18/15", 
+        "prize": 20000
     }, 
     "4486": {
         "attendance": 53, 
@@ -16928,6 +17929,28 @@
         "date_str": "5/5/17", 
         "prize": 10000
     }, 
+    "6853": {
+        "attendance": 64, 
+        "is_state_champ": true, 
+        "name": "*Smoke On the Trails", 
+        "cbj_percentage": "NA", 
+        "state": "ks", 
+        "location": "Gardner, KS", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 10000
+    }, 
+    "6852": {
+        "attendance": 43, 
+        "is_state_champ": true, 
+        "name": "*Que by the Sea", 
+        "cbj_percentage": "100%", 
+        "state": "nj", 
+        "location": "Seaside Heights, NJ", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 11000
+    }, 
     "6561": {
         "attendance": 29, 
         "is_state_champ": true, 
@@ -16938,6 +17961,17 @@
         "date_order": 160611, 
         "date_str": "6/11/16", 
         "prize": 5000
+    }, 
+    "6858": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "*Smokin-in-Sapulpa 4th Annual BBQ", 
+        "cbj_percentage": "98%", 
+        "state": "ok", 
+        "location": "Sapulpa, OK", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 5470
     }, 
     "6560": {
         "attendance": 10, 
@@ -16983,6 +18017,17 @@
         "date_str": "5/5/17", 
         "prize": 17900
     }, 
+    "7130": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "*Smoking in the Golden Valley", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Clinton, MO", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 5000
+    }, 
     "6562": {
         "attendance": 37, 
         "is_state_champ": true, 
@@ -17005,8 +18050,30 @@
         "date_str": "8/4/17", 
         "prize": 10750
     }, 
+    "7134": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "*Grillin & chillin BBQ cook-off", 
+        "cbj_percentage": "NA", 
+        "state": "nc", 
+        "location": "Waxhaw, NC", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 12000
+    }, 
+    "7137": {
+        "attendance": 38, 
+        "is_state_champ": true, 
+        "name": "*Cherokee Strip BBQ Cook-Off", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Ponca City, OK", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 15250
+    }, 
     "7136": {
-        "attendance": 35, 
+        "attendance": 33, 
         "is_state_champ": true, 
         "name": "Montana BBQ Cook-Off", 
         "cbj_percentage": "100%", 
@@ -17028,7 +18095,7 @@
         "prize": 10500
     }, 
     "5318": {
-        "attendance": 30, 
+        "attendance": 29, 
         "is_state_champ": true, 
         "name": "Backyard BBQ Brawl (Competitor's Series)", 
         "cbj_percentage": "NA", 
@@ -17137,6 +18204,17 @@
         "date_str": "9/16/16", 
         "prize": 5100
     }, 
+    "5940": {
+        "attendance": 42, 
+        "is_state_champ": true, 
+        "name": "Almost Heaven BBQ Bash", 
+        "cbj_percentage": "100%", 
+        "state": "wv", 
+        "location": "Buckhannon, WV", 
+        "date_order": 160617, 
+        "date_str": "6/17/16", 
+        "prize": 10000
+    }, 
     "4238": {
         "attendance": 53, 
         "is_state_champ": true, 
@@ -17149,7 +18227,7 @@
         "prize": 8500
     }, 
     "5407": {
-        "attendance": 63, 
+        "attendance": 62, 
         "is_state_champ": true, 
         "name": "Rock N Ribs BBQ Festival", 
         "cbj_percentage": "100%", 
@@ -17215,7 +18293,7 @@
         "prize": 7000
     }, 
     "5400": {
-        "attendance": 75, 
+        "attendance": 74, 
         "is_state_champ": true, 
         "name": "City of Dana Point State BBQ Championship", 
         "cbj_percentage": "99%", 
@@ -17268,6 +18346,39 @@
         "date_order": 130913, 
         "date_str": "9/13/13", 
         "prize": 5050
+    }, 
+    "6928": {
+        "attendance": 40, 
+        "is_state_champ": true, 
+        "name": "6th Annual Death Door Barbeque(DAY 1)", 
+        "cbj_percentage": "NA", 
+        "state": "wi", 
+        "location": "Washington Island, WI", 
+        "date_order": 170824, 
+        "date_str": "8/24/17", 
+        "prize": 8000
+    }, 
+    "6925": {
+        "attendance": 39, 
+        "is_state_champ": true, 
+        "name": "*Beak Week BBQ Challenge", 
+        "cbj_percentage": "100%", 
+        "state": "nc", 
+        "location": "Goldsboro, NC", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 0
+    }, 
+    "6924": {
+        "attendance": 44, 
+        "is_state_champ": true, 
+        "name": "*Raider Red Meats BBQ & Ribeye Championship", 
+        "cbj_percentage": "97%", 
+        "state": "tx", 
+        "location": "Lubbock, TX", 
+        "date_order": 170825, 
+        "date_str": "8/25/17", 
+        "prize": 12500
     }, 
     "6926": {
         "attendance": 57, 
@@ -17391,7 +18502,7 @@
         "prize": 10000
     }, 
     "5890": {
-        "attendance": 38, 
+        "attendance": 37, 
         "is_state_champ": true, 
         "name": "Grills and Grilles", 
         "cbj_percentage": "100%", 
@@ -17500,6 +18611,17 @@
         "date_str": "8/16/13", 
         "prize": 10000
     }, 
+    "7409": {
+        "attendance": 56, 
+        "is_state_champ": true, 
+        "name": "*OC BBQ Competition", 
+        "cbj_percentage": "NA", 
+        "state": "ca", 
+        "location": "Costa Messa, CA", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 8000
+    }, 
     "4912": {
         "attendance": 32, 
         "is_state_champ": true, 
@@ -17589,7 +18711,7 @@
         "prize": 21975
     }, 
     "6291": {
-        "attendance": 38, 
+        "attendance": 37, 
         "is_state_champ": true, 
         "name": "Smoke in the Park", 
         "cbj_percentage": "100%", 
@@ -17610,19 +18732,19 @@
         "date_str": "10/18/13", 
         "prize": 14500
     }, 
-    "6290": {
-        "attendance": 32, 
+    "3972": {
+        "attendance": 25, 
         "is_state_champ": true, 
-        "name": "Salt City BBQ Festival", 
-        "cbj_percentage": "100%", 
-        "state": "ny", 
-        "location": "Syracuse, NY", 
-        "date_order": 160520, 
-        "date_str": "5/20/16", 
-        "prize": 5000
+        "name": "5th Annual Hay Capital BBQ Cook Off", 
+        "cbj_percentage": "NA", 
+        "state": "ks", 
+        "location": "Yates Center, KS", 
+        "date_order": 130913, 
+        "date_str": "9/13/13", 
+        "prize": 4500
     }, 
     "3974": {
-        "attendance": 38, 
+        "attendance": 37, 
         "is_state_champ": true, 
         "name": "Jim Bowie BBQ Throwdown", 
         "cbj_percentage": "100%", 
@@ -17642,6 +18764,17 @@
         "date_order": 131025, 
         "date_str": "10/25/13", 
         "prize": 3700
+    }, 
+    "6529": {
+        "attendance": 30, 
+        "is_state_champ": true, 
+        "name": "2016 Smokin in the Wood BBQ Competition", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Greenwood, MO", 
+        "date_order": 160513, 
+        "date_str": "5/13/16", 
+        "prize": 5000
     }, 
     "6528": {
         "attendance": 21, 
@@ -17676,16 +18809,16 @@
         "date_str": "6/26/14", 
         "prize": 7000
     }, 
-    "4716": {
-        "attendance": 53, 
+    "6138": {
+        "attendance": 22, 
         "is_state_champ": true, 
-        "name": "Keystone Classic Barbeque", 
+        "name": "Hott Butts BBQ Contest", 
         "cbj_percentage": "100%", 
-        "state": "pa", 
-        "location": "Harrisburg, PA", 
-        "date_order": 141003, 
-        "date_str": "10/3/14", 
-        "prize": 7250
+        "state": "mo", 
+        "location": "Boonville, MO", 
+        "date_order": 160603, 
+        "date_str": "6/3/16", 
+        "prize": 5250
     }, 
     "4717": {
         "attendance": 35, 
@@ -17753,27 +18886,27 @@
         "date_str": "6/24/16", 
         "prize": 20000
     }, 
-    "6136": {
-        "attendance": 25, 
+    "4718": {
+        "attendance": 47, 
         "is_state_champ": true, 
-        "name": "Truman Heritage Festival BBQ Championship", 
+        "name": "Grill Games", 
         "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Grandview, MO", 
-        "date_order": 160506, 
-        "date_str": "5/6/16", 
-        "prize": 4750
+        "state": "wi", 
+        "location": "Kenosha, WI", 
+        "date_order": 140822, 
+        "date_str": "8/22/14", 
+        "prize": 9000
     }, 
-    "4719": {
-        "attendance": 35, 
+    "6137": {
+        "attendance": 22, 
         "is_state_champ": true, 
-        "name": "Classic City BBQ Fest & Tailgate Show (GBC Qualifier)", 
-        "cbj_percentage": "100%", 
-        "state": "ga", 
-        "location": "Athens, GA", 
-        "date_order": 140814, 
-        "date_str": "8/14/14", 
-        "prize": 10000
+        "name": "5th Annual Smokin on the Lake", 
+        "cbj_percentage": "95%", 
+        "state": "mo", 
+        "location": "Monroe City, MO", 
+        "date_order": 160603, 
+        "date_str": "6/3/16", 
+        "prize": 4825
     }, 
     "6135": {
         "attendance": 42, 
@@ -17820,7 +18953,7 @@
         "prize": 5000
     }, 
     "4477": {
-        "attendance": 35, 
+        "attendance": 34, 
         "is_state_champ": false, 
         "name": "2nd Annual Freedom Feast BBQ Cook-Off", 
         "cbj_percentage": "94%", 
@@ -17841,16 +18974,16 @@
         "date_str": "9/26/14", 
         "prize": 0
     }, 
-    "4909": {
-        "attendance": 65, 
+    "6006": {
+        "attendance": 29, 
         "is_state_champ": true, 
-        "name": "Que for the Troops", 
-        "cbj_percentage": "100%", 
-        "state": "pa", 
-        "location": "Levittown, PA", 
-        "date_order": 140606, 
-        "date_str": "6/6/14", 
-        "prize": 5650
+        "name": "EffingHAM Jam", 
+        "cbj_percentage": "97%", 
+        "state": "il", 
+        "location": "Effingham, IL", 
+        "date_order": 160722, 
+        "date_str": "7/22/16", 
+        "prize": 6000
     }, 
     "6004": {
         "attendance": 35, 
@@ -17874,16 +19007,16 @@
         "date_str": "10/24/15", 
         "prize": 10000
     }, 
-    "4679": {
-        "attendance": 43, 
-        "is_state_champ": true, 
-        "name": "Conifer Mountain BBQ Challenge", 
-        "cbj_percentage": "100%", 
-        "state": "co", 
-        "location": "Conifer, CO", 
-        "date_order": 140815, 
-        "date_str": "8/15/14", 
-        "prize": 10000
+    "6000": {
+        "attendance": 58, 
+        "is_state_champ": false, 
+        "name": "Lakeland Pig Festival", 
+        "cbj_percentage": "85%", 
+        "state": "fl", 
+        "location": "Lakeland , FL", 
+        "date_order": 160129, 
+        "date_str": "1/29/16", 
+        "prize": 0
     }, 
     "4678": {
         "attendance": 36, 
@@ -17896,71 +19029,82 @@
         "date_str": "8/22/14", 
         "prize": 6000
     }, 
-    "4675": {
-        "attendance": 34, 
+    "4903": {
+        "attendance": 33, 
         "is_state_champ": true, 
-        "name": "Table Rock Boats and Bones", 
+        "name": "BBQ in the Bluffs", 
         "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Kimberling City, MO", 
-        "date_order": 140913, 
-        "date_str": "9/13/14", 
-        "prize": 10000
+        "state": "ia", 
+        "location": "Council Bluffs, IA", 
+        "date_order": 140509, 
+        "date_str": "5/9/14", 
+        "prize": 8300
     }, 
-    "4674": {
-        "attendance": 43, 
+    "4902": {
+        "attendance": 21, 
         "is_state_champ": true, 
-        "name": "Bates County Barbecue State Championship & Festival", 
+        "name": "Slab O Rama Barbeque Challenge", 
         "cbj_percentage": "100%", 
-        "state": "mo", 
-        "location": "Butler, MO", 
-        "date_order": 140905, 
-        "date_str": "9/5/14", 
-        "prize": 6500
+        "state": "az", 
+        "location": "Bullhead City, AZ", 
+        "date_order": 141010, 
+        "date_str": "10/10/14", 
+        "prize": 16000
     }, 
-    "4673": {
-        "attendance": 62, 
+    "4905": {
+        "attendance": 30, 
         "is_state_champ": true, 
-        "name": "BBQ Capital Cookoff", 
+        "name": "Jammin' Pig BBQ Musice Festival", 
         "cbj_percentage": "100%", 
         "state": "nc", 
-        "location": "Lexington, NC", 
-        "date_order": 140425, 
-        "date_str": "4/25/14", 
-        "prize": 15900
+        "location": "Winston-Salem, NC", 
+        "date_order": 140411, 
+        "date_str": "4/11/14", 
+        "prize": 10000
     }, 
-    "4672": {
-        "attendance": 97, 
+    "4904": {
+        "attendance": 34, 
         "is_state_champ": true, 
-        "name": "Dana Point State BBQ Championship", 
-        "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Dana Point, CA", 
-        "date_order": 141002, 
-        "date_str": "10/2/14", 
-        "prize": 30000
-    }, 
-    "6008": {
-        "attendance": 59, 
-        "is_state_champ": true, 
-        "name": "Sip & Swine BBQ Festival (GBC Qualifier)", 
+        "name": "Smokin' Up The Saddle Club (SBBQA)", 
         "cbj_percentage": "100%", 
         "state": "ga", 
-        "location": "Lawrenceville, GA", 
-        "date_order": 160304, 
-        "date_str": "3/4/16", 
-        "prize": 9500
+        "location": "Chatsworth, GA", 
+        "date_order": 141114, 
+        "date_str": "11/14/14", 
+        "prize": 11600
     }, 
-    "4670": {
-        "attendance": 61, 
+    "4907": {
+        "attendance": 65, 
         "is_state_champ": true, 
-        "name": "Hammond BBQ", 
+        "name": "Stand By Your Grill", 
         "cbj_percentage": "100%", 
-        "state": "la", 
-        "location": "Hammond, LA", 
-        "date_order": 140321, 
-        "date_str": "3/21/14", 
-        "prize": 12000
+        "state": "ms", 
+        "location": "Fulton, MS", 
+        "date_order": 140815, 
+        "date_str": "8/15/14", 
+        "prize": 10000
+    }, 
+    "4906": {
+        "attendance": 22, 
+        "is_state_champ": false, 
+        "name": "NBBQA BBQ Bash Cook Off", 
+        "cbj_percentage": "100%", 
+        "state": "tx", 
+        "location": "San Marcos, TX", 
+        "date_order": 140307, 
+        "date_str": "3/7/14", 
+        "prize": 0
+    }, 
+    "7396": {
+        "attendance": 42, 
+        "is_state_champ": true, 
+        "name": "Smoke on the Water New Jersey State Barbecue Championship", 
+        "cbj_percentage": "100%", 
+        "state": "nj", 
+        "location": "Atlantic City, NJ", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 15000
     }, 
     "6444": {
         "attendance": 67, 
@@ -17972,6 +19116,28 @@
         "date_order": 160603, 
         "date_str": "6/3/16", 
         "prize": 10125
+    }, 
+    "6290": {
+        "attendance": 32, 
+        "is_state_champ": true, 
+        "name": "Salt City BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ny", 
+        "location": "Syracuse, NY", 
+        "date_order": 160520, 
+        "date_str": "5/20/16", 
+        "prize": 5000
+    }, 
+    "7393": {
+        "attendance": 18, 
+        "is_state_champ": true, 
+        "name": "Smoke & Soul Fest", 
+        "cbj_percentage": "98%", 
+        "state": "wy", 
+        "location": "Casper, WY", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 8000
     }, 
     "5147": {
         "attendance": 16, 
@@ -18006,16 +19172,16 @@
         "date_str": "10/3/14", 
         "prize": 20000
     }, 
-    "7398": {
-        "attendance": 28, 
-        "is_state_champ": true, 
-        "name": "Smithfield BBQ Classic", 
+    "5143": {
+        "attendance": 42, 
+        "is_state_champ": false, 
+        "name": "The Great Vegas Gridiron Grill-Off", 
         "cbj_percentage": "100%", 
-        "state": "va", 
-        "location": "Smithfield , VA", 
-        "date_order": 170804, 
-        "date_str": "8/4/17", 
-        "prize": 10600
+        "state": "nv", 
+        "location": "Las Vegas, NV", 
+        "date_order": 140905, 
+        "date_str": "9/5/14", 
+        "prize": 50000
     }, 
     "5140": {
         "attendance": 28, 
@@ -18028,27 +19194,27 @@
         "date_str": "3/27/15", 
         "prize": 10000
     }, 
-    "5429": {
-        "attendance": 16, 
+    "7085": {
+        "attendance": 26, 
         "is_state_champ": true, 
-        "name": "Rock'N RibFest 2015", 
-        "cbj_percentage": "69%", 
-        "state": "nh", 
-        "location": "Merrimack, NH", 
-        "date_order": 150620, 
-        "date_str": "6/20/15", 
-        "prize": 6300
-    }, 
-    "5428": {
-        "attendance": 32, 
-        "is_state_champ": true, 
-        "name": "Hott Butts BBQ Contest", 
+        "name": "*Chillin & Grillin In The Glades", 
         "cbj_percentage": "100%", 
+        "state": "va", 
+        "location": "Wise, VA", 
+        "date_order": 170714, 
+        "date_str": "7/14/17", 
+        "prize": 7500
+    }, 
+    "7084": {
+        "attendance": 65, 
+        "is_state_champ": true, 
+        "name": "Smokin' On The Summit", 
+        "cbj_percentage": "99%", 
         "state": "mo", 
-        "location": "Boonville, MO", 
-        "date_order": 150605, 
-        "date_str": "6/5/15", 
-        "prize": 0
+        "location": "Lee's Summit, MO", 
+        "date_order": 170602, 
+        "date_str": "6/2/17", 
+        "prize": 10000
     }, 
     "4875": {
         "attendance": 38, 
@@ -18072,15 +19238,15 @@
         "date_str": "4/4/14", 
         "prize": 5500
     }, 
-    "4877": {
-        "attendance": 53, 
+    "6445": {
+        "attendance": 27, 
         "is_state_champ": true, 
-        "name": "Balloons & BBQ Festival at Kansas Speedway", 
+        "name": "*Hot Pursuit BBQ", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Kansas City, KS", 
-        "date_order": 140808, 
-        "date_str": "8/8/14", 
+        "state": "ok", 
+        "location": "Shawnee, OK", 
+        "date_order": 160702, 
+        "date_str": "7/2/16", 
         "prize": 10000
     }, 
     "4876": {
@@ -18106,7 +19272,7 @@
         "prize": 6000
     }, 
     "4870": {
-        "attendance": 30, 
+        "attendance": 29, 
         "is_state_champ": true, 
         "name": "Smoke on the Harbor BBQ Throwdown (JUDGES REGISTRATION WILL BEGIN ON 6/15/2014)", 
         "cbj_percentage": "NA", 
@@ -18138,16 +19304,16 @@
         "date_str": "7/19/14", 
         "prize": 8500
     }, 
-    "4878": {
-        "attendance": 48, 
+    "5078": {
+        "attendance": 9, 
         "is_state_champ": true, 
-        "name": "The Guinea Pig (Competitor's Series)", 
+        "name": "Smokin on Route 66 BBQ Championship", 
         "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Indio, CA", 
-        "date_order": 140221, 
-        "date_str": "2/21/14", 
-        "prize": 10600
+        "state": "ok", 
+        "location": "Miami, OK", 
+        "date_order": 140905, 
+        "date_str": "9/5/14", 
+        "prize": 5200
     }, 
     "6312": {
         "attendance": 22, 
@@ -18281,6 +19447,17 @@
         "date_str": "6/2/17", 
         "prize": 3050
     }, 
+    "7241": {
+        "attendance": 25, 
+        "is_state_champ": true, 
+        "name": "BBBrew For Hope", 
+        "cbj_percentage": "100%", 
+        "state": "co", 
+        "location": "Ft.Collins, CO", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 6000
+    }, 
     "7240": {
         "attendance": 29, 
         "is_state_champ": true, 
@@ -18413,16 +19590,16 @@
         "date_str": "6/27/14", 
         "prize": 11250
     }, 
-    "5656": {
-        "attendance": 34, 
+    "6820": {
+        "attendance": 27, 
         "is_state_champ": true, 
-        "name": "Hog Happenin' BBQ & Bike Fest", 
-        "cbj_percentage": "100%", 
-        "state": "nc", 
-        "location": "Lincolnton, NC", 
-        "date_order": 150605, 
-        "date_str": "6/5/15", 
-        "prize": 7750
+        "name": "Seventh Annual Bull Moose", 
+        "cbj_percentage": "NA", 
+        "state": "tn", 
+        "location": "Somerville, TN", 
+        "date_order": 170407, 
+        "date_str": "4/7/17", 
+        "prize": 5000
     }, 
     "6828": {
         "attendance": 46, 
@@ -18490,8 +19667,19 @@
         "date_str": "4/3/15", 
         "prize": 5150
     }, 
+    "6441": {
+        "attendance": 17, 
+        "is_state_champ": false, 
+        "name": "HAVA Nagrilla 2017 Kosher (Competitor's Series)(Judges Full)", 
+        "cbj_percentage": "NA", 
+        "state": "pa", 
+        "location": "Wynnewood, PA", 
+        "date_order": 170826, 
+        "date_str": "8/26/17", 
+        "prize": 0
+    }, 
     "5329": {
-        "attendance": 55, 
+        "attendance": 53, 
         "is_state_champ": true, 
         "name": "8th Annual Big Island BBQ", 
         "cbj_percentage": "100%", 
@@ -18512,27 +19700,38 @@
         "date_str": "7/7/17", 
         "prize": 6000
     }, 
-    "7096": {
+    "5888": {
         "attendance": 28, 
         "is_state_champ": true, 
-        "name": "Sam's Club National BBQ Tour", 
+        "name": "The Outlets @ Lake Elsinore  BBQ State Championship", 
         "cbj_percentage": "100%", 
-        "state": "al", 
-        "location": "Daphne, AL", 
-        "date_order": 170224, 
-        "date_str": "2/24/17", 
-        "prize": 10000
+        "state": "ca", 
+        "location": "Lake Elsinore, CA", 
+        "date_order": 150911, 
+        "date_str": "9/11/15", 
+        "prize": 5000
     }, 
-    "4981": {
+    "5432": {
         "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Harper County Bullseye BBQ", 
-        "cbj_percentage": "96%", 
+        "is_state_champ": true, 
+        "name": "Big Blue BBQ Championship", 
+        "cbj_percentage": "100%", 
         "state": "ks", 
-        "location": "Harper, KS", 
-        "date_order": 141017, 
-        "date_str": "10/17/14", 
-        "prize": 10055
+        "location": "Marysville, KS", 
+        "date_order": 150605, 
+        "date_str": "6/5/15", 
+        "prize": 0
+    }, 
+    "5433": {
+        "attendance": 38, 
+        "is_state_champ": true, 
+        "name": "Blount County BBQ Bash", 
+        "cbj_percentage": "100%", 
+        "state": "tn", 
+        "location": "Maryville, TN", 
+        "date_order": 150626, 
+        "date_str": "6/26/15", 
+        "prize": 0
     }, 
     "5430": {
         "attendance": 26, 
@@ -18545,38 +19744,38 @@
         "date_str": "9/18/15", 
         "prize": 8200
     }, 
-    "7095": {
-        "attendance": 47, 
+    "5431": {
+        "attendance": 55, 
         "is_state_champ": true, 
-        "name": "Fire on Ice Barbecue World Championship", 
+        "name": "Murphysboro Barbecue Cook-Off", 
         "cbj_percentage": "100%", 
-        "state": "mn", 
-        "location": "Onamia, MN", 
-        "date_order": 170303, 
-        "date_str": "3/3/17", 
-        "prize": 5700
+        "state": "il", 
+        "location": "Murphysboro, IL", 
+        "date_order": 150925, 
+        "date_str": "9/25/15", 
+        "prize": 11950
     }, 
-    "5436": {
-        "attendance": 17, 
+    "7092": {
+        "attendance": 35, 
         "is_state_champ": true, 
-        "name": "3rd Annual Hog & Steer Barbecue Competition and Festival", 
+        "name": "*Jammin In JC Blues & BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ks", 
+        "location": "Junction City, KS", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 5000
+    }, 
+    "7093": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "7th Annual Smokin' In The Bogs", 
         "cbj_percentage": "100%", 
         "state": "wi", 
-        "location": "Oconomowoc, WI", 
-        "date_order": 150612, 
-        "date_str": "6/12/15", 
-        "prize": 4500
-    }, 
-    "5437": {
-        "attendance": 27, 
-        "is_state_champ": true, 
-        "name": "Oaktown Throwdown", 
-        "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Oakland, CA", 
-        "date_order": 150731, 
-        "date_str": "7/31/15", 
-        "prize": 6850
+        "location": "Warrens, WI", 
+        "date_order": 170901, 
+        "date_str": "9/1/17", 
+        "prize": 0
     }, 
     "7090": {
         "attendance": 26, 
@@ -18589,15 +19788,15 @@
         "date_str": "7/28/17", 
         "prize": 7500
     }, 
-    "7091": {
-        "attendance": 36, 
+    "6249": {
+        "attendance": 34, 
         "is_state_champ": true, 
-        "name": "Kings of Q BBQ cook off and Festival", 
-        "cbj_percentage": "99%", 
-        "state": "nc", 
-        "location": "Ayden, NC", 
-        "date_order": 170519, 
-        "date_str": "5/19/17", 
+        "name": "Tri City BBQ Fest", 
+        "cbj_percentage": "100%", 
+        "state": "ia", 
+        "location": "Denison, IA", 
+        "date_order": 160916, 
+        "date_str": "9/16/16", 
         "prize": 10000
     }, 
     "5438": {
@@ -18754,27 +19953,27 @@
         "date_str": "6/24/16", 
         "prize": 6000
     }, 
-    "6481": {
-        "attendance": 7, 
-        "is_state_champ": false, 
-        "name": "Second Annual Dallas Kosher BBQ Championship (COMPETITOR'S SERIES)", 
-        "cbj_percentage": "100%", 
-        "state": "tx", 
-        "location": "Dallas, TX", 
-        "date_order": 161029, 
-        "date_str": "10/29/16", 
+    "6953": {
+        "attendance": 21, 
+        "is_state_champ": true, 
+        "name": "Big Muddy Brew N Que", 
+        "cbj_percentage": "NA", 
+        "state": "mn", 
+        "location": "Winona, MN", 
+        "date_order": 170902, 
+        "date_str": "9/2/17", 
         "prize": 0
     }, 
-    "6954": {
-        "attendance": 64, 
+    "5559": {
+        "attendance": 14, 
         "is_state_champ": true, 
-        "name": "9th Annual VFW Post 846 BBQ Challenge", 
-        "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Overland Park, KS", 
-        "date_order": 170421, 
-        "date_str": "4/21/17", 
-        "prize": 5000
+        "name": "Butler Chamber of Commerce BBQ & Huckster's Day", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Butler, MO", 
+        "date_order": 150911, 
+        "date_str": "9/11/15", 
+        "prize": 4720
     }, 
     "5558": {
         "attendance": 26, 
@@ -18786,6 +19985,17 @@
         "date_order": 150612, 
         "date_str": "6/12/15", 
         "prize": 0
+    }, 
+    "6956": {
+        "attendance": 19, 
+        "is_state_champ": true, 
+        "name": "*Bryant's Buzzin BBQ Bash", 
+        "cbj_percentage": "98%", 
+        "state": "ar", 
+        "location": "Bryant, AR", 
+        "date_order": 170929, 
+        "date_str": "9/29/17", 
+        "prize": 7500
     }, 
     "6957": {
         "attendance": 33, 
@@ -18799,7 +20009,7 @@
         "prize": 8100
     }, 
     "6774": {
-        "attendance": 38, 
+        "attendance": 37, 
         "is_state_champ": true, 
         "name": "Uptown Lexington BBQ Capital Cook Off", 
         "cbj_percentage": "100%", 
@@ -18854,7 +20064,7 @@
         "prize": 10000
     }, 
     "5887": {
-        "attendance": 606, 
+        "attendance": 604, 
         "is_state_champ": false, 
         "name": "36th Annual American Royal World Series of Barbeque- Open", 
         "cbj_percentage": "NA", 
@@ -18864,16 +20074,16 @@
         "date_str": "10/3/15", 
         "prize": 56125
     }, 
-    "4756": {
-        "attendance": 29, 
-        "is_state_champ": true, 
-        "name": "Blazin' BBQ Throwdown", 
-        "cbj_percentage": "100%", 
-        "state": "ca", 
-        "location": "Lancaster, CA", 
-        "date_order": 141017, 
-        "date_str": "10/17/14", 
-        "prize": 10000
+    "5886": {
+        "attendance": 187, 
+        "is_state_champ": false, 
+        "name": "36th Annual American Royal World Series of Barbeque- Invitational", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Kansas City, MO", 
+        "date_order": 151002, 
+        "date_str": "10/2/15", 
+        "prize": 31300
     }, 
     "5885": {
         "attendance": 89, 
@@ -18897,16 +20107,16 @@
         "date_str": "8/1/15", 
         "prize": 6500
     }, 
-    "5888": {
-        "attendance": 28, 
+    "4757": {
+        "attendance": 18, 
         "is_state_champ": true, 
-        "name": "The Outlets @ Lake Elsinore  BBQ State Championship", 
+        "name": "Siskiyou Beef Country Cook-Off", 
         "cbj_percentage": "100%", 
         "state": "ca", 
-        "location": "Lake Elsinore, CA", 
-        "date_order": 150911, 
-        "date_str": "9/11/15", 
-        "prize": 5000
+        "location": "Montague, CA", 
+        "date_order": 140725, 
+        "date_str": "7/25/14", 
+        "prize": 8000
     }, 
     "6554": {
         "attendance": 20, 
@@ -19282,16 +20492,16 @@
         "date_str": "4/8/16", 
         "prize": 4000
     }, 
-    "4649": {
-        "attendance": 87, 
+    "6012": {
+        "attendance": 35, 
         "is_state_champ": true, 
-        "name": "Sugar Mound BBQ Festival", 
-        "cbj_percentage": "NA", 
-        "state": "ks", 
-        "location": "Mound City, KS", 
-        "date_order": 140524, 
-        "date_str": "5/24/14", 
-        "prize": 14500
+        "name": "NYC BBQ Cookoff", 
+        "cbj_percentage": "100%", 
+        "state": "ny", 
+        "location": "Staten Island, NY", 
+        "date_order": 160408, 
+        "date_str": "4/8/16", 
+        "prize": 5650
     }, 
     "6015": {
         "attendance": 41, 
@@ -19315,16 +20525,16 @@
         "date_str": "8/26/16", 
         "prize": 7500
     }, 
-    "6019": {
-        "attendance": 26, 
+    "4642": {
+        "attendance": 36, 
         "is_state_champ": true, 
-        "name": "Mississippi Springfest BBQ Contest", 
-        "cbj_percentage": "100%", 
-        "state": "ms", 
-        "location": "Ashland, MS", 
-        "date_order": 160513, 
-        "date_str": "5/13/16", 
-        "prize": 6500
+        "name": "BBQ'Loo & Blues Too!", 
+        "cbj_percentage": "NA", 
+        "state": "ia", 
+        "location": "Waterloo, IA", 
+        "date_order": 140718, 
+        "date_str": "7/18/14", 
+        "prize": 10000
     }, 
     "6018": {
         "attendance": 25, 
@@ -19337,16 +20547,16 @@
         "date_str": "9/9/16", 
         "prize": 5000
     }, 
-    "4852": {
-        "attendance": 43, 
+    "4641": {
+        "attendance": 39, 
         "is_state_champ": true, 
-        "name": "Grillin N Chillin BBQ", 
+        "name": "Plant City Pig Jam", 
         "cbj_percentage": "100%", 
-        "state": "ky", 
-        "location": "Owensboro, KY", 
-        "date_order": 140926, 
-        "date_str": "9/26/14", 
-        "prize": 8000
+        "state": "fl", 
+        "location": "Plant City, FL", 
+        "date_order": 141121, 
+        "date_str": "11/21/14", 
+        "prize": 16450
     }, 
     "4646": {
         "attendance": 26, 
@@ -19371,7 +20581,7 @@
         "prize": 0
     }, 
     "5151": {
-        "attendance": 25, 
+        "attendance": 24, 
         "is_state_champ": true, 
         "name": "International Goat Days Festival BBQ Bash", 
         "cbj_percentage": "100%", 
@@ -19402,6 +20612,17 @@
         "date_order": 140822, 
         "date_str": "8/22/14", 
         "prize": 15000
+    }, 
+    "4852": {
+        "attendance": 43, 
+        "is_state_champ": true, 
+        "name": "Grillin N Chillin BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "ky", 
+        "location": "Owensboro, KY", 
+        "date_order": 140926, 
+        "date_str": "9/26/14", 
+        "prize": 8000
     }, 
     "4800": {
         "attendance": 53, 
@@ -19447,16 +20668,16 @@
         "date_str": "6/6/14", 
         "prize": 10000
     }, 
-    "4807": {
-        "attendance": 70, 
+    "4485": {
+        "attendance": 46, 
         "is_state_champ": true, 
-        "name": "Wheels 'N' Squeels BBQ Challenge", 
+        "name": "Smokin in the Square", 
         "cbj_percentage": "100%", 
-        "state": "ks", 
-        "location": "Olathe, KS", 
-        "date_order": 140801, 
-        "date_str": "8/1/14", 
-        "prize": 9450
+        "state": "fl", 
+        "location": "Pensacola, FL", 
+        "date_order": 140307, 
+        "date_str": "3/7/14", 
+        "prize": 9400
     }, 
     "4808": {
         "attendance": 32, 
@@ -19601,6 +20822,39 @@
         "date_str": "6/30/17", 
         "prize": 7000
     }, 
+    "7271": {
+        "attendance": 39, 
+        "is_state_champ": true, 
+        "name": "Big Brother Big Sister Riverfest", 
+        "cbj_percentage": "100%", 
+        "state": "al", 
+        "location": "Decatur, AL", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 14000
+    }, 
+    "7277": {
+        "attendance": 19, 
+        "is_state_champ": true, 
+        "name": "*Smoke in the Valley", 
+        "cbj_percentage": "95%", 
+        "state": "tn", 
+        "location": "Pikeville, TN", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 0
+    }, 
+    "7274": {
+        "attendance": 17, 
+        "is_state_champ": true, 
+        "name": "*Smokin on the Rez BBQ and Music Festival (DAY2) (JUDGES LIST FULL)", 
+        "cbj_percentage": "100%", 
+        "state": "ms", 
+        "location": "Ridgeland, MS", 
+        "date_order": 170916, 
+        "date_str": "9/16/17", 
+        "prize": 3525
+    }, 
     "7275": {
         "attendance": 58, 
         "is_state_champ": true, 
@@ -19645,16 +20899,16 @@
         "date_str": "8/15/14", 
         "prize": 2000
     }, 
-    "7279": {
-        "attendance": 22, 
+    "5080": {
+        "attendance": 20, 
         "is_state_champ": true, 
-        "name": "*BBQ Throw Down", 
-        "cbj_percentage": "96%", 
-        "state": "mi", 
-        "location": "Wyandotte, MI", 
-        "date_order": 170519, 
-        "date_str": "5/19/17", 
-        "prize": 8000
+        "name": "Rock'n Ribville", 
+        "cbj_percentage": "100%", 
+        "state": "ga", 
+        "location": "Lawrenceville, GA", 
+        "date_order": 141010, 
+        "date_str": "10/10/14", 
+        "prize": 5300
     }, 
     "5087": {
         "attendance": 26, 
@@ -19821,16 +21075,27 @@
         "date_str": "10/9/15", 
         "prize": 7900
     }, 
-    "4398": {
-        "attendance": 17, 
+    "6547": {
+        "attendance": 55, 
         "is_state_champ": true, 
-        "name": "Brentwood Cook Off and Car Show", 
-        "cbj_percentage": "NA", 
-        "state": "ca", 
-        "location": "Brentwood, CA", 
-        "date_order": 130809, 
-        "date_str": "8/9/13", 
-        "prize": 4000
+        "name": "CIBR-BBQ Central Illinois Bragging Right BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "il", 
+        "location": "Authur, IL", 
+        "date_order": 161014, 
+        "date_str": "10/14/16", 
+        "prize": 12080
+    }, 
+    "7080": {
+        "attendance": 39, 
+        "is_state_champ": true, 
+        "name": "Rock'n Ribville (GBC QUALIFIER)", 
+        "cbj_percentage": "100%", 
+        "state": "ga", 
+        "location": "Lawrenceville, GA", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 10000
     }, 
     "7083": {
         "attendance": 49, 
@@ -19843,27 +21108,27 @@
         "date_str": "2/17/17", 
         "prize": 10000
     }, 
-    "7085": {
-        "attendance": 26, 
+    "5429": {
+        "attendance": 16, 
         "is_state_champ": true, 
-        "name": "*Chillin & Grillin In The Glades", 
-        "cbj_percentage": "100%", 
-        "state": "va", 
-        "location": "Wise, VA", 
-        "date_order": 170714, 
-        "date_str": "7/14/17", 
-        "prize": 7500
+        "name": "Rock'N RibFest 2015", 
+        "cbj_percentage": "69%", 
+        "state": "nh", 
+        "location": "Merrimack, NH", 
+        "date_order": 150620, 
+        "date_str": "6/20/15", 
+        "prize": 6300
     }, 
-    "7084": {
-        "attendance": 65, 
+    "5428": {
+        "attendance": 32, 
         "is_state_champ": true, 
-        "name": "Smokin' On The Summit", 
-        "cbj_percentage": "99%", 
+        "name": "Hott Butts BBQ Contest", 
+        "cbj_percentage": "100%", 
         "state": "mo", 
-        "location": "Lee's Summit, MO", 
-        "date_order": 170602, 
-        "date_str": "6/2/17", 
-        "prize": 10000
+        "location": "Boonville, MO", 
+        "date_order": 150605, 
+        "date_str": "6/5/15", 
+        "prize": 0
     }, 
     "7087": {
         "attendance": 43, 
@@ -19986,27 +21251,27 @@
         "date_str": "6/16/17", 
         "prize": 5000
     }, 
-    "6493": {
-        "attendance": 43, 
+    "4248": {
+        "attendance": 56, 
         "is_state_champ": true, 
-        "name": "Cherokee Strip BBQ Cook-Off", 
+        "name": "Ak-Sar-Ben's River City Rodeo & Stock Show", 
         "cbj_percentage": "100%", 
-        "state": "ok", 
-        "location": "Ponca City, OK", 
-        "date_order": 160916, 
-        "date_str": "9/16/16", 
-        "prize": 12900
+        "state": "ne", 
+        "location": "Omaha, NE", 
+        "date_order": 130927, 
+        "date_str": "9/27/13", 
+        "prize": 6900
     }, 
-    "6492": {
-        "attendance": 25, 
+    "4249": {
+        "attendance": 58, 
         "is_state_champ": true, 
-        "name": "Knights of Columbus BBQ Smoke Off", 
-        "cbj_percentage": "99%", 
-        "state": "ks", 
-        "location": "Kansas City, KS", 
-        "date_order": 160617, 
-        "date_str": "6/17/16", 
-        "prize": 1780
+        "name": "Racing For The BBQ", 
+        "cbj_percentage": "100%", 
+        "state": "mo", 
+        "location": "Lee's Summit, MO", 
+        "date_order": 130726, 
+        "date_str": "7/26/13", 
+        "prize": 4600
     }, 
     "4245": {
         "attendance": 68, 
@@ -20019,16 +21284,16 @@
         "date_str": "8/23/13", 
         "prize": 5530
     }, 
-    "5631": {
-        "attendance": 30, 
-        "is_state_champ": false, 
-        "name": "Sam's Club National BBQ Tour (Regional)", 
-        "cbj_percentage": "100%", 
-        "state": "nv", 
-        "location": "Las Vegas, NV", 
-        "date_order": 150424, 
-        "date_str": "4/24/15", 
-        "prize": 20000
+    "4395": {
+        "attendance": 23, 
+        "is_state_champ": true, 
+        "name": "Bucksaw Band & BBQ", 
+        "cbj_percentage": "NA", 
+        "state": "mo", 
+        "location": "Clinton, MO", 
+        "date_order": 130913, 
+        "date_str": "9/13/13", 
+        "prize": 6450
     }, 
     "5520": {
         "attendance": 27, 
@@ -20118,16 +21383,27 @@
         "date_str": "5/8/15", 
         "prize": 0
     }, 
-    "6942": {
-        "attendance": 23, 
+    "6943": {
+        "attendance": 31, 
         "is_state_champ": true, 
-        "name": "Atlanta BBQ Classic (At Atlanta Motor Speedway)", 
+        "name": "Ribs, Rod & Rock'n Roll", 
         "cbj_percentage": "100%", 
-        "state": "ga", 
-        "location": "Hampton , GA", 
-        "date_order": 170422, 
-        "date_str": "4/22/17", 
-        "prize": 10000
+        "state": "sd", 
+        "location": "Vermillion, SD", 
+        "date_order": 170908, 
+        "date_str": "9/8/17", 
+        "prize": 9000
+    }, 
+    "5529": {
+        "attendance": 29, 
+        "is_state_champ": true, 
+        "name": "Boots & BBQ Festival", 
+        "cbj_percentage": "100%", 
+        "state": "ok", 
+        "location": "Claremore, OK", 
+        "date_order": 150508, 
+        "date_str": "5/8/15", 
+        "prize": 9450
     }, 
     "6941": {
         "attendance": 25, 
@@ -20140,16 +21416,27 @@
         "date_str": "7/15/17", 
         "prize": 4000
     }, 
-    "4397": {
-        "attendance": 41, 
+    "6940": {
+        "attendance": 28, 
         "is_state_champ": true, 
-        "name": "Cowboy Up at the PRCA Rodeo & BBQ", 
-        "cbj_percentage": "95%", 
-        "state": "ca", 
-        "location": "Lancaster, CA", 
-        "date_order": 131018, 
-        "date_str": "10/18/13", 
-        "prize": 10000
+        "name": "*Rock'n Brews & BBQ Festival", 
+        "cbj_percentage": "96%", 
+        "state": "id", 
+        "location": "Boise, ID", 
+        "date_order": 170915, 
+        "date_str": "9/15/17", 
+        "prize": 9500
+    }, 
+    "6947": {
+        "attendance": 44, 
+        "is_state_champ": true, 
+        "name": "Smoke in the Park", 
+        "cbj_percentage": "NA", 
+        "state": "pa", 
+        "location": "Lemoyne, PA", 
+        "date_order": 170922, 
+        "date_str": "9/22/17", 
+        "prize": 0
     }, 
     "6946": {
         "attendance": 49, 
@@ -20162,16 +21449,27 @@
         "date_str": "5/19/17", 
         "prize": 14900
     }, 
-    "6547": {
-        "attendance": 55, 
+    "7132": {
+        "attendance": 50, 
         "is_state_champ": true, 
-        "name": "CIBR-BBQ Central Illinois Bragging Right BBQ", 
-        "cbj_percentage": "100%", 
-        "state": "il", 
-        "location": "Authur, IL", 
-        "date_order": 161014, 
-        "date_str": "10/14/16", 
-        "prize": 12080
+        "name": "Eastern Carolina BBQ Throw Down", 
+        "cbj_percentage": "NA", 
+        "state": "nc", 
+        "location": "Rocky Mount, NC", 
+        "date_order": 171013, 
+        "date_str": "10/13/17", 
+        "prize": 20000
+    }, 
+    "4398": {
+        "attendance": 16, 
+        "is_state_champ": true, 
+        "name": "Brentwood Cook Off and Car Show", 
+        "cbj_percentage": "NA", 
+        "state": "ca", 
+        "location": "Brentwood, CA", 
+        "date_order": 130809, 
+        "date_str": "8/9/13", 
+        "prize": 4000
     }, 
     "6546": {
         "attendance": 26, 
@@ -20261,16 +21559,16 @@
         "date_str": "4/17/15", 
         "prize": 10000
     }, 
-    "4395": {
-        "attendance": 23, 
-        "is_state_champ": true, 
-        "name": "Bucksaw Band & BBQ", 
-        "cbj_percentage": "NA", 
-        "state": "mo", 
-        "location": "Clinton, MO", 
-        "date_order": 130913, 
-        "date_str": "9/13/13", 
-        "prize": 6450
+    "5631": {
+        "attendance": 30, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour (Regional)", 
+        "cbj_percentage": "100%", 
+        "state": "nv", 
+        "location": "Las Vegas, NV", 
+        "date_order": 150424, 
+        "date_str": "4/24/15", 
+        "prize": 20000
     }, 
     "5632": {
         "attendance": 30, 
@@ -20283,15 +21581,15 @@
         "date_str": "6/5/15", 
         "prize": 10000
     }, 
-    "6548": {
-        "attendance": 38, 
-        "is_state_champ": true, 
-        "name": "Plant City Pig Jam", 
+    "5633": {
+        "attendance": 29, 
+        "is_state_champ": false, 
+        "name": "Sam's Club National BBQ Tour", 
         "cbj_percentage": "100%", 
-        "state": "fl", 
-        "location": "Plant City, FL", 
-        "date_order": 161118, 
-        "date_str": "11/18/16", 
-        "prize": 15000
+        "state": "sc", 
+        "location": "N. Charleston, SC", 
+        "date_order": 150612, 
+        "date_str": "6/12/15", 
+        "prize": 10000
     }
 }

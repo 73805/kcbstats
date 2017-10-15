@@ -1,97 +1,97 @@
 {
     "va": {
-        "teams_competed": 666, 
+        "teams_competed": 686, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 8028.448275862069, 
+        "prize_avg": 8130.952380952381, 
         "region": "south", 
         "fullname": "Virginia"
     }, 
     "co": {
-        "teams_competed": 474, 
+        "teams_competed": 490, 
         "exists": true, 
         "hot_month": "June", 
-        "prize_avg": 10428.921568627451, 
+        "prize_avg": 9960.648148148148, 
         "region": "west", 
         "fullname": "Colorado"
     }, 
     "ca": {
-        "teams_competed": 1145, 
+        "teams_competed": 1154, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 10383.783783783783, 
+        "prize_avg": 10537.280701754386, 
         "region": "west", 
         "fullname": "California"
     }, 
     "al": {
-        "teams_competed": 706, 
+        "teams_competed": 721, 
         "exists": true, 
-        "hot_month": "May", 
-        "prize_avg": 8557.244897959185, 
+        "hot_month": "September", 
+        "prize_avg": 8496.176470588236, 
         "region": "south", 
         "fullname": "Alabama"
     }, 
     "ar": {
-        "teams_competed": 691, 
+        "teams_competed": 755, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 22210.232558139534, 
+        "prize_avg": 20126.8, 
         "region": "south", 
         "fullname": "Arkansas"
     }, 
     "vt": {
-        "teams_competed": 103, 
+        "teams_competed": 112, 
         "exists": true, 
         "hot_month": "July", 
-        "prize_avg": 5299.285714285715, 
+        "prize_avg": 5148.75, 
         "region": "northeast", 
         "fullname": "Vermont"
     }, 
     "il": {
-        "teams_competed": 838, 
+        "teams_competed": 851, 
         "exists": true, 
         "hot_month": "June", 
-        "prize_avg": 7395.14705882353, 
+        "prize_avg": 7634.788732394366, 
         "region": "midwest", 
         "fullname": "Illinois"
     }, 
     "ga": {
-        "teams_competed": 1041, 
+        "teams_competed": 1049, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 11697.038834951456, 
+        "prize_avg": 11763.632075471698, 
         "region": "south", 
         "fullname": "Georgia"
     }, 
     "in": {
-        "teams_competed": 499, 
+        "teams_competed": 512, 
         "exists": true, 
         "hot_month": "July", 
-        "prize_avg": 6538.2, 
+        "prize_avg": 6451.153846153846, 
         "region": "midwest", 
         "fullname": "Indiana"
     }, 
     "ia": {
-        "teams_competed": 544, 
+        "teams_competed": 561, 
         "exists": true, 
         "hot_month": "July", 
-        "prize_avg": 7358.11320754717, 
+        "prize_avg": 7310.357142857143, 
         "region": "midwest", 
         "fullname": "Iowa"
     }, 
     "az": {
-        "teams_competed": 260, 
+        "teams_competed": 267, 
         "exists": true, 
         "hot_month": "May", 
-        "prize_avg": 10654.761904761905, 
+        "prize_avg": 10625.0, 
         "region": "southwest", 
         "fullname": "Arizona"
     }, 
     "id": {
-        "teams_competed": 25, 
+        "teams_competed": 41, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 5100.0, 
+        "prize_avg": 7300.0, 
         "region": "west", 
         "fullname": "Idaho"
     }, 
@@ -112,15 +112,15 @@
         "fullname": "New Hampshire"
     }, 
     "nj": {
-        "teams_competed": 321, 
+        "teams_competed": 351, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 12381.25, 
+        "prize_avg": 12057.894736842105, 
         "region": "northeast", 
         "fullname": "New Jersey"
     }, 
     "nm": {
-        "teams_competed": 206, 
+        "teams_competed": 205, 
         "exists": true, 
         "hot_month": "June", 
         "prize_avg": 13000.0, 
@@ -128,26 +128,26 @@
         "fullname": "New Mexico"
     }, 
     "tx": {
-        "teams_competed": 858, 
+        "teams_competed": 899, 
         "exists": true, 
-        "hot_month": "March", 
-        "prize_avg": 9506.451612903225, 
+        "hot_month": "October", 
+        "prize_avg": 9035.29411764706, 
         "region": "south", 
         "fullname": "Texas"
     }, 
     "la": {
-        "teams_competed": 241, 
+        "teams_competed": 246, 
         "exists": true, 
         "hot_month": "March", 
-        "prize_avg": 9700.0, 
+        "prize_avg": 9145.833333333334, 
         "region": "south", 
         "fullname": "Louisiana"
     }, 
     "nc": {
-        "teams_competed": 781, 
+        "teams_competed": 809, 
         "exists": true, 
-        "hot_month": "June", 
-        "prize_avg": 12005.882352941177, 
+        "hot_month": "September", 
+        "prize_avg": 11987.297297297297, 
         "region": "south", 
         "fullname": "North Carolina"
     }, 
@@ -160,34 +160,34 @@
         "fullname": "North Dakota"
     }, 
     "ne": {
-        "teams_competed": 476, 
+        "teams_competed": 490, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 8894.57142857143, 
+        "prize_avg": 8915.135135135135, 
         "region": "midwest", 
         "fullname": "Nebraska"
     }, 
     "tn": {
-        "teams_competed": 1219, 
+        "teams_competed": 1257, 
         "exists": true, 
-        "hot_month": "May", 
-        "prize_avg": 9163.76404494382, 
+        "hot_month": "September", 
+        "prize_avg": 8977.127659574468, 
         "region": "south", 
         "fullname": "Tennessee"
     }, 
     "ny": {
-        "teams_competed": 543, 
+        "teams_competed": 549, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 6047.948717948718, 
+        "prize_avg": 5967.5609756097565, 
         "region": "northeast", 
         "fullname": "New York"
     }, 
     "pa": {
-        "teams_competed": 492, 
+        "teams_competed": 523, 
         "exists": true, 
-        "hot_month": "June", 
-        "prize_avg": 6153.289473684211, 
+        "hot_month": "August", 
+        "prize_avg": 5994.642857142857, 
         "region": "northeast", 
         "fullname": "Pennsylvania"
     }, 
@@ -200,10 +200,10 @@
         "fullname": "Alaska"
     }, 
     "nv": {
-        "teams_competed": 484, 
+        "teams_competed": 490, 
         "exists": true, 
         "hot_month": "May", 
-        "prize_avg": 21881.25, 
+        "prize_avg": 22278.78787878788, 
         "region": "west", 
         "fullname": "Nevada"
     }, 
@@ -224,10 +224,10 @@
         "fullname": "Delaware"
     }, 
     "wi": {
-        "teams_competed": 560, 
+        "teams_competed": 593, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 6719.508196721312, 
+        "prize_avg": 6844.705882352941, 
         "region": "midwest", 
         "fullname": "Wisconsin"
     }, 
@@ -248,10 +248,10 @@
         "fullname": "Hawaii"
     }, 
     "ma": {
-        "teams_competed": 124, 
+        "teams_competed": 131, 
         "exists": true, 
         "hot_month": "October", 
-        "prize_avg": 4050.0, 
+        "prize_avg": 4094.4444444444443, 
         "region": "northeast", 
         "fullname": "Massachusetts"
     }, 
@@ -264,23 +264,23 @@
         "fullname": "Florida"
     }, 
     "wy": {
-        "teams_competed": 175, 
+        "teams_competed": 180, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 7698.4375, 
+        "prize_avg": 7716.176470588235, 
         "region": "west", 
         "fullname": "Wyoming"
     }, 
     "me": {
-        "teams_competed": 84, 
+        "teams_competed": 96, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 6785.714285714285, 
+        "prize_avg": 8062.5, 
         "region": "northeast", 
         "fullname": "Maine"
     }, 
     "md": {
-        "teams_competed": 489, 
+        "teams_competed": 487, 
         "exists": true, 
         "hot_month": "August", 
         "prize_avg": 9324.242424242424, 
@@ -288,50 +288,50 @@
         "fullname": "Maryland"
     }, 
     "ok": {
-        "teams_competed": 848, 
+        "teams_competed": 859, 
         "exists": true, 
-        "hot_month": "May", 
-        "prize_avg": 9018.243243243243, 
+        "hot_month": "September", 
+        "prize_avg": 9206.02564102564, 
         "region": "south", 
         "fullname": "Oklahoma"
     }, 
     "oh": {
-        "teams_competed": 282, 
+        "teams_competed": 298, 
         "exists": true, 
         "hot_month": "October", 
-        "prize_avg": 7141.714285714285, 
+        "prize_avg": 7390.260869565217, 
         "region": "midwest", 
         "fullname": "Ohio"
     }, 
     "ut": {
-        "teams_competed": 101, 
+        "teams_competed": 108, 
         "exists": true, 
         "hot_month": "April", 
-        "prize_avg": 10000.0, 
+        "prize_avg": 9300.0, 
         "region": "west", 
         "fullname": "Utah"
     }, 
     "mo": {
-        "teams_competed": 2693, 
+        "teams_competed": 2743, 
         "exists": true, 
-        "hot_month": "May", 
-        "prize_avg": 6945.0297619047615, 
+        "hot_month": "September", 
+        "prize_avg": 6958.181818181818, 
         "region": "midwest", 
         "fullname": "Missouri"
     }, 
     "mn": {
-        "teams_competed": 471, 
+        "teams_competed": 485, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 8233.08695652174, 
+        "prize_avg": 8104.530612244898, 
         "region": "midwest", 
         "fullname": "Minnesota"
     }, 
     "mi": {
-        "teams_competed": 270, 
+        "teams_competed": 295, 
         "exists": true, 
         "hot_month": "August", 
-        "prize_avg": 7527.586206896552, 
+        "prize_avg": 7493.939393939394, 
         "region": "midwest", 
         "fullname": "Michigan"
     }, 
@@ -344,42 +344,42 @@
         "fullname": "Rhode Island"
     }, 
     "ks": {
-        "teams_competed": 2208, 
+        "teams_competed": 2409, 
         "exists": true, 
-        "hot_month": "June", 
-        "prize_avg": 6725.718954248366, 
+        "hot_month": "September", 
+        "prize_avg": 7278.611111111111, 
         "region": "midwest", 
         "fullname": "Kansas"
     }, 
     "mt": {
-        "teams_competed": 161, 
+        "teams_competed": 180, 
         "exists": true, 
         "hot_month": "June", 
-        "prize_avg": 8319.285714285714, 
+        "prize_avg": 8506.5625, 
         "region": "west", 
         "fullname": "Montana"
     }, 
     "ms": {
-        "teams_competed": 693, 
+        "teams_competed": 703, 
         "exists": true, 
         "hot_month": "May", 
-        "prize_avg": 9255.30612244898, 
+        "prize_avg": 9062.211538461539, 
         "region": "west", 
         "fullname": "Mississippi"
     }, 
     "sc": {
-        "teams_competed": 455, 
+        "teams_competed": 458, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 9498.59375, 
+        "prize_avg": 9376.911764705883, 
         "region": "south", 
         "fullname": "South Carolina"
     }, 
     "ky": {
-        "teams_competed": 395, 
+        "teams_competed": 419, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 8911.805555555555, 
+        "prize_avg": 8944.23076923077, 
         "region": "south", 
         "fullname": "Kentucky"
     }, 
@@ -392,10 +392,10 @@
         "fullname": "Oregon"
     }, 
     "sd": {
-        "teams_competed": 242, 
+        "teams_competed": 253, 
         "exists": true, 
         "hot_month": "September", 
-        "prize_avg": 8054.761904761905, 
+        "prize_avg": 8241.304347826086, 
         "region": "midwest", 
         "fullname": "South Dakota"
     }
