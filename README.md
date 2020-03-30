@@ -20,7 +20,7 @@ I built the website using Angular4 on the front-end, and Firebase for the databa
 
 ## Check it out!
 
-Starts on a big-time team like [Iowa's Smokey D's BBQ](https://kcbstats.web.app/team/6377). They have a long history of strong performances. You can also explore by state. [Kansas](https://kcbstats.red/state/ks) has a ton of competitions, including a few with over 600 teams! The last contest I judged at was a [Sam's Club Nation BBQ Tour in CT](https://kcbstats.web.app/contest/7123) where MA locals [Smokin Hoggz BBQ](https://kcbstats.web.app/team/11410) took third place.
+Starts on a big-time team like [Iowa's Smokey D's BBQ](https://kcbstats.web.app/team/6377). They have a long history of strong performances. You can also explore by state. [Kansas](https://kcbstats.web.app/state/ks) has a ton of competitions, including a few with over 600 teams! The last contest I judged at was a [Sam's Club Nation BBQ Tour in CT](https://kcbstats.web.app/contest/7123) where MA locals [Smokin Hoggz BBQ](https://kcbstats.web.app/team/11410) took third place.
 
 [Start from home: Pick a state](https://kcbstats.web.app/states) If you're looking for a specific competition or team, you'll need to start by picking a state. Hosting is cheaper and pages load faster if I don't have to access all 15,000 team records for every user! If you're desperate to search a competition you can use the KCBS [events page](https://www.kcbs.us/events) and copy-paste the target competition's 'contest number' into the url slug https://kcbstats.web.app/contest/#### 
 
