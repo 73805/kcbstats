@@ -1,8 +1,8 @@
 # KCBS Competition Stats
 
-This repository contains all the code driving my KCBS Competition Data web app at [kcbstats.red](https://kcbstats.red/states). The repository is broken up into two main sections. First, I have a handful of Python web scraping and data processing scripts which are responsible for building the team, contest and state profiles dispayed on the website. Second, I have the actual website HTML/CSS and Angular4 Typescript code.
+This repository contains all the code driving my [KCBS Competition Data web app](https://kcbstats.web.app/states). The repository is broken up into two main sections. First, I have a handful of Python web scraping and data processing scripts which are responsible for building the team, contest and state profiles dispayed on the website. Second, I have the actual website HTML/CSS and Angular4 Typescript code.
 
-You can read about the project below, or on the website's [about page](https://kcbstats.red/about)
+You can read about the project below, or on the website's [about page](https://kcbstats.web.app/about)
 
 ## Web Scraping
 
@@ -20,9 +20,9 @@ I built the website using Angular4 on the front-end, and Firebase for the databa
 
 ## Check it out!
 
-Starts on a big-time team like [Iowa's Smokey D's BBQ](https://kcbstats.red/team/6377). They have a long history of strong performances. You can also explore by state. [Kansas](https://kcbstats.red/state/ks) has a ton of competitions, including a few with over 600 teams! The last contest I judged at was a [Sam's Club Nation BBQ Tour in CT](https://kcbstats.red/contest/7123) where MA locals [Smokin Hoggz BBQ](https://kcbstats.red/team/11410) took third place.
+Starts on a big-time team like [Iowa's Smokey D's BBQ](https://kcbstats.web.app/team/6377). They have a long history of strong performances. You can also explore by state. [Kansas](https://kcbstats.red/state/ks) has a ton of competitions, including a few with over 600 teams! The last contest I judged at was a [Sam's Club Nation BBQ Tour in CT](https://kcbstats.web.app/contest/7123) where MA locals [Smokin Hoggz BBQ](https://kcbstats.web.app/team/11410) took third place.
 
-[Start from home: Pick a state](https://kcbstats.red) If you're looking for a specific competition or team, you'll need to start by picking a state. Hosting is cheaper and pages load faster if I don't have to access all 15,000 team records for every user! If you're desperate to search a competition you can use the KCBS [events page](https://www.kcbs.us/events) and copy-paste the target competition's 'contest number' into the url slug kcbstats.red/contest/#### 
+[Start from home: Pick a state](https://kcbstats.web.app/states) If you're looking for a specific competition or team, you'll need to start by picking a state. Hosting is cheaper and pages load faster if I don't have to access all 15,000 team records for every user! If you're desperate to search a competition you can use the KCBS [events page](https://www.kcbs.us/events) and copy-paste the target competition's 'contest number' into the url slug https://kcbstats.web.app/contest/#### 
 
 ## Full Data Set
 
