@@ -1,6 +1,9 @@
 # KCBS Competition Stats
 
-This repository contains all the code driving my [KCBS Competition Data web app](https://kcbstats.web.app/states). The repository is broken up into two main sections. First, I have a handful of Python web scraping and data processing scripts which are responsible for building the team, contest and state profiles dispayed on the website. Second, I have the actual website HTML/CSS and Angular4 Typescript code.
+## Update
+The site no longer functions as the database was turned off by Google due to inactivity. 
+
+This repository contains all the code driving my KCBS Competition Data web app. The repository is broken up into two main sections. First, I have a handful of Python web scraping and data processing scripts which are responsible for building the team, contest and state profiles dispayed on the website. Second, I have the actual website HTML/CSS and Angular4 Typescript code.
 
 You can read about the project below, or on the website's [about page](https://kcbstats.web.app/about)
 
